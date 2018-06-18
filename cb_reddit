@@ -1,0 +1,1785 @@
+	permalink	company_name	funding_total_usd	status	state_code	city	funding_rounds	num_investers	num_reddit	sentiment_reddit
+0	/company/1010data	1010data	35000000	operating	NY	New York	1	1	0	
+1	/company/121nexus	121nexus	719000	operating	RI	Providence	4	5	0	
+2	/company/15five	15Five	1200000	operating	CA	San Francisco	2	8	0	
+3	/company/170-systems	170 Systems	14000000	acquired	MA	Bedford	1	1	0	
+4	/company/24pagebooks	24PageBooks		closed	NY	Rochester	1	1	0	
+5	/company/27-bards	27 bards		operating	CA	Stanford	1	1	0	
+6	/company/2nd-story-software-inc	2nd Story Software, Inc.	85000000	acquired	IA	Cedar Rapids	1	1	0	
+7	/company/30-second-showcase	30 Second Showcase	25000	operating	NJ	Clifton	1	1	0	
+8	/company/3leaf	3Leaf	65000000	operating	CA	Santa Clara	3	8	0	
+9	/company/three-pillar-global	3Pillar Global	22520000	operating	VA	Fairfax	3	2	0	
+10	/company/4blox	4Blox		operating	CA	San Jose	1	1	0	
+11	/company/4home	4Home	9146354	acquired	CA	Sunnyvale	5	2	0	
+12	/company/6th-sense-analytics	6th Sense Analytics	6700000	acquired	NC	Morrisville	2	3	0	
+13	/company/7-billion-people	7 Billion People	7952804	operating	TX	Austin	4	1	73	Negative
+14	/company/9lenses	9Lenses	3000000	operating	VA	Leesburg	1	2	0	
+15	/company/a-la-mobile	A la Mobile	7550000	operating	KS	San Ramon	2	1	7	Negative
+16	/company/abpathfinder	ABPathfinder	400000	operating	KS	Overland Park	1	3	0	
+17	/company/accela	Accela	35000000	operating	CA	San Ramon	1	1	0	
+18	/company/accellos	Accellos	51400000	operating	CO	Colorado Springs	3	5	0	
+19	/company/accept-software	Accept Software	25305000	acquired	CA	Santa Clara	4	4	33	Positive
+20	/company/accruit	Accruit	3315000	operating	CO	Denver	1	1	5	Negative
+21	/company/accudraft	AccuDraft	650000	operating	FL	Lake Mary	1	1	0	
+22	/company/accupost-corporation	Accupost Corporation		acquired	CO	Littleton	1	1	0	
+23	/company/accurev	AccuRev	2100000	operating	MA	Concord	1	1	0	
+24	/company/aceva-technologies	Aceva Technologies	5280000	acquired	CA	San Mateo	1	3	0	
+25	/company/achieve-x	Achieve X	150000	operating	PA	Conshohocken	1	1	15	Positive
+26	/company/achievers	Achievers	49122326	operating	CA	San Francisco	4	12	15	Positive
+27	/company/aconex	Aconex	85000000	operating	CA	San Bruno	1	1	0	
+28	/company/acronis	Acronis	11000000	operating	MA	Burlington	1	2	0	
+29	/company/acsis	Acsis	6000000	operating	NJ	Marlton	1	1	0	
+30	/company/actiance	Actiance	15600000	operating	CA	Belmont	1	4	0	
+31	/company/action-products-international	Action Products International	10150000	operating	NY	New York	2	1	5	Negative
+32	/company/activ-financial-systems	ACTIV Financial Systems	25000000	operating	IL	Chicago	1	1	0	
+33	/company/activenetwork	ACTIVE Network	213900000	ipo	CA	San Diego	8	37	53	Negative
+34	/company/activetrak	ActiveTrak	500000	operating	OR	Portland	1	1	0	
+35	/company/adaptive-planning	Adaptive Planning	84500000	operating	CA	Mountain View	4	18	0	
+36	/company/adapx	Adapx	30000000	operating	WA	Seattle	5	16	0	
+37	/company/adesso-solutions	Adesso Solutions	6000000	operating	IL	Rolling Meadows	1	1	0	
+38	/company/advanced-marketing-media-group	Advanced Marketing & Media Group	500000	operating	CT	Stamford	1	1	0	
+39	/company/aegis-identity-software	Aegis Identity Software	2842900	operating	CO	Englewood	5	1	0	
+40	/company/affinnova	Affinnova	10500000	operating	MA	Waltham	2	3	0	
+41	/company/afterbot	afterBOT	1718955	operating	GA	Norcross	2	1	0	
+42	/company/agility-design-solutions	Agility Design Solutions	7000000	operating	CA	Palo Alto	1	3	0	
+43	/company/agily-networks	Agily Networks	250000	operating	CA	San Jose	1	1	0	
+44	/company/agistics	Agistics	2000000	acquired	CA	Pleasanton	1	1	0	
+45	/company/agitar	Agitar	10000000	operating	RI	Cranston	1	3	0	
+46	/company/ahalogy	Ahalogy	1650000	operating	OH	Cincinnati	3	11	0	
+47	/company/aidin	Aidin	600000	operating	NY	New York	1	4	0	
+48	/company/airsage	AirSage	6000000	operating	GA	Atlanta	1	1	0	
+49	/company/airsis	AIRSIS	2000000	operating	CA	San Diego	2	2	0	
+50	/company/airwide-solutions	Airwide Solutions	25000000	acquired	MA	Burlington	1	5	0	
+51	/company/akimbi-systems	Akimbi Systems	8000000	operating	CA	San Mateo	1	3	0	
+52	/company/akorri	Akorri Networks	48730000	acquired	MA	Littleton	4	9	0	
+53	/company/alarmpointsystems	AlarmPointSystems	7500000	operating	CA	Pleasanton	2	1	0	
+54	/company/aldis	Aldis	9780000	operating	TN	Oak Ridge	2	7	8	Positive
+55	/company/alignent-software	Alignent Software	6000000	acquired	CA	Carlsbad	1	2	0	
+56	/company/aligo	Aligo	7920000	operating	CA	San Francisco	1	4	0	
+57	/company/allegiance	Allegiance	31854370	operating	UT	South Jordan	3	6	50	Negative
+58	/company/allegro-development-corporation	Allegro Development Corporation		operating	TX	Dallas	1	2	0	
+59	/company/alorum	Alorum	191500	operating	FL		1	2	0	
+60	/company/alterpoint	AlterPoint	26800000	acquired	TX	Austin	3	3	0	
+61	/company/altos-design-automation	Altos Design Automation	1500000	operating	CA	San Jose	1	1	0	
+62	/company/amadesa	Amadesa	12800000	closed	IL	Evanston	2	2	0	
+63	/company/ambassador	Ambassador	18000	operating	MI	Birmingham	3	5	26	Negative
+64	/company/amcom-software	Amcom Software		acquired	MN	Eden Prairie	1	2	0	
+65	/company/amitive	Amitive	16000000	operating	CA	San Mateo	1	2	0	
+66	/company/amvonet	AMVONET	250000	operating	OH	Alliance	1	1	0	
+67	/company/anafore	Anafore		operating	CA	Torrance	1	1	0	
+68	/company/anaqua	Anaqua	100000000	operating	MA	Boston	1	1	0	
+69	/company/andrews-consulting-group	Andrews Consulting Group	1000000	operating	CT	Cheshire	1	1	0	
+70	/company/angstro	Angstro	225000	acquired	CA	Palo Alto	1	1	0	
+71	/company/animated-speech	Animated Speech	250000	operating	CA	San Francisco	1	3	0	
+72	/company/nokeena	Ankeena Networks	31828793	acquired	CA	Santa Clara	3	5	0	
+73	/company/anomaly-innovations	Anomaly Innovations		operating	CA	San Francisco	1	1	0	
+74	/company/anthology-solutions	Anthology Solutions	10000000	operating	CA	Santa Clara	1	2	0	
+75	/company/anystream	Anystream	59000000	acquired	VA	Dulles	3	6	0	
+76	/company/ape-software	ApeSoft	3800000	operating	VA	Herndon	1	2	0	
+77	/company/apiary	Apiary	1750000	operating	CA	San Francisco	2	6	0	
+78	/company/apmetrix	Apmetrix		operating	CA	San Diego	1	3	0	
+79	/company/appassure-software	AppAssure Software	6000000	acquired	VA	Reston	1	1	0	
+80	/company/appdynamics	AppDynamics	86500000	operating	CA	San Francisco	4	11	0	
+81	/company/appian	Appian	10000000	operating	VA	Reston	1	1	0	
+82	/company/application-experts	Application Experts	18000	operating	CO	Broomfield	1	1	9	Positive
+83	/company/application-security	Application Security	10000000	operating	NY	New York	1	2	37	Positive
+84	/company/applied-computational-technologies	Applied Computational Technologies	200000	operating	PA	Windber	1	2	0	
+85	/company/applied-predictive-technologies	Applied Predictive Technologies	54000000	operating	VA	Arlington	1	1	0	
+86	/company/appneta	AppNeta	47800000	operating	MA	SOUTH BOSTON	4	16	0	
+87	/company/appnomic	Appnomic Systems	11700000	operating	CA	Bangalore	3	3	0	
+88	/company/apprenda	Apprenda	15000000	operating	NY	Clifton Park	2	5	0	
+89	/company/appscio	Appscio	7000000	operating	CA	Freedom	2	2	0	
+90	/company/appsembler	Appsembler	118000	operating	MA	Cambridge	1	1	0	
+91	/company/appstores-com	Appstores.com	1155000	acquired	CA	San Francisco	2	19	0	
+92	/company/apptank	AppTank		operating	OK	Jenks	1	1	0	
+93	/company/apreso-classroom	Apreso Classroom	15000000	operating	VA	Dulles	1	3	0	
+94	/company/apriori-technologies	aPriori Technologies	20400000	operating	MA	Concord	4	5	0	
+95	/company/aptana	Aptana	7800000	acquired	CA	San Mateo	1	2	1	Negative
+96	/company/apttus	Apttus	37000000	operating	CA	San Mateo	1	3	0	
+97	/company/aragon	Aragon Consulting Group	2500000	operating	CA	Redwood City	1	1	0	
+98	/company/arc-solutions	Arc Solutions	3000000	operating	NC	Durham	2	4	0	
+99	/company/arch-rock-corporationarch-rock-corporation	Arch Rock Corporation	15000000	acquired	CA	San Francisco	2	6	0	
+100	/company/archivas	Archivas	12000000	operating	MA	Waltham	1	3	0	
+101	/company/arcsight-inc	ArcSight	26914000	acquired	CA	Cupertino	3	6	0	
+102	/company/arcsoft	ArcSoft	20000000	operating	CA	Fremont	1	2	0	
+103	/company/are-you-a-human	Are You a Human	1551000	operating	MI	Detroit	4	9	1483	Positive
+104	/company/argyle	Argyle Social	1565000	operating	NC	Durham	2	2	0	
+105	/company/aricent	Aricent Group	64700000	operating	NJ	East Brunswick	2	3	0	
+106	/company/arigo	Arigo	5000000	operating	MA	North Billercia	1	1	0	
+107	/company/arithmatica	Arithmatica	622000	operating	CA	Redwood City	1	2	0	
+108	/company/arkeia-software	Arkeia Software	4080000	operating	CA	Carlsbad	1	2	0	
+109	/company/arraycomm	ArrayComm	30000000	operating	CA	San Jose	1	2	0	
+110	/company/arrayent	Arrayent	738309	operating	CA	Redwood City	2	2	0	
+111	/company/article-one-partners	Article One Partners	10000000	operating	NY	New York	2	2	16	Negative
+112	/company/artsapp	ArtsApp		acquired	MN	Minneapolis	1	2	0	
+113	/company/aruspex	Aruspex	3770000	operating	CA	San Francisco	1	1	0	
+114	/company/asana	Asana	38200000	operating	CA	San Francisco	4	20	7	Negative
+115	/company/assia	ASSIA	52344067	operating	CA	Redwood City	4	15	0	
+116	/company/astoria-software	Astoria Software		acquired	CA	San Francisco	1	4	0	
+117	/company/astrolome	AstroloMe	300000	operating			1	1	0	
+118	/company/at-the-pool	At The Pool	750000	operating	CA	Santa Monica	1	3	371	Negative
+119	/company/athena-design-systems	Athena Design Systems	4000000	operating	CA	Santa Clara	1	6	0	
+120	/company/atieva	Atieva	31000000	operating	CA	Redwood City	2	2	0	
+121	/company/atrenta	Atrenta	33041651	operating	CA	San Jose	4	8	0	
+122	/company/attachments-me	Attachments.me	2500000	operating	CA	San Francisco	2	2	0	
+123	/company/attainia	Attainia	800000	operating	CA	Mountain View	1	2	0	
+124	/company/attendio	Attendio	965000	operating	CA	Mountain View	1	2	0	
+125	/company/attendware	Attendware	1000000	operating	MA	Boston	1	1	0	
+126	/company/attenex	Attenex	5000000	acquired	WA	Seattle	1	1	0	
+127	/company/attila-technologies	Attila Technologies		operating	NJ	Hoboken	1	1	0	
+128	/company/attributor	Attributor	25200000	acquired	CA	San Mateo	4	16	1	Positive
+129	/company/attunity	Attunity	10500000	ipo	MA	Burlington	4	4	0	
+130	/company/audax-health-solutions	Audax Health Solutions	40959128	operating	DC	Washington	2	1	0	
+131	/company/audible-magic	Audible Magic	1280000	operating	CA	Los Gatos	1	2	0	
+132	/company/austin-logistics-incorporated	Austin Logistics Incorporated	8000000	operating	TX	Austin	1	5	0	
+133	/company/authentium	Authentium	21000000	operating	FL	Palm Beach Gardens	2	10	0	
+134	/company/authernative	Authernative	2500000	operating	CA	Redwood City	1	2	0	
+135	/company/automated-trading-desk	Automated Trading Desk	60000000	operating	SC	Mount Pleasant	1	1	0	
+136	/company/autotask	Autotask	6000000	operating	NY	East Greenbush	1	2	2	Positive
+137	/company/autovirt	AutoVirt	24300000	closed	NH	Nashua	7	10	0	
+138	/company/availigent	Availigent	12200000	operating	CA	San Jose	1	3	0	
+139	/company/avalara	Avalara	46575356	operating	WA	Bainbridge Island	4	1	2	Positive
+140	/company/avectra	Avectra	26500000	operating	VA	McLean	1	2	0	
+141	/company/aveksa	Aveksa	28000000	acquired	MA	Waltham	3	8	0	
+142	/company/aventura	Aventura	5300000	operating	CO	Denver	2	4	5	Negative
+143	/company/aventura-hq	Aventura HQ	18952281	operating	CO	Denver	6	3	0	
+144	/company/avicode	AVIcode	1000000	operating	MD	Baltimore	1	1	0	
+145	/company/avisena	Avisena	2500000	acquired	FL	Miami	1	1	0	
+146	/company/avocado-software	Avocadoª	2150000	operating	CA	San Francisco	2	5	0	
+147	/company/avolent	Avolent	9000000	operating	CA	San Francisco	1	4	0	
+148	/company/avos	AVOS Systems		operating	CA	San Mateo	1	4	0	
+149	/company/awareness	AwarenessHub	12000000	operating	MA	Boston	3	2	0	
+150	/company/awarepoint	Awarepoint	60000000	operating	CA	San Diego	4	15	0	
+151	/company/awesometouch	AwesomeTouch	59700	acquired	KY	Lexington	4	1	0	
+152	/company/awr-corporation	AWR Corporation	6400000	acquired	CA	El Segundo	1	5	0	
+153	/company/axceler	Axceler	12000000	operating	MA	Woburn	1	1	0	
+154	/company/axeda	Axeda	21000000	operating	MA	Foxboro	3	5	0	
+155	/company/axentis-software	Axentis Software	9000000	operating	OH	Cleveland	1	4	0	
+156	/company/axilogix-education	Axilogix Education	47628902	operating	NJ	Egg Harbor Township	1	2	0	
+157	/company/axiom-education	Axiom Education	300000	operating	CT	Shelton	1	1	2	Negative
+158	/company/azaire-networks	Azaire Networks	21000000	operating	CA	Santa Clara	1	4	0	
+159	/company/azimuth-systems	Azimuth Systems	7500000	operating	MA	Acton	1	2	0	
+160	/company/azumio	Azumio	2500000	operating	CA	Palo Alto	1	3	0	
+161	/company/b-hive-networks	B-hive Networks	7500000	acquired	CA	San Mateo	2	2	0	
+162	/company/ba-insight	BA Insight	14500000	operating	NY	New York	3	7	1	Negative
+163	/company/backblaze	Backblaze	5000000	operating	CA	Palo Alto	1	1	6	Negative
+164	/company/bakedcode	BakedCode	168000	operating	CA	San Francisco	1	2	0	
+165	/company/banyan-technology	Banyan Technology	600000	operating	OH	Elyria	1	1	0	
+166	/company/base-crm	Base CRM	7900000	operating	IL	Chicago	2	6	0	
+167	/company/basho-technologies	Basho Technologies	33393001	operating	MA	Cambridge	6	5	0	
+168	/company/batterii	batterii	3300000	operating	OH	Cincinnati	2	5	0	
+169	/company/baynote	Baynote	27750000	operating	CA	San Jose	3	7	0	
+170	/company/baypackets	BayPackets	14000000	operating	CA	Fremont	1	2	0	
+171	/company/bazaarvoice	Bazaarvoice	130552663	ipo	TX	Austin	5	10	0	
+172	/company/bbs-technologies	BBS Technologies	8000000	operating	TX	Houston	1	1	0	
+173	/company/bdna	BDNA	32500000	operating	CA	Mountain View	2	8	0	
+174	/company/beeminder	Beeminder	25000	operating	OR	Portland	1	1	0	
+175	/company/beetailer	Beetailer		operating	CA	Mountain View	1	1	0	
+176	/company/before-the-call	Before the Call	2540000	operating	CA	Pleasanton	1	2	612	Negative
+177	/company/behavio	Behavio	355000	acquired	CA	Sunnyvale	1	1	0	
+178	/company/beliefnetworks	BeliefNetworks	1400000	operating	SC	Charleston	1	1	0	
+179	/company/bench	Bench	2000000	operating	NY	New York	2	5	64	Positive
+180	/company/benefitter	Benefitter	2800000	operating	CA	San Francisco	2	1	0	
+181	/company/berkeley-design-automation	Berkeley Design Automation	20250000	operating	CA	Santa Clara	3	5	0	
+182	/company/bestvendor	BestVendor	3600000	acquired	NY	New York	2	8	0	
+183	/company/bevocal	BeVocal	10000000	operating	CA	Mountain View	1	4	0	
+184	/company/beyond-lucid-technologies	Beyond Lucid Technologies	461500	operating	CA	Walnut Creek	3	3	0	
+185	/company/bez-systems	BEZ Systems	11100000	operating	MA	Boston	2	9	0	
+186	/company/big-switch-networks	Big Switch Networks	45250000	operating	CA	Palo Alto	3	7	0	
+187	/company/bigfix	BigFix	8400000	acquired	CA	Emeryville	1	3	0	
+188	/company/bigmachines	BigMachines		operating	IL	Deerfield	1	3	0	
+189	/company/bigtime-software	BigTime Software	2700000	operating	IL	Chicago	1	4	0	
+190	/company/billtrust	Billtrust	29000000	operating	NJ	Jamesburg	2	2	0	
+191	/company/binfire	Binfire	1250000	operating	FL	Bocat Raton	2	4	0	
+192	/company/binpress	Binpress	50000	operating	CA	Mountain View	2	2	0	
+193	/company/binwise	BinWise		operating	CA	San Francisco	1	1	0	
+194	/company/bislr	Bislr	8810272	operating	CA	San Francisco	4	6	0	
+195	/company/bitdefender	BitDefender	7000000	operating	FL	Fort Lauderdale	1	2	7	Negative
+196	/company/bitium	Bitium	2400000	operating	CA	Santa Monica	1	11	0	
+197	/company/bitleap	BitLeap	130000	acquired	PA	Carlisle	1	1	0	
+198	/company/bitwall	BitWall		operating	CA	San Francisco	1	1	0	
+199	/company/bitzer-mobile	Bitzer Mobile	6250000	operating	CA	Sunnyvale	2	2	0	
+200	/company/bizeebee	BizeeBee	870000	operating	CA	Palo Alto	2	8	0	
+201	/company/bizen	Bizen	365000	operating	TN	Nashville	2	1	0	
+202	/company/bizzuka	Bizzuka	1700000	operating	LA	Lafayette	1	1	0	
+203	/company/black-duck-software	Black Duck Software	50500000	operating	MA	Waltham	5	23	0	
+204	/company/blackjet	BlackJet	3135000	operating	FL	West Palm Beach	2	28	0	
+205	/company/blackline	BlackLine Systems		operating	CA	Woodland HIlls	1	2	0	
+206	/company/blenderhouse	BlenderHouse	25000	operating	PA	Pittsburgh	1	1	0	
+207	/company/blogic	Blogic	20000	operating	AZ	Scottsdale	1	1	0	
+208	/company/bloomfire	Bloomfire	20000000	operating	TX	Austin	3	5	0	
+209	/company/blue-cod-technologies	Blue Cod Technologies	13500000	operating	MA	Marlborough	5	6	0	
+210	/company/blue-flame-data	Blue Flame Data	6000000	operating	NY	New York	1	1	0	
+211	/company/blue-frog-gaming	Blue Frog Gaming	1249990	operating	OH	Akron	2	4	0	
+212	/company/blue-pillar	Blue Pillar	7000000	operating	IN	Indianapolis	1	4	0	
+213	/company/bluenote-networks	BlueNote Networks	23400000	acquired	ME	Tewksbury	2	5	0	
+214	/company/blueroads	BlueRoads	15000000	acquired	CA	San Mateo	2	7	0	
+215	/company/bluespec	Bluespec	5750000	operating	MA	Waltham	2	2	0	
+216	/company/bluesprig	BlueSprig	10000000	operating	CA	San Francisco	1	1	0	
+217	/company/bmg-controls	BMG Controls	6000000	operating	CA	Livermore	1	1	0	
+218	/company/bni-video	BNI Video	16000000	acquired	MA	Boxborough	1	5	0	
+219	/company/boardevals	BoardEvals	100000	operating	CA	El Dorado Hills	1	1	0	
+220	/company/boardvantage	BoardVantage	5500000	operating	CA	Menlo Park	1	2	0	
+221	/company/bocada	Bocada	13500000	operating	WA	Kirkland	2	10	0	
+222	/company/bold-guidance	BOLD Guidance	14000	operating	OH	Cleveland	1	1	0	
+223	/company/bolt-solutions	BOLT Solutions	11500000	operating	NY	New York	1	5	1	Negative
+224	/company/bomgar	Bomgar	11000000	operating	MS	Ridgeland	2	4	0	
+225	/company/booker-software	Booker	42000000	operating	NY	New York	2	9	4	Positive
+226	/company/booktrack	Booktrack	2000000	operating	CA	San Francisco	1	4	0	
+227	/company/boston-technologies	Boston Technologies	3225000	operating	MA	Boston	2	2	1	Positive
+228	/company/boundlessgeo	Boundless Geo	3000000	operating	NY	Brooklyn	1	1	0	
+229	/company/bpl-global	BPL Global	75099969	operating	PA	Sewickley	5	13	0	
+230	/company/braintech	Braintech	3000000	operating	VA	McLean	1	1	0	
+231	/company/braintree-payment-solutions	Braintree	69000000	acquired	IL	Chicago	2	6	2	Positive
+232	/company/brand-networks	Brand Networks	68000000	operating	MA	Boston	1	1	16	Positive
+233	/company/brandfolder	Brandfolder	320000	operating	CO	Denver	2	1	0	
+234	/company/brandlive	brandlive	1715000	operating	OR	Portland	3	1	0	
+235	/company/bravosolution	BravoSolution	8080000	operating	PA	Malvern	2	15	0	
+236	/company/breker-verification-systems	Breker Verification Systems	5000000	operating	CA	Mountain View	1	1	0	
+237	/company/brickfish	Brickfish	940261	acquired	IL	Chicago	1	1	0	
+238	/company/bridgeport-networks	BridgePort Networks	13000000	acquired	IL	Chicago	1	4	0	
+239	/company/brijot-imaging-systems	Brijot Imaging Systems	14000000	operating	FL	Lake Mary	1	1	0	
+240	/company/broadlight	BroadLight	27000000	acquired	CA	Santa Clara	3	18	0	
+241	/company/broadsoft	BroadSoft	42500000	ipo	MD	Gaithersburg	2	7	0	
+242	/company/browserling	Browserling	55000	operating	CA	Oakland	1	5	0	
+243	/company/bugsnag	Bugsnag	1400000	operating	CA	San Francisco	1	3	0	
+244	/company/builderscloud	BuildersCloud	1100000	operating	WA	Bellevue	1	6	0	
+245	/company/buildforge	BuildForge	6000000	acquired	TX	Austin	1	1	0	
+246	/company/buildingiq	BuildingIQ	19073747	operating	CA	San Mateo	3	4	0	
+247	/company/buildinglayer	BuildingLayer	20000	operating	KY	Lexington	1	2	0	
+248	/company/bunchball	Bunchball	12500000	operating	CA	Redwood City	3	7	0	
+249	/company/bungee-labs	Bungee Labs	23470000	operating	UT	Orem	3	9	0	
+250	/company/business-texter	Business Texter	250000	operating	WA	Spokane Valley	1	2	0	
+251	/company/buttercoin	Buttercoin	1250000	operating	CA	Palo Alto	2	7	0	
+252	/company/byndl	BYNDL	230000	operating	WA	Seattle	2	2	0	
+253	/company/byteshield	ByteShield		operating	CA	San Francisco	1	1	0	
+254	/company/pollenware	C2FO	27100000	operating	KS	Fairway	2	5	0	
+255	/company/c9-inc	C9 Inc.	12000000	operating	CA	San Mateo	1	3	0	
+256	/company/cablematrix-technologies	CableMatrix Technologies	5000000	operating	IL	Des Plaines	1	4	0	
+257	/company/cadent	Cadent	15000000	acquired	NJ	Carlstadt	1	5	0	
+258	/company/cadforce	CADFORCE	4800000	operating	CA	Marina del Rey	2	5	0	
+259	/company/calabrio	Calabrio	8000000	operating	MN	Minneapolis	1	2	0	
+260	/company/calico-energy-services	Calico Energy Services	2000000	operating	WA	Bellevue	2	1	0	
+261	/company/callcopy	CallCopy	6500000	operating	OH	Columbus	1	1	0	
+262	/company/callision	Callision	250000	operating	NY	New York	2	2	0	
+263	/company/calpont-corporation	Calpont Corporation	6270000	operating	TX	Frisco	2	2	0	
+264	/company/calpurnia-corporation	Calpurnia Corporation	8000000	acquired	MA	Cambridge	1	4	0	
+265	/company/calxeda	Calxeda	99750000	operating	TX	Austin	5	6	0	
+266	/company/camiant	Camiant	16100000	acquired	MA	Marlborough	2	5	0	
+267	/company/cape-clear-software	Cape Clear Software	19950000	operating	CA	San Mateo	2	8	0	
+268	/company/caprally	CapRally		operating	CA	San Francisco	1	1	0	
+269	/company/carbon-design-systems	Carbon Design Systems	27850000	operating	MA	Acton	5	13	0	
+270	/company/carbonflow	CarbonFlow	8467282	operating	CA	San Francsico	4	5	0	
+271	/company/cardstar	CardStar	2030882	acquired	MA	Boston	3	6	0	
+272	/company/carecam-innovations	CareCam Innovations	10200000	operating	SC	Greenville	2	1	0	
+273	/company/carecloud	CareCloud	56400000	operating	FL	Miami	5	6	0	
+274	/company/careinsync	CareinSync	1600000	operating	CA	Santa Clara	2	2	0	
+275	/company/carnegie-speech	Carnegie Speech	14886399	operating	PA	Pittsburgh	6	6	0	
+276	/company/casenet	Casenet	14900000	operating	MA	Bedford	3	4	0	
+277	/company/cassatt	Cassatt	15000000	acquired	CA	San Jose	1	3	0	
+278	/company/catalyst-mobile	Catalyst Mobile	10000000	operating		Emeryville	1	2	0	
+279	/company/catalytic-software	Catalytic Software	4100000	operating	WA	Kirkland	2	2	0	
+280	/company/causata	Causata	15500000	operating	CA	San Francisco	2	2	0	
+281	/company/cazoomi	Cazoomi	250000	operating	CA	San Francisco	1	1	0	
+282	/company/ce-interactive	CE Interactive	2000000	operating	NY	New York	3	7	0	
+283	/company/ceannate	Ceannate		operating	IL	Rolling Meadows	1	1	0	
+284	/company/cebatech	CebaTech	8500000	operating	NJ	Eatontown	2	4	0	
+285	/company/celiro	Celiro	560000	operating	CA	San Jose	1	1	0	
+286	/company/centeris-corporation	Centeris Corporation	16500000	operating	WA	Bellvue	2	4	0	
+287	/company/central-logic	Central Logic	8030233	operating	UT	South Jordan	1	1	17	Positive
+288	/company/centrepath	CentrePath	15050000	operating	MA	Waltham	2	5	0	
+289	/company/centric-software	Centric Software	38399999	operating	CA	Campbell	4	8	2	Positive
+290	/company/cenzic	Cenzic	15000000	operating	CA	Campbell	1	4	0	
+291	/company/ceon	Ceon	5040000	acquired	CA	Redwood City	1	3	0	
+292	/company/cequint	Cequint	7610000	acquired	WA	Seattle	2	5	0	
+293	/company/cernium	Cernium	17500000	operating	VA	Reston	2	2	0	
+294	/company/certeon	Certeon	19000000	closed	MA	Burlington	2	7	0	
+295	/company/certpoint-systems	Certpoint Systems	3750000	operating	NY	Roslyn Heights	1	1	0	
+296	/company/ch-mack	CH Mack	3000000	operating	OH	Cincinnati	1	4	0	
+297	/company/chailabs	Chai Labs	1100000	acquired	CA	Mountain View	1	1	0	
+298	/company/char-software	Char Software	6199977	operating	MA	Chelmsford	2	2	0	
+299	/company/chequed-com	Chequed.com	2400000	operating	NY	Saratoga Springs	3	3	0	
+300	/company/cherwell-software	Cherwell Software	25000000	operating	CO	Colorado Springs	1	1	0	
+301	/company/chip-estimate	Chip Estimate	3500000	operating	CA	San Jose	1	1	0	
+302	/company/chroma-energy	Chroma Energy	19700000	operating	TX	Sugar Land	1	1	0	
+303	/company/ciespace	Ciespace	6000000	operating	CA	Santa Clara	2	2	0	
+304	/company/cinnafilm	Cinnafilm		operating	NM	Albuquerque	1	1	0	
+305	/company/circle-ci	CircleCi	1500000	operating	CA	San Francisco	1	8	0	
+306	/company/circuitlab	CircuitLab		operating	CA	Mountain View	1	1	0	
+307	/company/cittio	CITTIO	11500000	closed	CA	San Francisco	2	3	0	
+308	/company/clarifi	ClariFI	3500000	operating	NY	New York	1	1	0	
+309	/company/clarizen	Clarizen	56000000	operating	CA	San Mateo	6	14	1	Negative
+310	/company/clarus-systems	Clarus Systems	8330000	operating	CA	Redwood City	2	4	0	
+311	/company/classlink	ClassLink	3000000	operating	NJ	Clifton	1	1	0	
+312	/company/clear-shape-technologies	Clear Shape Technologies	5000000	operating	CA	Santa Clara	1	5	0	
+313	/company/clear-story	Clear Story Systems	1100000	acquired	NY	New York	1	2	2	Positive
+314	/company/clearapp	ClearApp	14200000	acquired	CA	Mountain View	1	3	0	
+315	/company/clearleap	Clearleap	20806300	operating	GA	Duluth	5	2	0	
+316	/company/clearmomentum	ClearMomentum	1000000	operating	NY	Canandaigua	1	1	0	
+317	/company/clearpoint-learning-systems	ClearPoint Learning Systems	6900000	operating	NJ	Hoboken	2	1	0	
+318	/company/clearpoint-metrics	ClearPoint Metrics	3800000	operating	MA	Burlington	2	2	0	
+319	/company/clearview-international	Clearview International		operating	TX	Dallas	1	1	0	
+320	/company/clearwell-systems	Clearwell Systems	29000000	acquired	CA	Mountain View	2	5	0	
+321	/company/cleo-communications	CLEO Communications	3500000	operating	IL	Loves Park	1	1	0	
+322	/company/clickshift	ClickShift	6000000	acquired	CA	San Bruno	1	2	0	
+323	/company/clicksquared	ClickSquared	56710000	operating	MA	Boston	3	7	0	
+324	/company/clickst	Clickst	500000	operating	CA	San Francisco	1	1	0	
+325	/company/clinical-insight	Clinical Insight		operating	NY	Fairport	1	1	0	
+326	/company/clinicast	CliniCast	100000	operating	CA	Millbrae	1	1	0	
+327	/company/clinicient	Clinicient	3499999	operating	OR	Portland	2	1	0	
+328	/company/clk-design-automation	CLK Design Automation	5610000	operating	MA	Littleton	2	2	0	
+329	/company/cloakware	Cloakware	10000000	operating	VA	Vienna	1	3	0	
+330	/company/cloud-cruiser	Cloud Cruiser	6000000	operating	CA	San Francisco	2	2	0	
+331	/company/cloud-takeoff	Cloud Takeoff	300000	operating	OH	Mason	1	1	0	
+332	/company/cloudaptitude	CloudAptitude	15000	operating	TN	Memphis	1	2	0	
+333	/company/cloudhealth-technologies	CloudHealth Technologies	4500000	operating	MA	Boston	1	2	0	
+334	/company/cloudone	CloudOne	3600000	operating	IN	Indianapolis	2	1	0	
+335	/company/cloudpay	CloudPay	16000000	operating	NC	Raleigh	1	2	0	
+336	/company/cloudshield-technologies	CloudShield Technologies	25000000	acquired	CA	Sunnyvale	2	9	0	
+337	/company/cluepedia	Cluepedia	430000	operating	CA	Irvine	1	1	0	
+338	/company/co-exprise	Co-eXprise	2000000	operating	PA	Wexford	1	1	0	
+339	/company/co3-systems	Co3 Systems		operating	MA	Cambridge	1	1	0	
+340	/company/coade	COADE	42000000	acquired	TX	Houston	1	1	0	
+341	/company/coaxis	Coaxis	86000000	operating	OR	Portland	2	2	0	
+342	/company/code-42-software	Code42	52500000	operating	MN	Minneapolis	1	2	0	
+343	/company/codefast	Codefast	6500000	acquired	CA	San Jose	1	2	0	
+344	/company/codeglide	CodeGlide	500000	operating	CA	San Francisco	1	1	0	
+345	/company/codeguard	CodeGuard	1800000	operating	GA	Atlanta	2	2	0	
+346	/company/codestreet	CodeStreet		operating	NY	New York	1	1	0	
+347	/company/cogency-software	Cogency Software	2500000	operating	CA	Burlingame	1	4	0	
+348	/company/cogito	Cogito	11700000	operating	UT	Draper	1	4	1	Negative
+349	/company/cogniscan	Cogniscan	500000	operating	NJ	Newfoundland	1	1	0	
+350	/company/cognition-technologies	Cognition Technologies	2700000	operating	CA	Culver City	1	4	0	
+351	/company/cohesiveft	CohesiveFT	1204650	operating	IL	Chicago	1	1	0	
+352	/company/coldspark	ColdSpark	6500000	acquired	CO	Broomfield	1	1	0	
+353	/company/colectica	Colectica	250000	operating	MN	Minneapolis	2	2	0	
+354	/company/colyar-consulting-group	Colyar Consulting Group		operating	AZ	Phoenix	1	2	0	
+355	/company/comet-solutions	Comet Solutions	15778037	operating	OH	Cincinnati	5	7	0	
+356	/company/commerce-guys	Commerce Guys	5000000	operating	MI	Jackson	1	2	4	Positive
+357	/company/communicado	Communicado	15600000	operating	CA	Santa Ana	2	5	0	
+358	/company/compass-quality-insights	Compass Quality Insight Inc.	2000000	operating	CA	San Francisco	1	2	0	
+359	/company/compiere	Compiere	6000000	operating	CA	Redwood Shores	1	1	1	Negative
+360	/company/compliance-360	Compliance 360	2200000	operating	GA	Alpharetta	1	1	0	
+361	/company/compliance-assurance	Compliance Assurance	1250000	operating	PA	Pittsburgh	1	4	1	Negative
+362	/company/composite-software-inc	Composite Software	14650003	acquired	CA	San Mateo	3	1	0	
+363	/company/compupay	CompuPay	20000000	operating	FL	Miramar	1	1	0	
+364	/company/conclusive-marketing	Conclusive Analytics	8000000	operating	NC	Charlotte	1	3	0	
+365	/company/concuity	Concuity	2500000	operating	IL	Vernon Hills	1	2	0	
+366	/company/conductrics	Conductrics	210000	operating	NY	Brooklyn	2	1	0	
+367	/company/conexus-it	Conexus-IT	500000	closed	NY	New York	1	1	0	
+368	/company/conference-hound	Conference Hound	700000	operating	CA	San Francisco	3	17	0	
+369	/company/confluence	Confluence Technologies	60000000	operating	PA	Pittsburgh	1	1	0	
+370	/company/conformia-software	Conformia Software	27250000	acquired	CA	Sunnyvale	3	10	0	
+371	/company/conformiq	Conformiq	4200000	operating	CA	Saratoga	1	2	0	
+372	/company/connectbeam	Connectbeam	3500000	operating	CA	Mountain View	1	1	0	
+373	/company/connected	Connected	500000	acquired	CA	San Francisco	1	6	742	Positive
+374	/company/connectiva-systems	Connectiva Systems	17000000	operating	NY	New York	1	4	0	
+375	/company/connecture	Connecture	23500000	operating	GA	Atlanta	2	5	0	
+376	/company/connexin-software	Connexin Software		operating	NY	New York	1	1	0	
+377	/company/construction-software-technologies	Construction Software Technologies	11000000	operating	OH	Cincinnati	1	5	0	
+378	/company/constrvct	CONSTRVCT		operating	NY	New York	1	1	0	
+379	/company/contact-at-once	Contact At Once!	3000000	operating	GA	Alpharetta	1	1	35	Positive
+380	/company/contact-solutions	Contact Solutions	46000000	operating	VA	Reston	1	1	50	Positive
+381	/company/contactually	Contactually	1000000	operating	DC	Washington	1	3	0	
+382	/company/contatta-inc	Contatta	10189773	operating	AZ	Scottsdale	3	2	0	
+383	/company/contextream	ConteXtream	23600000	operating	CA	Santa Clara	2	4	0	
+384	/company/continuent	Continuent	5750000	operating	CA	San Jose	1	3	0	
+385	/company/continuity-engine	Continuity Engine	7291458	operating	CT	New Haven	6	4	0	
+386	/company/continuity-software	Continuity Software	1000000	operating	NY	New York	1	1	2	Negative
+387	/company/contrail-systems	Contrail Systems	10000000	operating	CA	Santa Clara	1	1	0	
+388	/company/conversocial	Conversocial	8050000	operating		London	3	4	0	
+389	/company/convio	Convio	10150000	ipo	TX	Austin	1	10	0	
+390	/company/conviva	Conviva	59000000	operating	CA	San Mateo	4	10	0	
+391	/company/convoke-systems	Convoke Systems	5500000	operating	CA	San Francisco	1	2	0	
+392	/company/copiun	Copiun	9901574	acquired	MA	Marlborough	4	6	0	
+393	/company/copperkey	CopperKey	2200000	operating	AZ	Gilbert	1	3	0	
+394	/company/coppertino	Coppertino	400000	operating	CA	Los Angeles	1	1	0	
+395	/company/corasworks	CorasWorks	4000000	operating	VA	Reston	1	1	0	
+396	/company/corduro	Corduro		operating	TX	Southlake	1	1	0	
+397	/company/core-security	Core Security Technologies	4500000	operating	MA	Boston	1	1	2	Negative
+398	/company/core-solutions	Core Solutions		operating	PA	Wayne	1	1	20	Negative
+399	/company/coredial	CoreDial	1500000	operating	PA	Blue Bell	1	1	0	
+400	/company/corefino	Corefino	13600000	operating	CA	Sunnyvale	1	2	0	
+401	/company/petravm	Corensic	6000000	operating	WA	Seattle	2	3	0	
+402	/company/cornerstone-ondemand	Cornerstone OnDemand	44700000	ipo	CA	Santa Monica	2	5	0	
+403	/company/correlsense	Correlsense	17500000	operating	MA	Framingham	5	17	0	
+404	/company/corrigo	Corrigo	20000000	operating	OR	Tualatin	2	8	0	
+405	/company/corvil	Corvil	31480000	operating	NY	New York	2	6	0	
+406	/company/cotendo	Cotendo	36000000	acquired	CA	Sunnyvale	4	12	0	
+407	/company/couchone	CouchOne	2000000	operating	CA	Oakland	1	1	0	
+408	/company/covercake	Covercake		operating	CA	San Jose	1	1	0	
+409	/company/coware	CoWare	7000000	operating	CA	San Jose	1	3	0	
+410	/company/cranite-systems	Cranite Systems	11500000	operating	CA	Los Gatos	1	7	0	
+411	/company/crestatech	CrestaTech	19500000	operating	CA	Santa Clara	3	5	0	
+412	/company/critical-links-solutions	Critical Links	5700000	operating	NJ	Fairfield	1	4	6	Negative
+413	/company/crix-labs	CRIX Labs	100000	operating		San Francisco	1	1	0	
+414	/company/crocodoc	Crocodoc		acquired	CA	San Francisco	1	6	0	
+415	/company/crowdcast	Crowdcast	6000000	acquired	CA	San Francisco	1	2	0	
+416	/company/crowdcomputing-systems	CrowdComputing Systems	7300000	operating	NY	New York	2	4	0	
+417	/company/crowdly	Crowdly	1534997	operating	MA	Boston	3	8	0	
+418	/company/crowdpc-inc	CrowdPC	880000	operating	TN	Nashville	3	2	0	
+419	/company/scalable-workforce	CrowdSource	12500000	operating	IL	Swansea	1	1	5	Negative
+420	/company/crownpeak	CrownPeak	10250000	operating	CA	Los Angeles	2	3	0	
+421	/company/css	CSS Corp	47000000	operating	CA	San Jose	2	4	0	
+422	/company/sword-ctspace	CTSpace	5300000	operating	CA	San Francisco	1	2	0	
+423	/company/cumulogic	CumuLogic	500000	operating			3	3	0	
+424	/company/cunexus-solutions	CUneXus Solutions	670000	operating	CA	Santa Rosa	6	1	0	
+425	/company/current	CURRENT	13000000	operating	MD	Germantown	1	3	8402	Positive
+426	/company/customeradvocacy-com	CustomerAdvocacy.com	500000	operating	VA	Herndon	1	1	0	
+427	/company/cvent	Cvent	136911999	ipo	VA	McLean	2	3	0	
+428	/company/revenue-assurance-cvidya	cVidya	8000000	operating	FL	Plantation	2	2	0	
+429	/company/cyan	Cyan	30750000	operating	CA	Petaluma	2	7	1	Positive
+430	/company/cyberarts	CyberArts	16333000	operating	CA	San Francisco	2	1	0	
+431	/company/cybercity-3d	CyberCity 3D	7850000	operating	CA	El Segundo	2	1	0	
+432	/company/cyberflow-analytics	CyberFlow Analytics	2000000	operating		San Diego	1	1	0	
+433	/company/cybernet-software-systems	Cybernet Software Systems	22500000	operating	NY	New York	1	1	0	
+434	/company/cybra	CYBRA	2480000	operating	NY	Yonkers	1	3	0	
+435	/company/dakwak	Dakwak	600000	operating	CA	Mountain View	1	6	0	
+436	/company/dasdak	Dasdak	150000	operating	DC	Washington	1	1	0	
+437	/company/data-impact	Data Impact	5000000	acquired	CA	Huntington Beach	1	1	68	Negative
+438	/company/dataart	DataArt	4000000	operating	NY	New York	1	2	0	
+439	/company/databraid	Databraid	20000	operating	RI	Providence	1	1	0	
+440	/company/datacert	DataCert	12500000	operating	TX	Houston	2	2	0	
+441	/company/datacraft-solutions	Datacraft Solutions	4000000	operating	NC	Durham	1	1	0	
+442	/company/datadog	Datadog	6200000	operating	NY	New York	2	9	0	
+443	/company/datagravity	DataGravity	42000000	operating	NH	Nashua	2	5	0	
+444	/company/datical	Datical	1660000	operating	TX	Austin	2	6	0	
+445	/company/datorama	Datorama	3000000	operating	NY	New York	1	2	0	
+446	/company/datto	Datto	25000000	operating	CT	Norwalk	1	1	0	
+447	/company/daxko	DAXKO	7750000	operating	AL	Birmingham	1	1	0	
+448	/company/decarta	deCarta	56063148	operating	CA	San Jose	6	10	0	
+449	/company/decision-pace	Decision Pace	1000000	operating	NY	Buffalo	1	2	5	Positive
+450	/company/decisionview	DecisionView	7535000	operating	CA	San Francisco	2	3	0	
+451	/company/decisyon	Decisyon	20000000	operating	CT	Stamford	3	3	0	
+452	/company/deep-nines	Deep Nines	9000000	operating	TX	Dallas	1	1	0	
+453	/company/delphix	Delphix	44500000	operating	CA	Menlo Park	3	9	0	
+454	/company/demandforce	Demandforce	10119801	acquired	CA	San Francisco	3	3	0	
+455	/company/demandtec	DemandTec	6000000	acquired	CA	San Carlos	1	3	0	
+456	/company/demibooks	Demibooks		operating	IL	Chicago	1	1	0	
+457	/company/depotpoint	DepotPoint	11000000	operating	WA	Bellevue	2	3	0	
+458	/company/derceto	Derceto	2190000	operating	CA	San Francisco	1	2	0	
+459	/company/derivix	Derivix	12700000	acquired	NY	New York	2	4	0	
+460	/company/design2launch	Design2Launch	200000	operating	CT	Stamford	1	1	0	
+461	/company/deskgod	DeskGod	86626	operating	CA	San Francisco	1	1	0	
+462	/company/desmos	Desmos	900000	operating	CA	San Francisco	3	4	0	
+463	/company/devver	Devver	515000	closed	CO	Boulder	2	3	0	
+464	/company/dey-storage-systems	DEY Storage Systems	3000000	operating	CA	San Mateo	1	4	0	
+465	/company/digabit	Digabit	5500000	operating	CO	Lakewood	3	3	0	
+466	/company/digital-assent	Digital Assent	12000000	operating	GA	Atlanta	3	6	0	
+467	/company/digital-fuel	Digital Fuel	5000000	operating	CA	San Mateo	1	4	31	Positive
+468	/company/digital-harbor	Digital Harbor	11000000	operating	VA	Reston	1	2	0	
+469	/company/digitalsmiths	Digitalsmiths	31500000	operating	NC	Durham	5	12	0	
+470	/company/divvyhq	DivvyHQ		operating	MO	Kansas City	1	2	0	
+471	/company/divx	DivX	35000000	acquired	CA	San Diego	4	17	59	Positive
+472	/company/dna-response	DNA Response	3575000	operating	WA	Seattle	2	5	2	Positive
+473	/company/dotnetnuke-corporatio	DNN Corp	8000000	operating	CA	San Mateo	2	5	0	
+474	/company/docrun	DocRun	1100000	operating	CA	Santa Monica	1	4	0	
+475	/company/docusign	DocuSign	115549498	operating	WA	Seattle	7	22	8	Positive
+476	/company/domo	Domo	123000000	operating	UT	American Fork	4	24	2	Negative
+477	/company/dotcloud	dotCloud	10800000	operating	CA	San Francisco	2	14	0	
+478	/company/doubletwist	doubleTwist	7500000	operating	CA	San Francisco	2	6	0	
+479	/company/dreamsha-re	dreamsha.re	20000	operating	CA	Los Angeles	1	1	0	
+480	/company/drill-map	Drill Map	7179849	operating	TX	Austin	2	3	0	
+481	/company/dropbox	Dropbox	257200000	operating	CA	San Francisco	4	16	105	Negative
+482	/company/dropcam	Dropcam	47800000	operating	CA	San Francisco	4	17	0	
+483	/company/dropifi	Dropifi	100000	operating	CA	Mountain View	2	1	0	
+484	/company/dropship	DropShip	4300000	operating	UT	American Fork	1	2	5	Negative
+485	/company/duable-chinese	Duable Chinese		operating			1	1	0	
+486	/company/duck-creek-technologies	Duck Creek Technologies	7000000	operating	MO	Bolivar	1	1	0	
+487	/company/duetto-research	Duetto	12200000	operating	CA	San Francisco	2	10	0	
+488	/company/dvs-intelestream	DVS Intelestream	28500000	operating	CA	Burbank	1	1	0	
+489	/company/dwolla	Dwolla	22805000	operating	IA	Des Moines	5	10	50	Negative
+490	/company/dynamic-signal	Dynamic Signal	21300000	operating	CA	San Bruno	2	10	3	Negative
+491	/company/dynatrace-software	dynaTrace software	21900000	acquired	MA	Waltham	3	5	0	
+492	/company/earthclassmail	Earth Class Mail	21400000	operating	OR	Beaverton	4	5	0	
+493	/company/easy-metrics	Easy Metrics	6700003	operating	WA	Kent	2	1	14	Negative
+494	/company/dynasec	easy2comply (Dynasec)	1000000	operating	NY	New York	1	3	0	
+495	/company/edoorways-international	eDoorways International	5067737	operating	TX	Austin	2	1	0	
+496	/company/eglue-business-technologies	Eglue Business Technologies	27000000	acquired	NJ	Hoboken	3	8	0	
+497	/company/elanti-systems	Elanti Systems	5500000	operating	NJ	Somerset	1	3	0	
+498	/company/elastic	Elastic		operating	CA	Mountain View	1	1	83	Positive
+499	/company/elastra	Elastra	14600000	operating	CA	San Francisco	2	4	2	Positive
+500	/company/electric-cloud	Electric Cloud	25000000	operating	CA	Sunnyvale	3	12	3	Negative
+501	/company/electron-database	Electron Database	500000	operating	OH	Independence	1	1	0	
+502	/company/elerts	ELERTS	450000	operating	MA	Braintree	2	1	0	
+503	/company/smartdigital	Elevate Digital	2700000	operating	IL	Chicago	1	1	0	
+504	/company/elitecore-technologies	Elitecore Technologies	10300000	operating	MA	Woburn	1	1	0	
+505	/company/ellevation	Ellevation	3850000	operating	MA	Boston	2	13	1	Positive
+506	/company/embrane	Embrane	18000000	operating	CA	Santa Clara	1	3	0	
+507	/company/emerge-health-solutions	eMerge Health Solutions	1100000	operating	OH	Cincinnati	2	2	0	
+508	/company/emergency-callworx	Emergency CallWorx		operating	AL	Madison	1	1	0	
+509	/company/emida	Emida	7500000	operating	CA	Foothill Ranch	1	3	0	
+510	/company/eminor	eMinor	5000000	operating	NC	Durham	2	5	0	
+511	/company/enablon	Enablon	15000000	operating	IL	Chicago	1	1	0	
+512	/company/encentuate	Encentuate	16000000	acquired	CA	Foster City	1	3	0	
+513	/company/encirq-corporation	Encirq Corporation	14000000	operating	CA	Burlingame	1	6	0	
+514	/company/encoding-com	Encoding.com	4750000	operating	CA	San Francisco	3	5	0	
+515	/company/encover	Encover	8000000	acquired	UT	South Jordan	1	3	0	
+516	/company/endeavor-commerce	Endeavor Commerce	500000	operating	TX	Dallas	1	1	0	
+517	/company/energid-technologies	Energid Technologies	500000	operating	MA	Cambridge	1	1	0	
+518	/company/energysavvy-com	EnergySavvy.com	4845000	operating	WA	Seattle	4	6	0	
+519	/company/engineyard	Engine Yard	37500000	operating	CA	San Francisco	3	10	3	Positive
+520	/company/enmetric-systems	Enmetric Systems	3735202	operating	CA	Belmont	2	2	0	
+521	/company/enroute-systems	Enroute Systems	2642814	operating	WA	Bellevue	4	4	0	
+522	/company/ensenda-inc	Ensenda	10300000	operating	CA	San Francisco	1	3	0	
+523	/company/entelo	Entelo	3500000	operating	CA	San Francisco	1	2	0	
+524	/company/entertainment-media-works	Entertainment Media Works	4000000	closed	NY	New York	1	1	3	Positive
+525	/company/entrada	Entrada	5430000	operating	TN	Brentwood	3	3	1	Positive
+526	/company/environmental-support-solutions	Environmental Support Solutions	8000000	acquired			1	3	1	Positive
+527	/company/envis	Envis	6000000	operating	CA	Santa Clara	1	1	0	
+528	/company/envivio	Envivio	57500000	operating	CA	San Francisco	4	22	0	
+529	/company/envysion	Envysion	13269616	operating	CO	Louisville	4	7	0	
+530	/company/epac	ePAC Technologies	46000000	operating	CA	San Leandro	2	2	0	
+531	/company/epam-systems	EPAM Systems	50000000	operating	PA	Newtown	1	3	0	
+532	/company/epartners	ePartners	25000000	operating	TX	Irving	1	8	0	
+533	/company/epocrates	Epocrates	35000000	acquired	CA	San Mateo	2	10	0	
+534	/company/equametrics	EquaMetrics	4500000	operating	NY	New York	3	2	0	
+535	/company/equiom-inc	Equiom		operating	WA	Bellevue	1	1	0	
+536	/company/equivalent-data	Equivalent DATA		operating	TX	Houston	1	1	44	Negative
+537	/company/escapia	Escapia	3600000	acquired	WA	Seattle	2	2	0	
+538	/company/eso-solutions	ESO Solutions	4000000	operating	TX	Austin	1	1	0	
+539	/company/estorian	Estorian	4500000	operating	WA	Bellevue	1	2	0	
+540	/company/eti-international	ETI International	6500000	operating	TX	Austin	1	3	0	
+541	/company/etimesheets-com	eTimesheets.com	250000	operating	VA	Herndon	1	1	0	
+542	/company/etouches	etouches	7750000	operating	CT	Norwalk	2	6	0	
+543	/company/everbill	everbill	50000	operating	CA	Mountain View	1	1	0	
+544	/company/everdream	Everdream	20000000	acquired	CA	Fremont	1	5	0	
+545	/company/evergage	Evergage	2000000	operating	MA	Somerville	1	4	0	
+546	/company/everwise	Everwise	3450000	operating	NY	New York	2	1	0	
+547	/company/everypoint	Everypoint	14000000	operating	MA	Boston	2	5	0	
+548	/company/evident-software	Evident Software		operating	NJ	Newark	1	2	1	Positive
+549	/company/evolution-robotics	Evolution Robotics	13880000	acquired	CA	Pasadena	1	3	0	
+550	/company/evolven-software	Evolven Software		operating	NJ	Jersey City	1	2	0	
+551	/company/evostor	Evostor	8000000	acquired	CA	Campbell	2	6	0	
+552	/company/exactcost	ExactCost	8500000	operating	FL	Hallandale Beach	1	1	0	
+553	/company/exacttarget	ExactTarget	244510002	acquired	IN	Indianapolis	8	10	0	
+554	/company/excel-energy	Excel Energy	2200000	acquired	OK	Tulsa	1	1	5	Negative
+555	/company/exelis	Exelis	2000000	operating	VA	McLean	1	1	0	
+556	/company/exeros	Exeros	12000000	acquired	CA	Santa Clara	1	3	0	
+557	/company/exinda	Exinda	19000000	operating	MT	Boston	3	2	1	Positive
+558	/company/exit41	Exit41	24200000	operating	MA	Andover	4	7	0	
+559	/company/expect-labs	Expect Labs	2400000	operating	CA	San Francisco	3	18	4	Positive
+560	/company/expedit-us	Expedit.us		operating	RI	Providence	1	1	0	
+561	/company/expensify-com	Expensify	6700000	operating	CA	San Francisco	2	4	0	
+562	/company/experticity	eXperticity	2700000	operating	UT	Salt Lake City	1	2	0	
+563	/company/expressor-software	expressor software	33550000	acquired	MA	Burlington	5	8	0	
+564	/company/extend-media	Extend Media	33200000	acquired	MA	Newton	3	8	4	Positive
+565	/company/tellapal	Extole	30950000	operating	CA	San Francisco	6	22	0	
+566	/company/extreme-da	Extreme DA	7380000	operating	CA	Santa Clara	1	3	0	
+567	/company/ez-apps	EZ-Apps	650000	operating	CA	Santa Barbara	1	2	0	
+568	/company/f-origin	F-Origin	10885060	operating	CA	Pleasanton	4	3	0	
+569	/company/facio	Facio	300000	operating	OH	Columbus	2	2	0	
+570	/company/factor-technology-group	Factor Technology Group	2960000	operating	CA	San Francisco	1	1	4	Negative
+571	/company/famo-us	famo.us	5100000	operating	CA	San Francisco	2	12	0	
+572	/company/fango	FanGo	1052870	acquired	IL	Chicago	9	9	3	Positive
+573	/company/fanplayr	Fanplayr	2500000	operating	CA	Palo Alto	2	1	0	
+574	/company/farelogix	Farelogix	6000000	operating	FL	Miami	1	1	0	
+575	/company/farmlogs	FarmLogs	1000000	operating	CA	Sacramento	1	2	0	
+576	/company/fastmobile	Fastmobile	12000000	operating	IL	Rolling Meadows	1	3	0	
+577	/company/fastscaletechnology	FastScaleTechnology	12000000	acquired	CA	Santa Clara	2	7	0	
+578	/company/fastsoft	FastSoft	5965000	acquired	CA	Pasadena	4	1	0	
+579	/company/feedgen	Feedgen		operating	CA	San Francisco	3	2	0	
+580	/company/fieldglass	Fieldglass	11000000	operating	IL	Chicago	1	4	0	
+581	/company/fiftythree	FiftyThree	15100000	operating	NY	New York City	2	12	0	
+582	/company/finalta	Finalta	2050000	operating	MA	Bedford	3	1	0	
+583	/company/finanalytica	FinAnalytica	7000000	operating	NY	New York	2	2	0	
+584	/company/fios	Fios	6500000	operating	OR	Portland	1	5	111	Positive
+585	/company/fireapps	FiREapps	8750000	operating	AZ	Scottsdale	1	2	0	
+586	/company/firestar-software	FireStar Software	980000	operating	MA	Boxborough	1	1	0	
+587	/company/firm58	Firm58	19200000	operating	IL	Chicago	3	5	0	
+588	/company/first-opinion	First Opinion		operating	CA	San Francisco	1	6	361	Negative
+589	/company/first-service-networks	First Service Networks	10000000	operating	AZ	Scottsdale	1	1	12	Positive
+590	/company/first-to-file	First To File	2167701	operating	CA	San Mateo	4	1	124	Negative
+591	/company/firstbest	FirstBest	10000000	operating	MA	Bedford	1	2	0	
+592	/company/fitlinxx	FitLinxx	4100000	operating	CT	Shelton	1	2	0	
+593	/company/fitnet	Fitnet		operating	VA	Blacksburg	1	2	0	
+594	/company/flashsoft	FlashSoft	3000000	acquired	CA	Sunnyvale	1	2	0	
+595	/company/flashstarts	FlashStarts	14000	operating	OH	Cleveland	1	1	0	
+596	/company/flat-world-knowledge	Flat World Knowledge	26200000	operating	NY	Irvington	5	10	5	Negative
+597	/company/flatburger	FlatBurger	6750000	operating	NY	Loudonville	2	4	0	
+598	/company/fleetcor-technologies	FleetCor Technologies	100000000	ipo	GA	Norcross	1	3	0	
+599	/company/fleetmatics	FleetMatics	93000000	operating	IL	Rolling Meadows	2	4	0	
+600	/company/fliptop	Fliptop	5200000	operating	CA	San Francisco	3	9	0	
+601	/company/floored	Floored	1100000	operating	NY	New York	1	7	31	Negative
+602	/company/flutter-io	Flutter	1400000	operating	CA	Palo Alto	1	4	6	Negative
+603	/company/forerun	Forerun	2000000	operating	MA	Waltham	1	1	0	
+604	/company/formatta	Formatta	7300000	operating	VA	Fairfax	2	3	0	
+605	/company/forte-design-systems	Forte Design Systems	8100000	operating	CA	San Jose	2	6	0	
+606	/company/fortify-software	Fortify Software	10000000	acquired	CA	San Mateo	1	2	1	Positive
+607	/company/fortisphere	Fortisphere	10000000	closed	VA	Chantilly	1	2	0	
+608	/company/fox-technologies	Fox Technologies	16000000	operating	CA	Mountain View	1	1	2	Positive
+609	/company/framehawk-inc	Framehawk	16500000	operating	CA	San Francisco	2	4	0	
+610	/company/freshdesk	Freshdesk	7051638	operating	CA	Walnut	3	3	0	
+611	/company/frictionless-commerce	Frictionless Commerce	6200000	operating	PA	Newton Square	1	4	0	
+612	/company/ftrans	FTRANS	14060000	operating	GA	Atlanta,	3	10	0	
+613	/company/full-capture-solutions	Full Capture Solutions	7000000	operating	CT	East Hartford	1	2	0	
+614	/company/full-circle-crm	Full Circle CRM	500000	operating	CA	San Mateo	1	1	0	
+615	/company/fusion-dynamic	Fusion Dynamic	6000000	operating			1	3	0	
+616	/company/fusionstorm	FusionStorm	15000000	operating	CA	San Francisco	1	1	0	
+617	/company/fuzebox	FuzeBox	48500000	operating	CA	San Francisco	3	8	0	
+618	/company/g5-search-marketing	G5	15000000	operating	OR	Bend	1	1	18	Positive
+619	/company/game-trust	Game Trust	9000000	acquired	NY	New York	2	8	76	Negative
+620	/company/gamechanger-media	GameChanger Media	2083130	operating	NY	New York	4	1	0	
+621	/company/gameplan-technologies	GamePlan Technologies	2500000	operating	NE	Omaha	1	1	0	
+622	/company/gamma-basics	Gamma Basics	125000	operating	PA	Wayne	1	1	0	
+623	/company/gamma-enterprise-technologies	Gamma Enterprise Technologies	6200000	acquired	CA	Woodland Hills	1	2	0	
+624	/company/gecko-audio	Gecko Audio	3000000	operating	CA	Palo Alto	1	1	1	Positive
+625	/company/generic-media	Generic Media	2500000	operating	CA	Palo Alto	1	2	9	Positive
+626	/company/geniedb	GenieDB	2700000	operating	CA	San Juan Capistrano	1	1	0	
+627	/company/genius-com	Genius.com	40599999	operating	CA	San Mateo	5	13	0	
+628	/company/genomequest	GenomeQuest	11200000	operating	MA	Westborough	3	3	0	
+629	/company/geocomtms	GEOCOMtms	3070000	acquired	GA	Atlanta	1	5	0	
+630	/company/geoforce	Geoforce		operating	TX	Coppell	1	2	0	
+631	/company/geomagic	Geomagic	8000000	acquired	NC	Durham	1	1	0	
+632	/company/gesturetek	GestureTek	5000000	operating	CA	Sunnyvale	1	1	0	
+633	/company/get-real-health	Get Real Health		operating	MD	Rockville	1	1	152	Positive
+634	/company/gettinghired	GettingHired	3000000	operating	NJ	Bedminster	1	1	0	
+635	/company/getwellnetwork-inc	GetWellNetwork, Inc.	9000000	acquired	MD	Bethesda	2	7	0	
+636	/company/gigaspaces-technologies	GigaSpaces Technologies	11000000	operating	NY	New York	2	6	0	
+637	/company/gigatrust	GigaTrust	11000000	operating	VA	Herndon	1	3	0	
+638	/company/ginger-software	Ginger Software	11700000	operating	MA	Lexington	2	3	0	
+639	/company/github	GitHub	100000000	operating	CA	San Francisco	1	1	9	Positive
+640	/company/giveo	Giveo	1500000	closed	CO	Boulder	1	3	0	
+641	/company/glassbeam-inc	Glassbeam	3000000	operating	CA	Sunnyvale	1	1	0	
+642	/company/glider	Glider	1000000	operating	OR	Portland	2	5	11	Negative
+643	/company/globalcrypto	GlobalCrypto	1000000	operating	GA	Atlanta	2	2	0	
+644	/company/globallogic	GlobalLogic	24972133	operating	VA	Vienna	3	2	0	
+645	/company/globeranger	GlobeRanger	8300000	operating	TX	Richardson	1	2	0	
+646	/company/gmi	GMI	35000000	operating	WA	Bellevue	1	3	8	Positive
+647	/company/gobalto	goBalto	20500000	operating	CA	San Francisco	3	4	0	
+648	/company/goingon	GoingOn	8500000	operating	CA	San Francisco	3	3	0	
+649	/company/gototags	GoToTags	5000	operating	WA	Seattle	1	1	0	
+650	/company/govdelivery	GovDelivery	19700000	operating	MN	Saint Paul	1	1	0	
+651	/company/granicus	Granicus	10015003	operating	CA	San Francisco	2	1	0	
+652	/company/graphlab	GraphLab	6750000	operating	WA	Seattle	1	2	0	
+653	/company/greenphire	Greenphire	5806037	operating	PA	King of Prussia	2	1	0	
+654	/company/greenplum	Greenplum Software	61000000	acquired	CA	San Mateo	4	12	0	
+655	/company/greenway-medical-technologies	Greenway Medical Technologies	22000000	operating	GA	Carrollton	1	2	0	
+656	/company/greenwizard	GreenWizard	4400000	operating	SC	Mount Pleasant	4	5	0	
+657	/company/gremln	Gremln	700000	operating	MO	St. Louis	1	1	0	
+658	/company/grid-net	Grid Net		operating	CA	San Francisco	2	7	9	Negative
+659	/company/grid2home	Grid2Home	6649999	operating	CA	San Diego	4	2	0	
+660	/company/gridapp-systems	GridApp Systems	5000000	acquired	NY	New York	1	2	0	
+661	/company/gridpoint-systems	Gridpoint Systems	8000000	operating		Ottawa	1	2	0	
+662	/company/gridstone-research	Gridstone Research	10000000	closed	CA	San Mateo	1	3	0	
+663	/company/grocery-shopping-network	Grocery Shopping Network	7000000	operating	MN	Minneapolis	1	1	0	
+664	/company/grosocial	GroSocial	2200000	acquired	UT	Orem	3	5	0	
+665	/company/grou-ps	GROU.PS	5000000	operating	CA	Palo Alto	3	3	0	
+666	/company/groundwork-open-source	GroundWork	26000000	operating	CA	San Francisco	3	10	27	Negative
+667	/company/collectivex	Groupsite	2000000	operating	CA	Palo Alto	1	1	0	
+668	/company/groupswim	GroupSwim		acquired	CA	San Francisco	1	1	0	
+669	/company/groupsystems	GroupSystems.com	1000000	operating	CO	Broomfield	1	1	0	
+670	/company/grouptalent	GroupTalent	1000000	operating	WA	Seattle	2	7	0	
+671	/company/gt-nexus	GT Nexus	6000000	operating	CA	Oakland	1	2	19	Negative
+672	/company/guardianedge-technologies	GuardianEdge Technologies	19500000	acquired	CA	San Mateo	3	10	0	
+673	/company/guardtime	Guardtime	8000000	operating	CA	Palo Alto	1	4	0	
+674	/company/guestspan	GuestSpan	450000	operating	UT	Salt Lake City	1	1	0	
+675	/company/guide	Guide	2500000	operating	FL	Miami	2	13	684	Negative
+676	/company/gutcheck	GutCheck	6000000	operating	CO	Denver	2	5	1	Negative
+677	/company/hardmetrics	HardMetrics	2000000	operating	PA	Doylestown	1	3	0	
+678	/company/harmony-information-systems	Harmony Information Systems	39500000	operating	VA	Reston	3	7	0	
+679	/company/hatchbuck	Hatchbuck	1365000	operating	MO	St. Louis	4	3	0	
+680	/company/hatteras-networks	Hatteras Networks	36000000	operating	NC	Durham	2	7	0	
+681	/company/hazelcast	Hazelcast	2500000	operating	CA	Palo Alto	1	1	0	
+682	/company/headcase-humanufacturing	HeadCase Humanufacturing	900000	operating	CA	Los Angeles	1	1	0	
+683	/company/headsprout	HeadSprout	8256751	acquired	WV	Seattle	2	3	0	
+684	/company/health-hero-network	Health Hero Network(Bosch Healthcare)	16000000	acquired	CA	Palo Alto	1	5	0	
+685	/company/healthdatainsights	HealthDataInsights	13200000	acquired	NV	Las Vegas	1	3	0	
+686	/company/healthwyse	HealthWyse		operating	MA	Wilmington	1	1	0	
+687	/company/hearsay-social	Hearsay Social	51000000	operating	CA	San Francisco	3	14	3	Negative
+688	/company/hellowallet	HelloWallet	16150000	operating	DC	Washington	3	5	0	
+689	/company/brightwurks	Help Scout	3450430	operating	MA	Boston	3	17	1	Positive
+690	/company/hfield-technologies	hField Technologies	70000	operating	PA	Bethlehem	1	1	0	
+691	/company/higgle	Higgle	300000	operating	AZ	Scottsdale	1	2	0	
+692	/company/high-street-partners	High Street Partners	14300000	operating	MA	Boston	2	5	1	Positive
+693	/company/highroads	HighRoads	17262500	operating	MA	Woburn	3	7	0	
+694	/company/highwinds	Highwinds	311800000	operating	FL	Winter Park	4	7	0	
+695	/company/hireiq-solutions	HireIQ Solutions	5234844	operating	GA	Alpharetta	5	6	0	
+696	/company/hiringthing	HiringThing	1000000	operating	OR	Portland	1	5	0	
+697	/company/hiwired	HiWired	14000000	acquired	MA	Needham	2	3	0	
+698	/company/homesphere	HomeSphere	2000000	operating	CO	Lakewood	2	2	0	
+699	/company/hoopla-software	Hoopla Software	2800000	operating	CA	San Jose	1	3	2	Positive
+700	/company/hotlink	HotLink	10000000	operating	CA	Sunnyvale	1	2	1	Positive
+701	/company/hubspan	Hubspan	13000000	acquired	WA	Seattle	1	4	0	
+702	/company/hubspot	HubSpot	130519802	operating	MA	Cambridge	7	17	4	Positive
+703	/company/humanapi	HumanAPI		operating	CA	Menlo Park	1	1	0	
+704	/company/humanoid	Humanoid	1100000	acquired	CA	San Francisco	2	19	3	Negative
+705	/company/huntforce	HuntForce	400000	operating	NE	Omaha	2	4	0	
+706	/company/hyper9	Hyper9	15200000	acquired	TX	Austin	3	7	0	
+707	/company/hyperactive-technologies	HyperActive Technologies	7000300	operating	PA	Pittsburgh	2	1	0	
+708	/company/hyperformix	Hyperformix	11800000	acquired	TX	Austin	2	6	0	
+709	/company/hyperic	Hyperic	9900000	acquired	CA	Palo Alto	2	4	0	
+710	/company/icentera	iCentera	1500000	acquired	MN	Burnsville	1	2	0	
+711	/company/icims	iCIMS	35000000	operating	NJ	Matawan	1	1	0	
+712	/company/iconclude	iConclude	12500000	acquired	WA	Bellevue	3	7	0	
+713	/company/iconixx-software	Iconixx Software	9264900	operating	TX	Austin	2	1	0	
+714	/company/idealist	Idealist	10000	operating	OK	Tulsa	1	1	47	Negative
+715	/company/identrust	IdenTrust	20000000	operating	CA	San Francisco	1	2	0	
+716	/company/idonethis	iDoneThis	380000	operating	CA	San Francisco	1	7	1	Positive
+717	/company/ifbyphone	Ifbyphone	27100000	operating	IL	Chicago	7	9	0	
+718	/company/ignite-media-solutions	Ignite Media Solutions	11900000	operating	FL	Oldsmar	1	1	0	
+719	/company/ilevel-solutions	iLEVEL Solutions	6000000	operating	NY	New York	1	3	0	
+720	/company/imagine-communications	Imagine Communications	34700000	operating	CA	San Diego	4	9	7	Negative
+721	/company/imimtek	Imimtek	4074997	operating	CA	Sunnyvale	1	2	0	
+722	/company/immunet-corporation	Immunet Corporation	2000000	acquired	CA	Palo Alto	1	2	0	
+723	/company/immunetrics	Immunetrics	150000	operating	PA	Pittsburgh	1	1	0	
+724	/company/imn	IMN		operating	MA	Waltham	1	1	0	
+725	/company/imperva	Imperva	37000000	operating	CA	Redwood City	2	9	0	
+726	/company/impeva	Impeva	10000000	operating	CA	Mountain View	1	2	0	
+727	/company/implicit-monitoring-solutions	Implicit Monitoring Solutions	25000000	operating	TX	Dallas	1	1	0	
+728	/company/impress-software-solutions	Impress Software Solutions	10000000	operating	MA	Waltham	1	5	0	
+729	/company/incipient-inc	Incipient	83700000	operating	MA	Waltham	4	27	2	Positive
+730	/company/incuity-software	Incuity Software	7300000	acquired	CA	Mission Viejo	1	2	0	
+731	/company/indicative-software	Indicative Software	6000000	acquired	CO	Fort Collins	1	3	1	Negative
+732	/company/indinero	inDinero	1217000	operating	CA	San Francisco	3	13	1	Negative
+733	/company/ineomarketing	iNeoMarketing	400000	operating	VA	Herndon	1	1	0	
+734	/company/winedirect-2	Inertia Beverage Group	22000000	operating	CA	Napa	2	2	0	
+735	/company/infineta-systems	Infineta Systems	30000000	operating	CA	San Jose	2	5	0	
+736	/company/infinio	Infinio	12000000	operating	MA	Cambridge	2	5	0	
+737	/company/infinisource	Infinisource		operating	MI	Coldwater	1	1	0	
+738	/company/infopia	Infopia	20000000	operating	UT	Salt Lake City	2	8	0	
+739	/company/infotrieve	Infotrieve	5000000	operating	CT	Wilton	1	3	0	
+740	/company/infusionsoft	Infusionsoft	70900000	operating	AZ	Chandler	3	5	0	
+741	/company/ingrid-solutions	InGrid Solutions	77000	operating	OR	Portland	2	1	0	
+742	/company/ingrooves	INgrooves		operating	CA	San Francisco	1	1	0	
+743	/company/ink-mobility	Ink	1800000	operating	CA	Palo Alto	2	6	331	Negative
+744	/company/inmage-systems	InMage Systems	32483786	operating	CA	San Jose	3	4	0	
+745	/company/innerworkings	InnerWorkings	12960000	operating	CA	San Francisco	2	4	0	
+746	/company/innopath	InnoPath Software	20500000	operating	CA	Sunnyvale	2	3	0	
+747	/company/innotas	Innotas	11500000	operating	CA	San Francisco	2	4	0	
+748	/company/innroad-inc	innRoad	12895310	operating	NY	Southampton	4	3	0	
+749	/company/inrix	INRIX	68100000	operating	WA	Kirkland	4	10	1	Negative
+750	/company/insightly	Insightly	13000000	operating	CA	San Francisco	2	5	2	Positive
+751	/company/insightpool	Insightpool	500000	operating	GA	Atlanta	2	1	0	
+752	/company/instajob	InstaJob	2000000	operating	TX	Flower Mound	1	1	0	
+753	/company/instantis	Instantis	8800000	operating	CA	Santa Clara	1	3	0	
+754	/company/instorefinance-com	InStoreFinance.com	25000	operating	OH	Cleveland	1	1	0	
+755	/company/insurance-technologies	Insurance Technologies	5400000	operating	CO	Colorado Springs	1	1	10	Negative
+756	/company/insync	InSync Software	12399999	operating	CA	San Jose	3	4	0	
+757	/company/intapp	Intapp		operating	CA	Palo Alto	1	1	0	
+758	/company/intechra-holdings	Intechra Holdings	52500000	acquired	MS	Ridgeland	4	15	0	
+759	/company/integrated-development-enterprise	Integrated Development Enterprise	1500000	operating	MA	Concord	1	4	2	Negative
+760	/company/integrated-mobile	Integrated Mobile	5000000	operating	OH	Columbus	1	1	26	Negative
+761	/company/integrated-trade-processing	Integrated Trade Processing	9000000	operating	NY	New York	1	1	0	
+762	/company/integrys-assetpoint	Integrys AssetPoint	5500000	operating	SC	Greenville	1	2	0	
+763	/company/intelliden	Intelliden	91000000	acquired	CA	Menlo Park	4	9	0	
+764	/company/intellitactics	Intellitactics	3500000	acquired	VA	Reston	1	2	0	
+765	/company/interact-public-safety-systems	Interact Public Safety	77202607	operating	NC	Winston-Salem	6	5	1	Negative
+766	/company/interactive-advisory-software	Interactive Advisory Software	5000000	operating	NJ	Egg Harbor Township	1	2	0	
+767	/company/interactive-tko	Interactive TKO	12560000	acquired	TX	Dallas	2	5	0	
+768	/company/interface21	Interface21	10000000	operating	CA	San Mateo	1	1	0	
+769	/company/intervalzero	IntervalZero	10000000	operating	MA	Waltham	1	1	0	
+770	/company/intervolve	Intervolve	2000000	operating	NC	Raleigh	1	2	0	
+771	/company/interwise	Interwise	9000000	operating	MA	Cambridge	1	3	0	
+772	/company/intio	Intio	8850000	operating	CO	Broomfield	2	1	0	
+773	/company/intrastage	IntraStage		operating	CA	San Diego	1	1	0	
+774	/company/intrusic	Intrusic	16000000	closed	MA	Burlington	2	6	0	
+775	/company/invenquery	InvenQuery	1100000	operating		Kansas City, MO	4	1	0	
+776	/company/invidi-technologies	INVIDI Technologies	117250000	operating	NJ	Princeton	5	16	0	
+777	/company/invincea	Invincea	10249992	operating	VA	Fairfax	2	3	0	
+778	/company/invisiblecrm	InvisibleCRM	1500000	operating	CA	Mountain View	1	2	0	
+779	/company/invision	INVISION	43500000	operating	NY	New York	3	4	1	Negative
+780	/company/invivio-link	Invivio Link	3650000	operating	TN	Nashville	2	2	0	
+781	/company/involver	Involver	11040000	acquired	CA	San Francisco	3	5	0	
+782	/company/io-turbine	IO Turbine	7750000	acquired	CA	San Jose	1	2	0	
+783	/company/ionlogix-systems	IonLogix Systems	30000	operating	TX	Waco	1	1	0	
+784	/company/iperia	Iperia	10000000	operating	MA	Billerica	2	2	0	
+785	/company/internet-pipeline	iPipeline	104434998	operating	PA	Exton	3	4	0	
+786	/company/iplocks	IPLocks	15400000	acquired	CA	Sunnyvale	1	1	0	
+787	/company/irates	iRates	100000	operating	CA	San Diego	1	1	0	
+788	/company/iridian-technologies	Iridian Technologies	5000000	operating	NJ	Moorestown	1	2	0	
+789	/company/irise	iRise	20000000	operating	CA	El Segundo	1	4	0	
+790	/company/ironpearl	IronPearl		acquired	CA	Palo Alto	1	1	0	
+791	/company/irule	iRule	550000	operating		Detroit	3	7	0	
+792	/company/isd-corporation	ISD Corporation	6000000	operating	TX	Irving	1	4	0	
+793	/company/istorytime	iStoryTime	2000000	operating	CA	Santa Barbara	1	1	0	
+794	/company/it-trading	IT Trading	3200000	closed	CA	Los Angeles	1	1	1882	Negative
+795	/company/ita-software	ITA Software	100000000	acquired	MA	Cambridge	1	5	1	Negative
+796	/company/itm-software	ITM Software	10000000	acquired	CA	Santa Clara	2	10	0	
+797	/company/ivalua	Ivalua	4444200	operating	CA	Redwood City	1	1	0	
+798	/company/jacent-technologies	Jacent Technologies	13700000	operating	CA	Santa Clara	2	8	0	
+799	/company/jackbe	JackBe	24500000	acquired	MD	Chevy Chase	4	13	0	
+800	/company/jackrabbit-systems	JackRabbit Systems	1330000	operating	NM	Santa Fe	1	2	0	
+801	/company/jama-software	Jama Software	13000000	operating	OR	Portland	1	2	0	
+802	/company/janeeva	Janeeva	1500000	operating	MI	Ann Arbor	1	2	0	
+803	/company/jasper-design-automation	Jasper Design Automation	7000000	operating	CA	Mountain View	1	6	0	
+804	/company/jaspersoft	Jaspersoft	43500000	operating	CA	San Francisco	4	21	0	
+805	/company/javajobs	JavaJobs	50000	operating	AR	Little Rock	1	1	0	
+806	/company/jelastic	Jelastic		operating	CA	Palo Alto	1	1	0	
+807	/company/jive-software	Jive Software	69426794	ipo	CA	Palo Alto	5	4	2	Negative
+808	/company/jobapp-network	JobApp Network	4000000	operating	MI	West Bloomfield	1	1	0	
+809	/company/jumio	Jumio	35345881	operating	CA	Palo Alto	3	3	0	
+810	/company/junction-solutions	Junction Solutions	7500000	operating	CO	Englewood	1	1	0	
+811	/company/justinmind	Justinmind	862000	operating	CA	San Francisco	1	1	0	
+812	/company/k-motion-interactive	K-MOTION Interactive	2000000	operating	NH	Bedford	1	1	0	
+813	/company/kace	Kace networks	11000000	acquired	CA	Mountain View	2	3	0	
+814	/company/kalido	Kalido	28600000	operating	MA	Burlington	3	8	0	
+815	/company/kaltura	Kaltura	69100000	operating	NY	New York	5	13	0	
+816	/company/kapost	Kapost	8700000	operating	CO	Boulder	5	16	0	
+817	/company/kapow-technologies	Kapow Software	19743770	acquired	CA	Palo Alto	3	5	0	
+818	/company/kareo	Kareo	50000000	operating	CA	Irvine	6	9	0	
+819	/company/kasenna	Kasenna	11000000	acquired	CA	Sunnyvale	1	1	0	
+820	/company/kaseya	Kaseya		operating	CA	San Jose	1	1	0	
+821	/company/kavam-com	Kavam.com	4750000	operating			1	1	0	
+822	/company/kemp-technologies	KEMP Technologies	21699990	operating	NY	Yaphank	3	2	0	
+823	/company/kextil	Kextil	370000	operating			3	1	0	
+824	/company/keychain-logistics	Keychain Logistics	2520000	operating	CA	San Francisco	1	4	0	
+825	/company/kickfire	Kickfire	20000000	operating	CA	Santa Clara	1	4	0	
+826	/company/servicesidekick	Kickserv	500000	operating	CA	San Francisco	1	1	0	
+827	/company/kiha-software	Kiha Software	20000000	closed	WA	Seattle	1	1	0	
+828	/company/kindling	Kindling	2300000	operating	NY	New York	1	2	12	Negative
+829	/company/kingfish-labs	Kingfish Labs	500000	acquired	NY	New York	1	2	0	
+830	/company/kinnser-software	Kinnser Software	40000000	operating	TX	Austin	1	1	0	
+831	/company/kiss-metrics	KISSmetrics	10800000	operating	CA	San Francisco	3	2	0	
+832	/company/kleo	Kleo	635000	operating	FL	Miami	1	1	0	
+833	/company/kno	Kno	89010094	operating	CA	Santa Clara	6	15	7	Negative
+834	/company/knoa-software	Knoa Software	8850000	operating	NY	New York	3	5	0	
+835	/company/knotice	Knotice	500000	operating	OH	Akron	1	1	0	
+836	/company/knowledgetree	KnowledgeTree	6950000	operating	NC	Raleigh	2	4	0	
+837	/company/knowledgevision	KnowledgeVision	6350000	operating	MA	Concord	4	6	0	
+838	/company/konaware	KonaWare	2000000	acquired	CA	Menlo Park	1	3	0	
+839	/company/koolconnect-technologies	KoolConnect Technologies	6500000	operating	MA	Canton	1	2	0	
+840	/company/krossover-intelligence	Krossover	11734330	operating	NY	New York	6	7	0	
+841	/company/kurani-interactive	Kurani Interactive	275000	operating	NJ	Red Bank	1	2	0	
+842	/company/kxen	KXEN	8000000	operating	CA	San Francisco	1	5	0	
+843	/company/kynetx	Kynetx	2000000	operating	UT	Lehi	1	1	0	
+844	/company/lancope	Lancope	24600000	operating		Georgia	4	13	0	
+845	/company/landslide-technologies	Landslide CRM	8000000	operating	MA	Lexington	1	3	0	
+846	/company/layer-7-technologies	Layer 7 Technologies	19900000	acquired	DC	Washington	2	4	1	Negative
+847	/company/leadpages	LeadPages	5000000	operating	MN	Minneapolis	1	2	0	
+848	/company/leisurelogix	LeisureLogix	5900000	operating	FL	Tampa	3	1	0	
+849	/company/leostream	Leostream	5000000	operating	MA	Waltham	2	2	0	
+850	/company/levanta	Levanta	8000000	operating	CA	San Mateo	1	3	1	Negative
+851	/company/levels-beyond	Levels Beyond	8999999	operating	CO	Denver	2	1	56	Positive
+852	/company/lever	Lever		operating	CA	San Francisco	1	1	60	Negative
+853	/company/leveragesoftware	Leverage Software	6000000	acquired	CA	San Francisco	1	2	18	Positive
+854	/company/levlr	Levlr	25000	operating	PA	Pittsburgh	1	1	0	
+855	/company/librato	Librato	5050000	operating	CA	San Francisco	2	3	0	
+856	/company/lightspeed-audio-labs	Lightspeed Audio Labs	1250000	operating	NJ	Scotch Plains	1	1	0	
+857	/company/lignup	LignUp	15700000	operating	CA	Mountain View	2	9	0	
+858	/company/likewise-software	Likewise Software	10000000	acquired	WA	Bellevue	1	3	8	Positive
+859	/company/linestream-technologies	LineStream Technologies	1000000	operating	OH	Cleveland	2	3	0	
+860	/company/lingt	Lingt		acquired		Boston	1	1	0	
+861	/company/linksy	Linksy	100000	operating	WA	Seattle	1	1	0	
+862	/company/linux-networx	Linux Networx	47000000	acquired	UT	Bluffdale	2	6	0	
+863	/company/qr-code-pros	Liqueo	150000	operating	VA	Vienna	2	6	0	
+864	/company/liquid-engines	Liquid Engines	5500000	operating	CA	Santa, Clara	1	4	2	Positive
+865	/company/liquidplanner	LiquidPlanner	2200000	operating	WA	Seattle	2	5	1	Positive
+866	/company/liquidtalk	LiquidTalk	2430000	operating	IL	Chicago	1	1	0	
+867	/company/litescape-technologies	LiteScape Technologies	26500000	operating	CA	Redwood Shores	3	11	0	
+868	/company/lithiumtechnologies	Lithium Technologies	142400000	operating	CA	San Francisco	5	13	5	Negative
+869	/company/liveclips	LiveClips	7655000	operating	CT	Stamford	5	4	0	
+870	/company/livelyfeed	LivelyFeed	50000	operating	CA	San Diego	1	1	0	
+871	/company/livrada	Livrada	1410816	operating	CA		2	1	0	
+872	/company/llamasoft	LLamasoft	6100000	operating	MI	Ann Arbor	1	1	0	
+873	/company/truckylove	Locally		operating	PA	Lititz	1	1	504	Positive
+874	/company/cadio	Locately	1178000	acquired	MA	Boston	5	5	0	
+875	/company/location	Location	1171464	operating	RI	Woonsocket	2	1	1243	Negative
+876	/company/logical-apps	Logical Apps	14000000	operating	CA	Irvine	1	2	5	Negative
+877	/company/logmein	LogMeIn	20000000	ipo	MA	Woburn	2	7	3	Negative
+878	/company/logogarden	LogoGarden	2000000	operating	TN	Nashville	1	1	0	
+879	/company/lombardi-software	Lombardi Software	7950000	acquired	TX	Austin	1	3	0	
+880	/company/loyalty-lab	Loyalty Lab	11000000	acquired	CA	San Francisco	3	5	0	
+881	/company/lucid-design-group	Lucid Design Group	1500000	operating	CA	Oakland	1	1	0	
+882	/company/lumigent	Lumigent Technologies	23000000	operating	MA	Acton	4	8	0	
+883	/company/lumoback	LUMOback	5000000	operating	CA	Palo Alto	1	2	0	
+884	/company/luxanova	Luxanova	112500	operating	MA	Concord	2	2	0	
+885	/company/lvl7-systems	LVL7 Systems	21000000	operating	NC	Morrisville	1	6	0	
+886	/company/lyatiss	Lyatiss	3320000	operating	CA	Mountain View	2	1	0	
+887	/company/lyft	Lyft	82500000	operating	CA	San Francisco	5	13	2	Positive
+888	/company/lytics	Lytics	2300000	operating	OR	PORTLAND	2	5	0	
+889	/company/m-factor	M-Factor	10100000	acquired	CA	San Mateo	2	6	5	Positive
+890	/company/m-files	M-Files	7843200	operating	TX	Dallas	1	2	3	Negative
+891	/company/made2manage-systems	Made2Manage Systems	50000000	operating	IN	Indianapolis	1	1	0	
+892	/company/mailfrontier	MailFrontier	1500000	operating	CA	Palo Alto	1	3	0	
+893	/company/makana-solutions	Makana Solutions	3000000	operating	NH	Nashua	1	1	0	
+894	/company/malauzai-software	Malauzai Software	5300000	operating	TX	Austin	2	1	0	
+895	/company/managed-objects	Managed Objects	7000000	acquired	ME	Waltham	1	5	1	Negative
+896	/company/mango-reservations	Mango Reservations	20000	operating	TN	Nashville	1	1	0	
+897	/company/mantara	Mantara	50594855	operating	NJ	Jersey City	6	16	0	
+898	/company/map-decisions	Map Decisions	13200	operating	PA	Bethlehem	1	1	2	Positive
+899	/company/marathon-technologies	Marathon Technologies	12000000	acquired	MA	Littleton	1	3	0	
+900	/company/nexiant	MarginPoint	13750000	operating	CA	Lake Forest	1	4	0	
+901	/company/mark43	Mark43	2025000	operating	NY	New York	2	7	0	
+902	/company/market6	Market6	5500000	operating	IL	Deerfield	1	1	0	
+903	/company/marketbright	Marketbright		operating	CA	San Bruno	2	3	0	
+904	/company/marketcetera	Marketcetera	###############################################################################################################################################################################################################################################################	operating	CA	San Francisco	1	1	1	Negative
+905	/company/marketecture	Marketecture	1473000	operating	UT	American Fork	6	13	1	Negative
+906	/company/market-me-tweet-ltd	MarketMeSuite	2550000	operating	MA	Cambridge	3	2	0	
+907	/company/marketo	Marketo	108400000	ipo	CA	San Mateo	6	16	4	Negative
+908	/company/marketsync	Marketsync	516100	operating	WA	Kirkland	4	1	0	
+909	/company/marxent-labs	Marxent Labs	2200000	operating	OH	Kettering	4	7	0	
+910	/company/masterbranch	Masterbranch	470000	operating		San Francisco	1	7	0	
+911	/company/material-mix	Material Mix	100000	operating	MO	Saint Louis	2	2	3	Negative
+912	/company/mathsoft-engineering-education	Mathsoft Engineering & Education	3000000	operating	MA	Cambridge	1	1	0	
+913	/company/matrixx-software	MATRIXX Software	33600000	operating	CA	Mountain View	4	5	0	
+914	/company/mavent	Mavent	10000000	operating	CA	Irvine	1	1	1	Negative
+915	/company/mavizon-technologies	Mavizon	2900000	operating	IN	New Albany	2	1	0	
+916	/company/md-it	MD-IT	11000000	operating	CO	Boulder	1	1	54	Negative
+917	/company/meal-ticket	Meal Ticket	1028000	operating	ID	Boise	8	2	17	Negative
+918	/company/medallia	Medallia	75000000	operating	CA	Palo Alto	2	1	0	
+919	/company/medaptus	MedAptus	6000000	operating	MA	Boston	1	1	0	
+920	/company/medgrc	MedGRC	90000	operating	TX	Plano	2	1	0	
+921	/company/mediamorph	MediaMorph	10000000	operating	NY	New York	2	2	0	
+922	/company/mediabank	MediaOcean	40500000	operating	IL	Chicago	2	2	0	
+923	/company/mediasilo	MediaSilo	2250000	operating	MA	Boston	1	1	0	
+924	/company/mediaspectrum	Mediaspectrum	35800000	operating	MA	Burlington	1	1	0	
+925	/company/medikeeper	MediKeeper		operating	CA	San Diego	1	1	0	
+926	/company/medio	Medio	30000000	operating	WA	Seattle	1	4	5	Positive
+927	/company/medpagetoday	MedPageToday	2100000	acquired	NJ	Little Falls	1	2	0	
+928	/company/medsphere-systems	Medsphere Systems	12000000	operating	CA	Carlsbad	1	4	0	
+929	/company/medventive	MedVentive	28400000	operating	MA	Waltham	6	9	0	
+930	/company/meetingsense-software	MeetingSense Software	3000000	operating	CA	San Diego	1	1	0	
+931	/company/memberplanet	MemberPlanet	2500000	operating	CA	Torrance	1	2	0	
+932	/company/memeo	Memeo	11100000	operating	CA	Santa Clara	3	2	0	
+933	/company/mendocino-software	Mendocino Software	19700000	closed	CA	Fremont	2	8	0	
+934	/company/meograph	Meograph	20000	operating	CA	San Francisco	2	2	0	
+935	/company/mercury-intermedia	Mercury Intermedia		operating	TN	Brentwood	1	1	0	
+936	/company/mesoft	MESoft	6000000	operating	CA	Los Angeles	1	2	0	
+937	/company/message-systems	Message Systems	37999998	operating	MD	Columbia	2	1	23	Positive
+938	/company/messagegate	MessageGate	5000000	operating	WA	Bellevue	1	5	0	
+939	/company/metaconomy	Metaconomy	100000	operating	CA	Kongens Lyngby	1	1	0	
+940	/company/metalincs	MetaLINCS	8750000	acquired	CA	San Jose	1	3	0	
+941	/company/metasolv	MetaSolv	21850000	acquired	TX	Plano	1	7	0	
+942	/company/metastorm	Metastorm	30000000	acquired	MD	Baltimore	1	4	0	
+943	/company/meteor	Meteor	11200000	operating	CA	San Francisco	2	6	29	Negative
+944	/company/metratech	MetraTech	30000000	operating	MA	Waltham	1	3	0	
+945	/company/metreos-corporation	Metreos Corporation	4355000	acquired	TX	Austin	2	3	0	
+946	/company/metricstream	MetricStream	65020000	operating	CA	Palo Alto	5	6	0	
+947	/company/mformation-technologies	Mformation Technologies	29312993	operating	NJ	Edison	3	10	0	
+948	/company/migo-software	Migo Software	8330000	operating	CA	Redwood City	3	3	0	
+949	/company/mimosa-systems	Mimosa Systems	53816776	acquired	CA	Santa Clara	6	20	0	
+950	/company/minbox	Minbox	800000	operating	CA	San Francisco	1	8	0	
+951	/company/mindbody	MINDBODY	58000000	operating	CA	San Luis Obispo	4	7	0	
+952	/company/mindjet	Mindjet	15000000	operating	CA	San Francisco	1	2	6	Positive
+953	/company/minor-studios	Minor Studios		operating	CA	San Francisco	1	1	0	
+954	/company/minowireless	MiNOWireless	8500000	operating	CA	Santa Clara	2	4	0	
+955	/company/mirage-networks	Mirage Networks	12000000	acquired	IL	Chicago	1	5	0	
+956	/company/mirapoint-software	Mirapoint Software	10300000	operating	CA	Sunnyvale	1	7	0	
+957	/company/miserware	MiserWare		operating	VA	Blacksburg	1	1	0	
+958	/company/mission-research	Mission Research	1500000	operating	PA	Lancaster	1	1	16	Negative
+959	/company/mitro	Mitro	2400000	operating	NY	New York	2	2	0	
+960	/company/mixamo	Mixamo	8676235	operating	CA	San Francisco	3	2	0	
+961	/company/mixed-media-labs	Mixed Media Labs	7323998	operating	CA	San Francisco	3	1	0	
+962	/company/mkn-web-solutions	MKN Web Solutions		operating	MI	Troy	1	1	0	
+963	/company/mobibucks	MOBIbucks	5000000	operating	KY	Louisville	2	2	0	
+964	/company/mobile-complete	Mobile Complete	10000000	operating	CA	San Mateo	1	2	29	Negative
+965	/company/mobiledataforce	MobileDataforce	1000000	operating	ID	Meridian	1	1	0	
+966	/company/mobilereactor	MobileReactor	1175000	closed	PA	Philadelphia	2	1	0	
+967	/company/mobilitec	Mobilitec	12100000	operating	CA	San Mateo	1	4	0	
+968	/company/mobitrac	MOBITRAC	8300000	acquired	IL	Chicago	1	5	0	
+969	/company/mocapay	Mocapay	6250000	operating	CO	Denver	2	3	0	
+970	/company/modernizing-medicine	Modernizing Medicine	32604995	operating	FL	Boca Raton	3	3	0	
+971	/company/modulus-financial-engineering	Modulus Financial Engineering	8450000	operating	AZ	Scottsdale	1	3	0	
+972	/company/moglue	Moglue	1215000	operating	NY	New York	3	1	0	
+973	/company/mogotest	Mogotest	12000	operating	MA	Cambridge	1	1	0	
+974	/company/moka5	moka5	62797075	operating	CA	Redwood City	4	3	0	
+975	/company/mon-ki	mon.ki	400000	operating	CA	Palo Alto	1	6	0	
+976	/company/montavista	MontaVista Software	21000000	acquired	CA	Santa Clara	1	5	0	
+977	/company/moonclerk	MoonClerk		operating	SC	Greenville	1	1	0	
+978	/company/moremagic-solutions	MoreMagic Solutions	4125000	acquired	MA	Newton	1	3	0	
+979	/company/mortar-data	Mortar Data	2250000	operating	NY	New York	3	4	4	Positive
+980	/company/motion-computing	Motion Computing	11599995	operating	TX	Austin	2	3	2	Negative
+981	/company/motion-dispatch	Motion Dispatch		operating	CA	Culver City	1	3	0	
+982	/company/motionsoft	Motionsoft	10499999	operating	MD	Rockville	3	2	0	
+983	/company/motivity-labs	Motivity Labs		operating	TX	Irving	1	1	0	
+984	/company/movaris	Movaris	16000000	operating	CA	San Jose	2	8	0	
+985	/company/movenetworks	Move Networks	91300000	acquired	CA	Irvine	4	12	36	Negative
+986	/company/movinghealth	MovingHealth	1500000	operating	MA	Cambridge	1	1	0	
+987	/company/movl	MOVL		operating	GA	Atlanta	1	2	0	
+988	/company/moxie-software	Moxie Software, Inc.	30000000	operating	CA	Mountain View	2	5	0	
+989	/company/mpay-gateway	mPay Gateway	6900011	operating	MN	Minneapolis	2	2	0	
+990	/company/muzzley	Muzzley	1000000	operating	CA	Sunnyvale	2	2	0	
+991	/company/mvalent	mValent	6000000	acquired	CA	Redwood Shores	1	3	0	
+992	/company/mwater	mWater	100000	operating	NY	New York	1	1	0	
+993	/company/mxhero	mxHero	1275000	operating	CA	San Francisco	2	7	0	
+994	/company/my-ad-box	My Ad Box	50000	operating	MD	Baltimore	1	1	9	Positive
+995	/company/mydoorman	MyDoorman	100000	closed	CA	Los Angeles	1	1	0	
+996	/company/mykonos-software	Mykonos Software	4000000	acquired	CA	San Francisco	1	2	0	
+997	/company/myrio	Myrio	20500000	operating	WA	Bothell	1	4	0	
+998	/company/myvr	MyVR	1400000	operating	CA	San Francisco	1	11	0	
+999	/company/n-sided	N-Sided	378000	operating		Fontenay sous bois	1	1	0	
+1000	/company/nano-network-engines	Nano Network Engines	6000000	operating	MD	Glenwood	1	2	0	
+1001	/company/nanochip	Nanochip	28800000	operating	CA	Fremont	2	6	0	
+1002	/company/nanosatisfi	NanoSatisfi	1600000	operating	CA	San Francisco	3	5	0	
+1003	/company/nascentric	Nascentric	13400000	operating	TX	Austin	2	6	0	
+1004	/company/nationbuilder	NationBuilder	14750000	operating	CA	Los Angeles	3	13	0	
+1005	/company/ncircle-network-security	nCircle Network Security	5000000	acquired	CA	San Francisco	1	4	0	
+1006	/company/ncomputing	NComputing	57800000	operating	CA	Santa Clara	3	8	0	
+1007	/company/near-infinity	Near Infinity	17000000	operating	VA	Reston	1	1	1	Positive
+1008	/company/needle	Needle	15000000	operating	UT	Draper	3	4	71	Negative
+1009	/company/neocase-software	Neocase Software	16500000	operating	CA	San Francisco	2	3	0	
+1010	/company/neopath-networks	NeoPath Networks	11000000	acquired	CA	Mountain View	1	4	0	
+1011	/company/neptune-mobile-devices	Neptune Mobile Devices	100000	operating	AZ	Phoenix	1	1	0	
+1012	/company/netbeez	NetBeez	25000	operating	PA	Pittsburgh	1	1	0	
+1013	/company/netcontinuum	Netcontinuum	15000000	acquired	CA	Santa Clara	1	4	0	
+1014	/company/netdevices	NetDevices	25000000	acquired	CA	Sunnyvale	1	5	0	
+1015	/company/netmanage	NetManage	2700000	acquired	CA	Cupertino	1	1	0	
+1016	/company/netsmart-technologies	Netsmart Technologies	4500000	operating	NY	Great River	1	3	0	
+1017	/company/netuitive	Netuitive	23000000	operating	VA	Reston	3	14	0	
+1018	/company/netwitness	NetWitness		acquired	VA	Herndon	1	1	0	
+1019	/company/network-chemistry	Network Chemistry	6000000	operating	CA	Palo Alto	1	2	1	Positive
+1020	/company/network-optix	Network Optix	750000	operating	CA	BURBANK	1	2	0	
+1021	/company/network-physics	Network Physics	8630000	acquired	CA	Mountain View	1	4	6	Negative
+1022	/company/network-vision	Network Vision	1850000	operating	MA	Newburyport	1	1	12	Negative
+1023	/company/netzentry	netZentry	6000000	operating	CA	Palo Alto	1	2	0	
+1024	/company/neurala	Neurala		operating	MA	Cambridge	1	1	0	
+1025	/company/neverfail	Neverfail	10000000	operating	TX	Austin	1	1	0	
+1026	/company/new-relic	New Relic	114500000	operating	CA	San Francisco	5	21	7	Negative
+1027	/company/newforma	Newforma	21100000	operating	NH	Manchester	3	9	0	
+1028	/company/newmerix	Newmerix	7000000	closed	CO	Superior	1	3	0	
+1029	/company/nexant	Nexant	82500000	operating	CA	San Francisco	3	4	0	
+1030	/company/nexaweb-technologies	Nexaweb Technologies	14603757	operating	MA	Burlington	3	6	0	
+1031	/company/nexenta-systems	Nexenta Systems	45000000	operating	CA	Santa Clara	2	13	0	
+1032	/company/nexgen-storage	NexGen Storage	10000000	acquired	CO	Louisville	2	5	0	
+1033	/company/nextance	Nextance	10100000	operating	TX	Austin	1	4	0	
+1034	/company/nextdocs	NextDocs	28800000	operating	PA	Conshohocken	3	6	0	
+1035	/company/nexthop-technologies	NextHop Technologies	4000000	acquired	CA	Mountain View	1	3	0	
+1036	/company/nextmedium	NextMedium	9500000	operating	CA	Los Angeles	2	5	0	
+1037	/company/nextnine	NextNine	15000000	operating	NY	New York	2	11	0	
+1038	/company/nextprinciples	NextPrinciples	1450000	operating	CA	Milpitas	2	12	0	
+1039	/company/ngage-labs	nGage Labs	20876578	operating	AZ	Scottsdale	2	2	0	
+1040	/company/nimaya	Nimaya	3000000	operating	DC	Washington	1	1	0	
+1041	/company/nimble-crm	Nimble CRM	3000000	operating	CA	Santa Monica	2	6	0	
+1042	/company/nimsoft	Nimsoft	22300000	acquired	CA	Redwood City	2	6	1	Negative
+1043	/company/nintex-usa	Nintex	135000000	operating	WA	Bellevue	1	2	0	
+1044	/company/nitropdf	Nitro	3500000	operating	CA	San Francisco	1	1	9	Negative
+1045	/company/nitrosell	NitroSell	2005950	operating	CA	San Diego	1	1	0	
+1046	/company/nlyte-software	nlyte Software	12000000	operating	CA	San Mateo	2	4	0	
+1047	/company/noisefree	NoiseFree	1400000	operating	CA	Sunnyvale	1	1	0	
+1048	/company/nomi	Nomi	3000000	operating	NY	New York	1	9	1	Negative
+1049	/company/nomis-solutions	Nomis Solutions	21000000	operating	CA	San Bruno	3	8	0	
+1050	/company/nor1	Nor1	17100000	operating	CA	Santa Clara	2	3	0	
+1051	/company/north-by-south	North by South		operating	CA	San Francisco	1	1	54	Positive
+1052	/company/northstar-systems-international	NorthStar Systems International	29500000	operating	CA	San Francisco	2	6	0	
+1053	/company/notice-software	Notice Software	350000	operating	OH	Toledo	1	1	27	Positive
+1054	/company/novafora	Novafora	12000000	operating	CA	San Jose	1	2	0	
+1055	/company/novusedge	NovusEdge	6500000	operating	IL	Lisle	1	3	0	
+1056	/company/nsc	NSC	4000000	operating	WI	Brillion	2	2	2	Positive
+1057	/company/ntirety	Ntirety	1000000	operating	MA	Dedham	1	1	0	
+1058	/company/nuiku	Nuiku	1600000	operating	WA	Redmond	1	9	0	
+1059	/company/nuview-systems	NuView Systems	5000000	operating	MA	Andover	1	1	0	
+1060	/company/nvelo	NVELO	6555160	acquired	CA	Santa Clara	1	2	0	
+1061	/company/oasys-design-systems	Oasys Design Systems	3018230	operating	CA	Santa Clara	2	2	0	
+1062	/company/oasys-mobile	Oasys Mobile	8000000	operating	NC	Raleigh	1	2	0	
+1063	/company/objective-logistics	Objective Logistics	9000000	operating	MA	Boston	4	10	1	Positive
+1064	/company/objectlabs	ObjectLabs	8000000	operating	CA	San Francisco	2	10	0	
+1065	/company/objectvideo	ObjectVideo	8000000	operating	VA	Reston	1	3	0	
+1066	/company/obsorb	Obsorb	110000	operating	MO	St Louis	1	2	0	
+1067	/company/occipital	Occipital	7015000	operating	CO	Boulder	2	1	0	
+1068	/company/octavian	Octavian	15000000	operating	MA	Woburn	2	5	1	Positive
+1069	/company/offermatica	Offermatica	7000000	acquired	CA	San Francisco	1	1	0	
+1070	/company/ofuz	Ofuz	250000	operating	CA	Culver City	1	1	0	
+1071	/company/ogplanet	OGPlanet	1500000	operating	CA	El Segundo	1	6	0	
+1072	/company/ohmygov-inc	OhMyGov Inc.	1364000	operating	VA	Alexandria	9	6	0	
+1073	/company/olark	Olark		operating	CA	Palo Alto	1	1	0	
+1074	/company/olive-software	Olive Software	14000000	operating	CA	Aurora	2	3	1	Positive
+1075	/company/oneid	OneID	7000000	operating	CA	Redwood Shores	1	2	0	
+1076	/company/onepin	OnePIN	10600000	operating	MA	Westborough	4	3	0	
+1077	/company/onfocus-healthcare	ONFocus Healthcare	3000000	operating	TN	Brentwood	1	8	0	
+1078	/company/onit	Onit	4907000	operating	TX	Houston	4	2	1	Negative
+1079	/company/onrequest-images	OnRequest Images	27000000	operating	WA	Seattle	3	6	0	
+1080	/company/onshift	OnShift	9783008	operating	OH	Cleveland	3	6	0	
+1081	/company/learningguide-solutions	Ontuitive	6000000	operating	DC	Washington	1	1	0	
+1082	/company/onvantage	OnVantage	18000000	acquired	CA	Santa Clara	1	4	0	
+1083	/company/open-kernel-labs	Open Kernel Labs	10764323	acquired	IL	Chicago	5	4	0	
+1084	/company/open-xchange	Open-Xchange	37800000	operating	NY	Tarrytown	3	6	0	
+1085	/company/opencandy	OpenCandy	8500000	operating	CA	San Diego	2	7	0	
+1086	/company/opencare	OpenCare		operating	CA	San Francisco	1	2	0	
+1087	/company/openclovis	OpenClovis	11000000	operating	CA	Petaluma	1	4	0	
+1088	/company/openq	OpenQ	5500000	operating	VA	Charlottesville	1	2	0	
+1089	/company/opscode	Opscode	33000000	operating	WA	Seattle	3	8	0	
+1090	/company/optify	Optify	10849999	operating	WA	Seattle	3	13	0	
+1091	/company/optimal-technologies	Optimal Technologies	25000000	operating	NC	Raleigh	1	1	3	Negative
+1092	/company/optimine-software	OptiMine Software	8586808	operating	MN	St. Paul	3	5	0	
+1093	/company/optimizely	Optimizely	31200000	operating	CA	San Francisco	4	32	0	
+1094	/company/optimus	Optimus	7500000	operating	VA	McLean	1	1	7	Positive
+1095	/company/optinuity	Optinuity	6000000	acquired	MD	Bethesda	1	4	0	
+1096	/company/optionease	OptionEase	3500000	acquired	CA	San Juan Capistrano	2	4	0	
+1097	/company/optionscity-software	OptionsCity Software		operating	IL	Chicago	1	1	0	
+1098	/company/opvista	OpVista	43000000	operating	CA	Milpitas	2	2	0	
+1099	/company/orbnetworks	Orb Networks	4000000	operating	CA	Oakland	1	1	0	
+1100	/company/orchestra-corporation	Orchestria Corporation	21000000	acquired	NY	Islandia	1	7	0	
+1101	/company/ordertalk	orderTalk	1170000	operating	TX	Flower Mound	1	1	0	
+1102	/company/orderwithme	OrderWithMe	3000000	operating	TX	Dallas	1	2	0	
+1103	/company/ordoro	Ordoro	1656165	operating	TX	Austin	2	2	0	
+1104	/company/organic-motion	Organic Motion	9649999	operating	NY	New York	2	1	0	
+1105	/company/orsus	Orsus Solutions USA	3000000	acquired	CA	Irvine	1	1	0	
+1106	/company/ounce-labs	Ounce Labs	13500000	acquired	MA	Waltham	2	5	0	
+1107	/company/outboundengine	OutboundEngine	3000000	operating	TX	Austin	1	4	0	
+1108	/company/outerbay-technologies	OuterBay Technologies	12000000	acquired	CA	Cupertino	1	5	0	
+1109	/company/oversight-systems	Oversight Systems	32950000	operating	GA	Atlanta	3	8	10	Negative
+1110	/company/overture	Overture Technologies	6000000	operating	MD	Bethesda	1	3	0	
+1111	/company/oxlo-systems	Oxlo Systems	5000000	operating	CO	Broomfield	1	3	0	
+1112	/company/packet-island	Packet Island	2000000	acquired	CA	Cupertino	1	3	0	
+1113	/company/packettrap	PacketTrap Networks	5500000	operating	CA	San Francisco	1	1	0	
+1114	/company/packetvideo	PacketVideo	45500000	acquired	CA	San Diego	1	1	0	
+1115	/company/pagevamp	Pagevamp	20000	operating	NY	New York	1	1	0	
+1116	/company/paletteapp	PaletteApp		operating	IL	Chicago	1	2	0	
+1117	/company/panaya	Panaya	39000000	operating	CA	Menlo Park	5	9	0	
+1118	/company/pango-networks	PanGo Networks	10000000	acquired	NY	Framingham	1	3	0	
+1119	/company/pano-logic	Pano Logic	38000000	operating	CA	Menlo Park	3	9	0	
+1120	/company/panta-systems	PANTA Systems	9500000	operating	CA	Santa Clara	1	2	0	
+1121	/company/panterra-networks	PanTerra Networks	10019869	operating	CA	Sunnyvale	2	1	0	
+1122	/company/panzura	Panzura	58000000	operating	CA	Campbell	4	11	0	
+1123	/company/parallels	Parallels	12400000	operating	WA	Renton	2	4	88	Positive
+1124	/company/parature	Parature	29500000	operating	VA	Herndon	2	6	1	Positive
+1125	/company/parkwhiz	ParkWhiz	2000000	operating	IL	Chicago	1	8	0	
+1126	/company/parlevel-systems	ParLevel Systems	1008313	operating	TX	San Antonio	5	3	0	
+1127	/company/particle-code	Particle Code	3000000	acquired	CA	Palo Alto	1	1	0	
+1128	/company/passwordbank	PasswordBank	3500000	acquired	CA	Sunnyvale	2	2	0	
+1129	/company/pathfire	Pathfire	2000000	operating	CA	Roswell	1	5	0	
+1130	/company/patientkeeper	PatientKeeper	43708653	operating	MA	Waltham	8	19	0	
+1131	/company/payease	PayEase	14500000	operating	CA	Santa Clara	1	4	0	
+1132	/company/paylocity	Paylocity	10000000	operating	IL	Arlington Heights	1	1	0	
+1133	/company/payscale	PayScale	30999999	operating	WA	Seattle	7	18	19	Positive
+1134	/company/paysimple	PaySimple	16000000	operating	CO	Denver	1	1	0	
+1135	/company/paytango	PayTango	700000	operating	CA	Mountain View	1	2	0	
+1136	/company/peak-10	Peak 10	3500000	operating	NC	Charlotte	1	2	101	Positive
+1137	/company/peak8-partners	Peak8 Partners	5000000	operating	CO	Boulder	1	1	0	
+1138	/company/peakstream	PeakStream	22000000	acquired	CA	Redwood City	2	5	0	
+1139	/company/peerapp	PeerApp	22500000	operating	MA	Newton	4	9	0	
+1140	/company/pelican-imaging	Pelican Imaging	37000000	operating	CA	Mountain View	5	13	0	
+1141	/company/pendo-systems	Pendo Systems	1020000	operating	NJ	Newark	1	1	0	
+1142	/company/penguin-computing	Penguin Computing	15330000	operating	CA	San Francisco	4	15	0	
+1143	/company/authoria	Peopleclick Authoria	22500000	acquired	MA	Waltham	1	7	0	
+1144	/company/peoplecube	PeopleCube	17000000	acquired	MA	Framingham	1	2	0	
+1145	/company/peoplefilter	Peoplefilter Technology	4500000	acquired	IL	Arlington Heights	1	2	0	
+1146	/company/peoplelinx	PeopleLinx	3200000	operating	PA	Philadelphia	1	3	0	
+1147	/company/peppercoin	Peppercoin	10000000	acquired	MA	Waltham	1	2	0	
+1148	/company/perblue	PerBlue	800000	operating	WI	Madison	1	1	0	
+1149	/company/perfect-commerce	Perfect Commerce	30000000	operating	VA	Newport News	1	11	7	Negative
+1150	/company/perfect-market	Perfect Market	30600000	operating	CA	Pasadena	3	8	422	Negative
+1151	/company/performable	Performable	3000000	acquired	MA	Cambridge	1	1	0	
+1152	/company/perk-dynamics	Perk Dynamics	1300000	operating	OK	Shawnee	1	1	0	
+1153	/company/permabit	Permabit Technology	12000000	operating	MA	Cambridge	1	1	0	
+1154	/company/persay	PerSay	4700000	operating	NY	New York	2	4	6	Positive
+1155	/company/personeta	Personeta	12000000	operating	NJ	Fort Lee	1	3	0	
+1156	/company/nuvixa	Personify Inc	6887193	operating	IL	Champaign	5	4	0	
+1157	/company/persystent-technology	Persystent Technologies	21460663	operating	FL	Tampa	3	9	0	
+1158	/company/pex-card	PEX Card	5571263	operating	NY	New York	2	3	0	
+1159	/company/pgp-corporation	PGP Corporation	51050012	acquired	CA	Menlo Park	3	7	0	
+1160	/company/phoenix-energy-technologies	Phoenix Energy Technologies	5000000	operating	CA	Irvine	1	1	0	
+1161	/company/phoenix-technologies	Phoenix Technologies	20300000	acquired	CA	Milpitas	1	1	1	Positive
+1162	/company/phreesia	Phreesia	42650000	operating	NY	New York	5	15	0	
+1163	/company/phurnace-software	Phurnace Software	10000000	acquired	TX	Austin	2	4	0	
+1164	/company/phynd-technology	Phynd Technology	2000000	operating	NE	Kearney	1	1	0	
+1165	/company/phytel	Phytel	24498160	operating	TX	Dallas	4	1	0	
+1166	/company/picturelife	Picturelife	7922801	operating	IL	Chicago	2	10	0	
+1167	/company/pilgrim-software	Pilgrim Software		operating	FL	Tampa	1	1	0	
+1168	/company/pinch-media	Pinch Media	560001	operating	NY	New York	3	7	2	Positive
+1169	/company/pintail-technologies	Pintail Technologies	17000000	operating	TX	Richardson	3	13	0	
+1170	/company/pipedrive	Pipedrive	3400000	operating	CA	San Francisco	2	11	0	
+1171	/company/pivotlink-formerly-seatab	PivotLink	37500000	operating	CA	San Francisco	5	8	0	
+1172	/company/plaid	Plaid	2800000	operating	CA	San Francisco	1	10	14	Negative
+1173	/company/planitax	Planitax	10000000	acquired	CA	Alameda	2	6	0	
+1174	/company/plansource-holdings	PlanSource Holdings	12000000	operating	FL	Orlando	1	1	0	
+1175	/company/platfora	Platfora	27200000	operating	CA	San Mateo	2	8	0	
+1176	/company/playboox	Playboox	3000000	operating	CA	San Francisco	1	1	0	
+1177	/company/plethora-technology	Plethora Technology	1000000	operating	WV	Kearneysville	1	3	6	Positive
+1178	/company/plex-systems	Plex Systems	36000000	operating	MI	Auburn Hlls	2	2	0	
+1179	/company/plura-processing	Plura Processing	750000	operating	TX	Houston	1	1	0	
+1180	/company/podcast-ready	Podcast Ready	2330000	acquired	TX	San Antonio	1	3	1	Negative
+1181	/company/point2-property-manager	Point2 Property Manager	400000	operating	OH	Cleveland	1	1	0	
+1182	/company/pole-star	Pole Star	1080000	operating	CA	Palo Alto	1	1	1	Positive
+1183	/company/policystat	PolicyStat	2580000	operating	IN	Carmel	2	1	0	
+1184	/company/polyserve	PolyServe	10000000	acquired	OR	Beaverton	1	4	0	
+1185	/company/ponte-solutions	Ponte Solutions	7500000	acquired	CA	Mountain View	1	2	0	
+1186	/company/poptip	Poptip	3001984	operating	NY	New York	3	9	0	
+1187	/company/portauthority-technologies	PortAuthority Technologies	31400000	operating	CA	Palo Alto	2	6	0	
+1188	/company/portico-learning-solutions	Portico Learning Solutions	3400000	operating	LA	Baton Rouge	2	7	0	
+1189	/company/possibility-space	Possibility Space	1500000	operating	TX	Austin	1	1	12	Positive
+1190	/company/postmaster-io	Postmaster	718000	operating	TX	Austin	2	5	16	Positive
+1191	/company/powercloud-systems	PowerCloud Systems	6000000	operating	CA	Palo Alto	2	3	0	
+1192	/company/preclick	Preclick	2150000	acquired	NJ	Atlantic Highlands	2	5	0	
+1193	/company/predixion-software	Predixion Software	31800000	operating	CA	San Juan Capistrano	4	11	0	
+1194	/company/prelert	Prelert	3750000	operating	MA	Framingham	1	2	0	
+1195	/company/preparis	Preparis	6100000	operating	GA	Atlanta	2	1	0	
+1196	/company/presidium-learning	Presidium Learning	9500000	acquired	VA	Reston	2	2	0	
+1197	/company/preventsys	Preventsys	7000000	operating	CA	Carlsbad	1	3	0	
+1198	/company/previser	PreViser	350000	operating	WA	Mount Vernon	1	1	0	
+1199	/company/prima-solutions	Prima Solutions	6199900	operating	IL	Chicago	2	1	0	
+1200	/company/prismtech	PrismTech	2320000	operating	MA	Woburn	1	2	0	
+1201	/company/privacy-networks	Privacy Networks	2400000	operating	CO	Fort Collins	1	1	19	Positive
+1202	/company/privatecore	PrivateCore	2250000	operating	CA	Palo Alto	1	1	0	
+1203	/company/process-data-control	Process Data Control	15820000	operating	TX	Arlington	1	1	14	Positive
+1204	/company/processunity	ProcessUnity	6690000	operating	MA	Concord	4	1	0	
+1205	/company/proclivity-systems	Proclivity Systems	5900000	operating	NY	New York	2	3	0	
+1206	/company/procore-technologies	Procore Technologies	4000000	operating	CA	Santa Barbara	1	1	0	
+1207	/company/prodagio-software	Prodagio Software		operating	TX	League City	1	1	0	
+1208	/company/producteev	Producteev	1310000	acquired	NY	New York	3	18	0	
+1209	/company/proficiency	Proficiency	9250000	operating	MA	Marlborough	2	5	20	Negative
+1210	/company/profit-point	Profit Point	2500000	operating	MA	North Brookfield	1	1	876	Positive
+1211	/company/prometheus-civic-technologies-prociv	Prometheus Civic Technologies (ProCiv)	1190000	operating	CA	Irvine	1	1	0	
+1212	/company/prometheus-group	Prometheus Group		operating	NC	Raleigh	1	1	0	
+1213	/company/promoter-io	Promoter.io	179000	operating	TX	San Antonio	1	5	0	
+1214	/company/proofpoint	Proofpoint	59000000	ipo	CA	Sunnyvale	4	19	0	
+1215	/company/propertybridge	PropertyBridge	2000000	operating	CA	Oakland	1	1	0	
+1216	/company/prosodic	Prosodic	1400000	operating	WA	Seattle	1	3	0	
+1217	/company/prospectnow	ProspectNow		operating	CA	Los Altos	1	1	0	
+1218	/company/prospx	ProspX	22747643	operating	TX	Austin	3	3	0	
+1219	/company/proteus-biomedical	Proteus Digital Health	87949979	operating	CA	Redwood City	2	2	0	
+1220	/company/proton-digital-systems	Proton Digital Systems	2000000	operating	CA	San Jose	1	1	0	
+1221	/company/prova-systems	Prova Systems	135000	operating	PA	Carbondale	3	2	0	
+1222	/company/providertrust	ProviderTrust	550000	operating	TN	Nashville	3	1	0	
+1223	/company/provision-interactive-technologies	Provision Interactive Technologies		operating	CA	Chatsworth	1	1	0	
+1224	/company/proximal-data	Proximal Data	7999996	operating	CA	San Diego	4	2	0	
+1225	/company/proximetry	Proximetry	6806343	operating	CA	San Diego	2	4	0	
+1226	/company/pubnub	PubNub	15500000	operating	CA	San Francisco	2	5	0	
+1227	/company/punch-entertainment	Punch Entertainment	1200000	operating	CA	Palo Alto	1	1	0	
+1228	/company/mypunchbowl	Punchbowl	5318500	operating	MA	Framingham	6	7	1	Negative
+1229	/company/puppet-labs	Puppet Labs	45500000	operating	OR	Portland	4	13	0	
+1230	/company/purediscovery-corporation	PureDiscovery Corporation	10000000	operating	TX	Dallas	1	1	0	
+1231	/company/pushtotest	PushToTest		operating	CA	Campbell	1	1	0	
+1232	/company/pwnie-express	Pwnie Express	5100000	operating	VT	Berlin	1	3	0	
+1233	/company/pyxis-mobile	Pyxis Mobile	24150000	closed	MA	Waltham	3	7	0	
+1234	/company/q1-labs	Q1 Labs	9000000	acquired	MA	Waltham	1	5	0	
+1235	/company/qcue	qcue	1125000	operating	TX	Austin	2	1	0	
+1236	/company/qliktech	QlikTech	12500000	ipo	PA	Radnor	1	2	0	
+1237	/company/qovia	Qovia	7160000	operating	MD	Frederick	1	3	0	
+1238	/company/quandora	Quandora	150000	operating	NY	Brooklyn	1	1	0	
+1239	/company/quantason	Quantason	3200000	operating	PA	Philadelphia	1	5	0	
+1240	/company/quantum-secure	Quantum Secure	3540000	operating	CA	San Jose	1	1	0	
+1241	/company/quantum4d	Quantum4D	200000	operating	CA	San Francisco	1	1	0	
+1242	/company/questra	Questra	12500000	acquired	CA	Redwood City	2	3	0	
+1243	/company/quickcomm-software-solutions	Quickcomm Software Solutions	4100000	operating	NY	New York	1	1	0	
+1244	/company/quickshift	Quickshift	5200000	operating	TX	Austin	1	3	0	
+1245	/company/quid	Quid	10000000	operating	CA	San Francisco	1	6	51	Positive
+1246	/company/quik-io	Quik.io	1280000	operating	CA	Mountain View	2	2	0	
+1247	/company/quikcycle	QuikCycle	17800000	operating	CA	Santa Clara	2	2	0	
+1248	/company/quintiq	Quintiq		operating	PA	Radnor	1	2	0	
+1249	/company/quixby	Quixby	150000	operating	OH	Cleveland	2	3	0	
+1250	/company/qumas	Qumas	10000000	operating	NJ	Jersey City	1	2	0	
+1251	/company/qumu	Qumu	24750000	acquired	CA	San Bruno	3	16	0	
+1252	/company/quote-roller	Quote Roller	1305000	operating	CA	San Francisco	2	3	0	
+1253	/company/qwilt	Qwilt	40100000	operating	CA	Redwood City	3	9	0	
+1254	/company/racemi	Racemi	13400000	operating	GA	Atlanta	2	2	0	
+1255	/company/radio-runt-inc	Radio Runt Inc.	1000000	operating	WA	Bellevue	1	1	0	
+1256	/company/rallyon	RallyOn	1500000	operating	CA	Menlo Park	1	4	0	
+1257	/company/rap-index	RAP Index		operating		Greenville	1	1	0	
+1258	/company/rapid7	Rapid7	61000000	operating	MA	Boston	4	3	0	
+1259	/company/rapt	Rapt	11230000	acquired	CA	San Francisco	1	3	2	Positive
+1260	/company/ratepoint	RatePoint	24500000	closed	MA	Needham	4	10	0	
+1261	/company/ravenflow	Ravenflow	20700000	operating	CA	Emeryville	3	9	0	
+1262	/company/raynforest	Raynforest	300000	operating	CA	Carlsbad	1	3	0	
+1263	/company/razorsight	Razorsight	34000000	operating	VA	Fairfax	4	5	0	
+1264	/company/razz	Razz	10000000	operating	CA	San Francisco	2	7	2	Positive
+1265	/company/reachable	Reachable	17550668	operating	CA	Palo Alto	5	5	11	Positive
+1266	/company/reactivity	Reactivity	8550000	acquired	CA	Belmont	1	3	3	Positive
+1267	/company/real-time-tomography	Real Time Tomography	150000	operating	PA	Villanova	1	1	0	
+1268	/company/reality-digital	Reality Digital	8300000	operating	CA	Berkeley	2	1	18	Positive
+1269	/company/really-strategies	Really Strategies	2300000	operating	PA	Audubon	2	2	74	Positive
+1270	/company/realops	RealOps	13000000	operating	VA	Herndon	2	3	0	
+1271	/company/realpage	RealPage	58591225	ipo	TX	Carrollton	4	1	0	
+1272	/company/rebit	Rebit	6700000	operating	CO	Longmont	2	3	0	
+1273	/company/reble	Reble		operating	CA	San Francisco	1	1	0	
+1274	/company/recognition-pro	Recognition PRO	415000	operating	PA	Allentown	2	3	3	Positive
+1275	/company/reconnex	Reconnex	16000000	acquired	CA	Mountain View	1	4	0	
+1276	/company/recurve	Recurve	14000000	acquired	CA	San Francisco	2	2	0	
+1277	/company/red-lambda	Red Lambda	11500000	operating	FL	Longwood	2	1	0	
+1278	/company/redit	redIT	72000000	operating	CA	San Diego	1	2	11	Negative
+1279	/company/redseal-systems	RedSeal Systems	39100000	operating	CA	Santa Clara	3	14	0	
+1280	/company/electronic-referral-manager-erm	ReferralMD	1510000	operating	CA	San Francisco	4	2	0	
+1281	/company/reflect-systems	Reflect Systems	9000000	operating	TX	Dallas	1	1	7	Positive
+1282	/company/reflexion-network-solutions	Reflexion Network Solutions	2750000	operating	MA	Woburn	1	1	0	
+1283	/company/refocus-imaging	Refocus Imaging	250000	operating	CA	Mountain View	1	1	0	
+1284	/company/regent-education	Regent Education	14350000	operating	MD	Frederick	3	4	0	
+1285	/company/regulatorybinder	RegulatoryBinder	20000	operating			1	1	0	
+1286	/company/rehab-documentation	Rehab Documentation	4950000	operating	TN	Brentwood	3	1	0	
+1287	/company/rcdb	Related Content Database (RCDb)	10000000	operating	CA	San Francisco	1	2	0	
+1288	/company/relativity-technologies	Relativity Technologies	1000000	acquired	NC	Raleigh	1	1	0	
+1289	/company/relayware	Relayware	5303380	operating	CA	Redwood City	1	1	0	
+1290	/company/spent	Relify		operating		South Carolina,	1	1	0	
+1291	/company/reltel	RelTel	1000000	operating	CA	San Francisco	1	6	0	
+1292	/company/remedy-informatics	Remedy Informatics	6000000	operating	UT	Sandy	1	1	0	
+1293	/company/remitpro	RemitPro	2500000	operating	NE	Omaha	1	1	0	
+1294	/company/rentmonitor	RentMonitor		operating	CO	Boulder	1	1	0	
+1295	/company/replay-solutions	Replay Solutions	15200000	operating	CA	Redwood City	2	4	0	
+1296	/company/replysend	ReplySend	118000	operating	CO	Boulder	1	1	0	
+1297	/company/res-software	RES Software	12405150	operating	PA	Radnor	2	2	2	Positive
+1298	/company/response-analytics	Response Analytics	4250000	operating	AZ	Scottsdale	1	2	2	Positive
+1299	/company/responselogix	ResponseLogix	13600000	operating	CA	Sunnyvale	2	6	0	
+1300	/company/responsys	Responsys	51900000	ipo	CA	San Bruno	3	13	0	
+1301	/company/reval-com	Reval.com	69930724	operating	NY	New York	4	4	0	
+1302	/company/reveal-technology	Reveal Technology	230000	operating	CA	Palo Alto	1	1	9	Negative
+1303	/company/reverb-networks	Reverb Networks	7000000	operating	VA	Ashburn	1	1	0	
+1304	/company/revionics	Revionics	18200000	operating	CA	Roseville	2	1	0	
+1305	/company/revivio	Revivio	25000000	operating	MA	Lexington	1	7	0	
+1306	/company/revolucionadolabs	Revolucionadolabs	40000100	operating	CA	Palo Alto	2	2	0	
+1307	/company/revolv	Revolv	2818000	operating	CO	Boulder	2	7	0	
+1308	/company/rfid-global-solution	RFID Global Solution	2500000	operating	VA	Reston	1	1	1	Negative
+1309	/company/right-hemisphere	Right Hemisphere	12000000	acquired	CA	Pleasanton	1	3	3	Negative
+1310	/company/right90	Right90	22000000	acquired	CA	Foster City	3	8	0	
+1311	/company/rightcare-solutions	RightCare Solutions	1750000	operating	PA	Ft. Washington	1	2	0	
+1312	/company/rightpath-payments	RightPath Payments	500000	operating	RI	Providence	1	1	0	
+1313	/company/ringadoc	Ringadoc	2650000	operating	CA	San Francisco	2	8	0	
+1314	/company/ringcube-technologies	RingCube Technologies	26000000	acquired	CA	Mountain View	3	5	0	
+1315	/company/ringio	Ringio	200000	operating	VA	Vienna	1	1	0	
+1316	/company/ringthree-technologies	Ringthree Technologies	4000000	operating	CA	Menlo Park	1	1	0	
+1317	/company/ripcode	RipCode	33000000	closed	TX	Richardson	4	12	0	
+1318	/company/ripple-technologies	Ripple Technologies	540000	acquired	PA	Conshohocken	1	1	0	
+1319	/company/riskclick	Riskclick	8200000	operating	NY	New York	1	3	0	
+1320	/company/river-vision-development	River Vision Development	17000000	operating	NY	New York	1	3	0	
+1321	/company/riverglass-inc	RiverGlass, Inc.	6400000	operating	IL	Champaign	2	7	0	
+1322	/company/rivermeadow-software	RiverMeadow Software	17000000	operating	MA	Westford	2	1	0	
+1323	/company/rivermine-software	Rivermine Software	23700000	acquired	VA	Fairfax	3	11	0	
+1324	/company/riverone	RiverOne	6000000	operating	CA	Irvine	1	2	0	
+1325	/company/rjmetrics	RJMetrics	7450000	operating	PA	Philadelphia	2	8	0	
+1326	/company/rlx-technologies	RLX Technologies	9100000	acquired	TX	The Woodlands	1	4	0	
+1327	/company/rohati-systems	Rohati Systems	11000000	acquired	CA	Sunnyvale	1	2	0	
+1328	/company/rolepoint	RolePoint		operating	CA	San Francisco	1	4	0	
+1329	/company/rollapp	rollApp	1350000	operating	CA	Palo Alto	2	3	0	
+1330	/company/rollstream	Rollstream	7500000	acquired	VA	McLean	2	3	0	
+1331	/company/rome-corporation	ROME Corporation	14000000	acquired	TX	Austin	1	2	1	Positive
+1332	/company/roost	Roost	13500000	acquired	CA	San Francisco	2	7	56	Positive
+1333	/company/rootless	Rootless	50000	operating	RI	Providence	1	1	0	
+1334	/company/rootstock-software	Rootstock Software	4250000	operating	CA	San Ramon	2	1	0	
+1335	/company/roundbox	Roundbox	43000000	operating	NJ	Florham Park	3	10	0	
+1336	/company/roundpegg	RoundPegg	3943042	operating	CO	Boulder	5	3	0	
+1337	/company/rsmart	rSmart	14272148	operating	AZ	Scottsdale	2	2	0	
+1338	/company/rvita	rVita	1000000	operating	CA	Santa Clara	1	1	0	
+1339	/company/sabrix	Sabrix	13000000	operating	OR	Lake Oswego	1	4	0	
+1340	/company/safaba-translation-solutions	Safaba Translation Solutions		operating	PA	Pittsburgh	1	2	0	
+1341	/company/safeharbor-technology	Safeharbor Knowledge Solutions	5000000	operating	WA	Tukwila	1	3	0	
+1342	/company/the-safety-hound	Safety Hound	15000	operating	NJ	Sparta	1	2	0	
+1343	/company/salemove	SaleMove	275000	operating	NY	New York	4	1	0	
+1344	/company/salesfusion	SalesFUSION	1800000	operating	GA	Atlanta	2	2	0	
+1345	/company/salesloft	SalesLoft	18000	operating	GA	Atlanta	2	3	0	
+1346	/company/salonbooker	SalonBooker	14500000	operating	NY	New York	1	4	0	
+1347	/company/salsa-labs	Salsa Labs	7000000	operating	DC	Washington	2	2	0	
+1348	/company/salsify	Salsify	8000000	operating	MA	Boston	1	2	0	
+1349	/company/samanage	Samanage	3000000	operating	NC	Cary	1	2	0	
+1350	/company/samfind	Samfind	125000	operating	CA	Los Angeles	1	1	0	
+1351	/company/sandata	Sandata		operating	NY	Port Washington	1	1	0	
+1352	/company/sanovi-technologies	Sanovi Technologies	6100000	operating	MA	Burlington	1	1	0	
+1353	/company/satin-technologies	Satin Technologies	322000	operating	CA	Sunnyvale	1	2	0	
+1354	/company/savaje-technologies	SavaJe Technologies	61650000	acquired	MA	Chelmsford	3	13	0	
+1355	/company/savo	SAVO	44000000	operating	IL	Chicago	4	4	0	
+1356	/company/saylent-technologies	Saylent Technologies		operating	MA	Franklin	1	2	0	
+1357	/company/scalearc	ScaleArc	17630000	operating	CA	Menlo Park	2	5	0	
+1358	/company/scaleio	ScaleIO	12000000	acquired	CA	Palo Alto	1	2	0	
+1359	/company/scalemp	ScaleMP	8000000	operating	CA	Cupertino	1	4	0	
+1360	/company/scali	Scali	3500000	acquired	MA	Marlborough	1	2	0	
+1361	/company/scality	Scality	35000000	operating	CA	San Francisco	4	12	3	Negative
+1362	/company/scalix	Scalix	6000000	operating	NY	New York	1	3	0	
+1363	/company/scan	Scan	7950000	operating	UT	Provo	2	16	227	Positive
+1364	/company/schoolwires	Schoolwires	12000000	operating	PA	State College	1	1	0	
+1365	/company/sciencelogic	ScienceLogic	30000000	operating	VA	Reston	2	3	0	
+1366	/company/scope	Scope 5	975000	operating	WA	Seattle	3	1	20	Positive
+1367	/company/scout-analytics	Scout Analytics	1000000	operating	WA	Issaquah	2	1	1	Positive
+1368	/company/screampoint	Screampoint	214000	operating	NY	Buffalo	2	2	0	
+1369	/company/scripped	Scripped	700000	operating	CA	San Francisco	1	1	0	
+1370	/company/scrollmotion	ScrollMotion	38100000	operating	NY	New York	4	1	0	
+1371	/company/sdl-enterprise-technologies	SDL Enterprise Technologies	6000000	operating	MA	Waltham	1	4	0	
+1372	/company/seatme	SeatMe		acquired	CA	San Francisco	1	1	0	
+1373	/company/secure-mentem	Secure Mentem		operating	MD	Annapolis	1	1	0	
+1374	/company/secure-software	Secure Software	9250000	operating	VA	McLean	1	3	48	Positive
+1375	/company/sefaira	Sefaira	10800000	operating	NY	New York	1	3	0	
+1376	/company/selero	Selero	1600000	operating	CO	Denver	1	1	0	
+1377	/company/sellbrite	Sellbrite		operating	CA	Pasadena	1	1	0	
+1378	/company/semantra	Semantra	9100000	operating	TX	Addison	3	3	0	
+1379	/company/semantria	Semantria		operating	MA	Amherst	1	2	0	
+1380	/company/sennari	Sennari	17000000	operating	CA	Los Angeles	3	9	0	
+1381	/company/sensable-technologies	SensAble Technologies	34300000	operating	MA	Woburn	3	2	0	
+1382	/company/sentilla	Sentilla	26350000	operating	CA	Redwood City	3	10	0	
+1383	/company/sentillion	Sentillion	32150000	acquired	MA	Andover	4	18	0	
+1384	/company/sentito-networks	sentitO Networks	6000000	operating	MA	Acton	1	6	0	
+1385	/company/sentrigo	Sentrigo	9500000	acquired	CA	Santa Clara	3	6	0	
+1386	/company/sequence-design	Sequence Design	5970000	operating	CA	Santa Clara	2	8	1	Positive
+1387	/company/sparq-mobile-solutions	Sequent	12000000	operating	CA	Redwood City	2	4	0	
+1388	/company/seriosity	Seriosity	6000000	operating	CA	Palo Alto	1	1	0	
+1389	/company/serps	SERPs	75000	operating	OR	Portland	2	1	6	Negative
+1390	/company/servicebench	ServiceBench	7300000	operating	VA	Fairfax	1	2	0	
+1391	/company/servo-software	Servo Software	5250000	acquired	CA	San Mateo	1	1	1	Negative
+1392	/company/seven	SEVEN Networks	62000000	operating	CA	San Carlos	2	10	1	Positive
+1393	/company/sevone	SevOne, Inc.	152000000	operating	DE	Wilmington	2	3	0	
+1394	/company/sher-ly	Sher.ly Inc.	250000	operating	CA	Palo Alto	1	1	0	
+1395	/company/shiftplanning	ShiftPlanning	1050000	operating	CA	San Francisco	2	4	0	
+1396	/company/shippable	Shippable		operating	WA	Bellevue	1	1	3	Negative
+1397	/company/shipzi	Shipzi	285000	operating	UT	Orem	2	3	0	
+1398	/company/shoefitr	Shoefitr	1230000	operating	PA	Pittsburgh	2	3	0	
+1399	/company/shopsocially	ShopSocially	1650000	operating	CA	Mountain View	2	4	0	
+1400	/company/sigmaflow	SigmaFlow		operating	TX	Plano	1	1	0	
+1401	/company/signacert	SignaCert	18800000	operating	OR	Portland	2	8	0	
+1402	/company/signaldemand	SignalDemand	30000000	operating	CA	San Francisco	2	7	0	
+1403	/company/signalfuse	SignalFuse	8500000	operating	CA	San Mateo	1	1	0	
+1404	/company/signiant	Signiant	10000000	operating	MA	Burlington	1	3	0	
+1405	/company/signifyd	Signifyd	2000000	operating	CA	Palo Alto	1	7	0	
+1406	/company/signtrak	SignTrak	502500	operating	OH	Cincinnati	2	1	0	
+1407	/company/silicon-navigator-corporation	Silicon Navigator Corporation		operating	CA	Cupertino	1	1	0	
+1408	/company/silkroad-technology	SilkRoad Technology	178000000	operating	IL	Chicago	6	23	0	
+1409	/company/silver-creek-systems	Silver Creek Systems	6000000	acquired	CO	Westminster	1	4	0	
+1410	/company/silver-peak	Silver Peak Systems	57130717	operating	CA	Santa Clara	7	12	1	Negative
+1411	/company/silverback-technologies	SilverBack Technologies	3500000	acquired	MA	Billerica	1	1	0	
+1412	/company/silverlink-communications	Silverlink Communications	7600000	operating	MA	Burlington	2	4	0	
+1413	/company/simparel	Simparel	4000000	operating	NY	New York	1	1	0	
+1414	/company/simpler	Simpler	1200000	operating	CA	San Francisco	1	5	294	Positive
+1415	/company/simplerelevance	SimpleRelevance	1268000	operating	IL	Chicago	3	7	0	
+1416	/company/simpleview	Simpleview		operating	AZ	Tucson	1	1	0	
+1417	/company/simplicita-software	Simplicita Software	2100000	operating	CO	Denver	1	1	0	
+1418	/company/sintecmedia	SintecMedia	10001589	acquired	NY	New York	2	3	0	
+1419	/company/siperian	Siperian	25000000	acquired	CA	Foster City	1	9	0	
+1420	/company/sipphone	SIPphone	6000000	operating	CA	San Diego	1	1	0	
+1421	/company/siri	Siri	24000000	acquired	CA	San Jose	2	8	48	Positive
+1422	/company/site9	Site9	1650000	operating	OR	Portland	4	1	0	
+1423	/company/sitebrains	SiteBrains	350000	operating	CA	San Francisco	1	2	0	
+1424	/company/siterra	Siterra	7000000	operating	CA	San Francisco	1	4	0	
+1425	/company/skedgeme	skedge.me	1600000	operating	NY	New York	1	1	0	
+1426	/company/sketchfab	Sketchfab	618000	operating	NY	New York	2	8	0	
+1427	/company/skillsurvey	SkillSurvey	1800000	operating	PA	Wayne	1	5	0	
+1428	/company/skybitz	SkyBitz	10000000	operating	VA	Sterling	1	6	0	
+1429	/company/skyrider	Skyrider	17000000	closed	CA	Mountain View	2	6	1	Positive
+1430	/company/skytide	Skytide	6000000	operating	CA	Oakland	1	2	0	
+1431	/company/skyway-software	Skyway Software	4000000	operating	FL	Tampa	1	3	0	
+1432	/company/slicebooks	Slicebooks		operating	CO	Denver	1	2	0	
+1433	/company/smartrecruiters	SmartRecruiters	15460000	operating	CA	San Francisco	2	3	0	
+1434	/company/smartsignal	SmartSignal	250000	acquired	IL	Lisle	1	2	0	
+1435	/company/smb-suite	SMB Suite	3000000	operating	TX	Irving	1	1	0	
+1436	/company/snapin-software	SNAPin Software	22300000	acquired	WA	Bellevue	2	8	0	
+1437	/company/snaptell	SnapTell	4000000	acquired	CA	Palo Alto	1	4	0	
+1438	/company/soa-software	SOA Software	11000000	operating	CA	Los Angeles	1	5	0	
+1439	/company/social-solutions	Social Solutions	11750000	operating	MD	Baltimore	3	5	45	Negative
+1440	/company/social-tables	Social Tables	2100000	operating	DC	Washington	2	8	9	Positive
+1441	/company/social-toaster	Social Toaster	2505000	operating	MD	Baltimore	2	1	1	Negative
+1442	/company/socialchorusinc	SocialChorus	7500000	operating	CA	San Francisco	2	3	0	
+1443	/company/socialengine	SocialEngine	12000	operating	CA	Los Angeles	1	1	0	
+1444	/company/socialsamba	SocialSamba	20000	operating	CA	Santa Clara	1	1	0	
+1445	/company/socialsci	SocialSci	512000	operating	MA	Cambridge	2	7	0	
+1446	/company/socialshield	SocialShield	10000000	acquired	CA	San Bruno	1	7	0	
+1447	/company/socialvolt	SocialVolt	1315000	operating	KS	Overland Park	2	1	0	
+1448	/company/softgenetics	SoftGenetics	250000	operating	PA	State College	1	1	0	
+1449	/company/softricity	Softricity	15000000	acquired	MA	Boston	1	6	0	
+1450	/company/softwriters-holdings	SoftWriters Holdings		operating	PA		1	1	0	
+1451	/company/solano-labs	Solano Labs		operating	CA	San Francisco	1	1	0	
+1452	/company/solarwinds	SolarWinds	217500000	ipo	TX	Austin	3	3	0	
+1453	/company/soldsie-inc	Soldsie	1000000	operating	CA	San Francisco	1	3	0	
+1454	/company/solid-information-technology	Solid Information Technology	5230000	acquired	CA	Cupertino	1	2	7	Negative
+1455	/company/solidcore-systems	Solidcore Systems	40000000	acquired	CA	Cupertino	3	10	0	
+1456	/company/solomo-technology	SOLOMO Technology	3786432	operating	WI	Madison	4	2	0	
+1457	/company/solum	Solum	23549993	operating	CA	San Francisco	3	4	0	
+1458	/company/solvoyo	Solvoyo		operating	MA	Boston	1	1	0	
+1459	/company/sonatype	Sonatype	40900000	operating	MD	Silver Spring	3	9	0	
+1460	/company/sonic-notify	Sonic Notify	4550000	operating	NY	New York	2	7	0	
+1461	/company/sourcebits-technologies	Sourcebits	10000000	operating	CA	San Francisco	1	2	0	
+1462	/company/south49-solutions	South49 Solutions	1200000	operating	VA	Sterling	1	1	0	
+1463	/company/spabooker	SpaBooker	14700000	acquired	NY	New York	2	4	0	
+1464	/company/space-time-insight	Space-Time Insight	42000000	operating	CA	San Mateo	3	9	1	Positive
+1465	/company/spaceclaim	SpaceClaim	37000000	operating	MA	Concord	5	15	0	
+1466	/company/spacecraft	SpaceCraft	1350000	operating	TX	Austin	1	2	12	Positive
+1467	/company/spanlink-communications	Spanlink Communications	12000000	operating	MN	Minneapolis	1	2	0	
+1468	/company/sparkbase	SparkBase	10525040	operating	OH	Cleveland	7	6	0	
+1469	/company/sparql-city	Sparql City	10000000	operating	CA	San Diego	1	1	0	
+1470	/company/spearfysh	SpearFysh	14050000	operating	OH	Twinsburg	2	1	0	
+1471	/company/spectrum-k12-school-solutions	Spectrum K12 School Solutions	13100000	operating	MD	Towson	2	6	0	
+1472	/company/speechcycle	SpeechCycle	10000000	operating	NY	New York	1	1	0	
+1473	/company/speek	Speek	2300000	operating	VA	Ashburn	2	20	2	Positive
+1474	/company/spigit	spigit	47200000	operating	CA	Pleasanton	5	5	0	
+1475	/company/spikesource	SpikeSource	68000000	acquired	CA	Mountain View	4	14	0	
+1476	/company/devicevm	Splashtop, Inc	45500000	operating	CA	San Jose	4	24	0	
+1477	/company/splitcast-technology	Splitcast Technology		operating	CA	Palo Alto	1	1	0	
+1478	/company/splunk	Splunk	40000000	ipo	CA	San Francisco	3	6	0	
+1479	/company/spoke	Spoke	25100000	operating	CA	San Mateo	3	8	326	Positive
+1480	/company/sport-ngin	Sport Ngin	9500000	operating	MN	Minneapolis	3	2	0	
+1481	/company/sportsmedia-technology	SportsMEDIA Technology	12500000	operating	NC	Durham	1	1	0	
+1482	/company/spotlight-ticket-management	Spotlight Ticket Management	2500000	operating	CA	Calabasas	1	1	0	
+1483	/company/spring-metrics	Spring Metrics	1360000	operating	NC	Durham	2	2	0	
+1484	/company/springsource	SpringSource	25000000	acquired	CA	San Mateo	2	5	0	
+1485	/company/sprout-social	Sprout Social	11000000	operating	IL	Chicago	3	3	0	
+1486	/company/sqord	Sqord		operating	NC	Durham	1	1	0	
+1487	/company/sqwiggle	Sqwiggle	1100000	operating	CA		1	8	0	
+1488	/company/st-bernard-software	St. Bernard Software	3000000	operating	CA	San Diego	1	2	0	
+1489	/company/stack-exchange	Stack Exchange	18000000	operating	NY	New York	2	13	2	Positive
+1490	/company/stacksafe	StackSafe	2600000	operating	VA	Vienna	2	3	0	
+1491	/company/star-analytics	Star Analytics	3500000	acquired	CA	San Mateo	1	2	0	
+1492	/company/starvine	Starvine	700000	operating	CA	Santa Clara	1	1	0	
+1493	/company/starwind-software	StarWind Software		operating	MA	Burlington	1	1	0	
+1494	/company/station-x	Station X	5400000	operating	CA	San Francisco	3	1	15	Positive
+1495	/company/stellaservice	StellaService	22200000	operating	NY	New York	4	13	0	
+1496	/company/sti-technologies	STI Technologies	17000000	operating	NY	Rochester	1	1	0	
+1497	/company/stitch-labs	Stitch Labs	5900000	operating	CA	San Francisco	3	9	0	
+1498	/company/stone-river-capital	StoneRiver	12300000	operating	IN	Cedar Rapids	1	1	0	
+1499	/company/stop-being-watched	Stop Being Watched	500000	operating	CA	Santa Monica	1	1	10	Negative
+1500	/company/stormpath	Stormpath	9700000	operating	CA	San Mateo	2	6	0	
+1501	/company/storspeed	Storspeed	13000000	closed	TX	Austin	1	4	0	
+1502	/company/strands	Strands Labs	55123000	operating	CA	San Francisco	4	5	0	
+1503	/company/stratavia	Stratavia	10700000	acquired	CO	Denver	5	5	0	
+1504	/company/streambase-systems	StreamBase Systems	39000000	acquired	MA	Lexington	5	13	0	
+1505	/company/streamlink-software	StreamLink Software	1513946	operating	OH	Cleveland	1	1	0	
+1506	/company/streamweaver	Streamweaver	1300000	operating	TN	Nashville	1	4	0	
+1507	/company/stripe	Stripe	40000000	operating	CA	San Francisco	3	13	52	Positive
+1508	/company/strobe	Strobe	2500000	acquired	CA	San Francisco	1	2	3	Negative
+1509	/company/strongloop	StrongLoop	9000000	operating	CA	San Mateo	2	3	0	
+1510	/company/sugarcrm	SugarCRM	134781309	operating	CA	Cupertino	8	14	12	Positive
+1511	/company/sundaysky	SundaySky	17000000	operating	NY	New York	2	5	0	
+1512	/company/sungard	SunGard	316000000	operating	PA	Wayne	1	1	0	
+1513	/company/sunglass	Sunglass	1800000	operating	CA	San Francisco	1	10	4	Negative
+1514	/company/superfeedr	Superfeedr		operating	CA	San Francisco	1	2	0	
+1515	/company/superior-global-solutions	Superior Global Solutions	6000000	operating	TX	Plano	1	1	2	Negative
+1516	/company/support-space	SupportSpace	36250000	operating	CA	South San Francisco	4	10	0	
+1517	/company/surdoc	SurDoc	4000000	operating	CA	Menlo Park	1	1	0	
+1518	/company/surgient	Surgient	20000000	acquired	TX	Austin	1	6	0	
+1519	/company/surroundsme	SurroundsMe	20000	operating	HI	Honolulu	1	1	0	
+1520	/company/surveygizmo	SurveyGizmo		operating	CO	Boulder	1	1	0	
+1521	/company/surveymonkey	SurveyMonkey	964999998	operating	CA	Palo Alto	5	11	3	Positive
+1522	/company/sutherland	Sutherland Global Services	30000000	operating	NY	Pittsford	1	1	0	
+1523	/company/swapbeats	SwapBeats	300000	operating	MN	Minneapolis	1	3	0	
+1524	/company/sway-medical-technologies	Sway Medical Technologies	700000	operating	OK	Tulsa	1	1	0	
+1525	/company/sweepery	Sweepery	500000	closed	CA	San Francisco	2	2	0	
+1526	/company/sweetlabs	SweetLabs	21500000	operating	CA	San Diego	3	12	0	
+1527	/company/swiftstack	SwiftStack	7600000	operating	CA	San Francisco	2	5	0	
+1528	/company/switchfly	Switchfly	34800000	operating	CA	San Francisco	4	15	0	
+1529	/company/swype	Swype	13900000	acquired	WA	Seattle	5	11	3	Negative
+1530	/company/swyzzle	Swyzzle	90000	operating	GA	Alpharetta	1	1	0	
+1531	/company/sychron-advanced-technologies	Sychron Advanced Technologies	5000000	operating	TX	Austin	1	1	0	
+1532	/company/synapticmash	SynapticMash	5000000	acquired	WA	Seattle	1	2	0	
+1533	/company/synchris	Synchris	4500000	acquired	VA	Sterling	1	3	0	
+1534	/company/syncronex	Syncronex	2830000	operating	WA	Issaquah	1	1	0	
+1535	/company/syndera-corporation	Syndera Corporation	10000000	operating	CA	Redwood City,	1	2	0	
+1536	/company/synfora	Synfora	3500000	operating	CA	Mountain View	1	5	0	
+1537	/company/syntricity	Syntricity	9100000	operating	CA	San Diego	2	5	0	
+1538	/company/sypherlink	Sypherlink	7000000	operating	OH	Dublin	2	6	0	
+1539	/company/t2-systems	T2 Systems	31000000	operating	IN	Indianapolis	2	2	0	
+1540	/company/tableau-software	Tableau Software	15000000	ipo	WA	Seattle	2	2	0	
+1541	/company/tablus	Tablus	16000000	operating	CA	San Mateo	1	2	0	
+1542	/company/tacit-software	Tacit Software		acquired	CA	Palo Alto	1	1	2	Negative
+1543	/company/tagsys	TAGSYS RFID Group	57884800	operating	PA	King of Prussia	3	7	0	
+1544	/company/take-the-interview	Take the Interview	3096763	operating	NY	New York	3	4	132	Positive
+1545	/company/talisma	Talisma	7070000	acquired	FL	Boca Raton	1	1	0	
+1546	/company/talyst	Talyst	30000000	operating	WA	BELLEVUE	2	3	0	
+1547	/company/blogfrog	TapInfluence	8200000	operating	CO	Boulder	2	4	0	
+1548	/company/tazz-networks	TAZZ Networks	6000000	operating	RI	Providence	1	5	0	
+1549	/company/teachscape	TeachScape	16000000	operating	CA	San Francisco	1	1	0	
+1550	/company/tectura	Tectura	10000000	operating	CA	Redwood City	1	2	0	
+1551	/company/teja-technologies	Teja Technologies	14500000	operating	CA	San Jose	2	9	0	
+1552	/company/telarix	Telarix	29500000	operating	VA	Vienna	3	6	0	
+1553	/company/telligentsystems	Telligent Systems	29475000	operating	TX	Dallas	3	1	0	
+1554	/company/tempo-payment	Tempo Payments	20000000	operating	CA	San Mateo	4	11	0	
+1555	/company/tendril	Tendril	111190000	operating	CO	Boulder	7	15	1	Positive
+1556	/company/tenebril	Tenebril	3030000	operating	MA	Framingham	1	1	0	
+1557	/company/tenrox	Tenrox	3900000	operating	CA	Glendale	1	1	1	Negative
+1558	/company/tenxer	tenXer	4700000	operating	CA	San Francisco	2	5	0	
+1559	/company/teoco-corporation	TEOCO Corporation	60000000	operating	VA	Fairfax	1	1	0	
+1560	/company/teranode	Teranode	10400000	operating	WA	Seattle	2	4	0	
+1561	/company/terascala	Terascala	20225000	operating	MA	Avon	6	2	0	
+1562	/company/terracota	Terracotta	23500000	acquired	CA	San Francisco	2	10	4	Positive
+1563	/company/terrago-technologies	TerraGo Technologies	20848426	operating	GA	Atlanta	5	9	0	
+1564	/company/terraspark-geosciences	TerraSpark Geosciences	6000000	operating	CO	Westminster	1	1	0	
+1565	/company/testquest	TestQuest	7500000	acquired	MN	Minneapolis	1	3	0	
+1566	/company/texert	Texert	3000000	operating	TX	Dallas	1	1	0	
+1567	/company/the-multiverse-network	The Multiverse Network	11600000	operating	CA	Mountain View	4	2	0	
+1568	/company/the-neat-company	The Neat Company	15550000	operating	PA	Philadelphia	3	5	25	Negative
+1569	/company/the-one-page-company	The One-Page Company	1800000	operating	CA	San Francisco	2	3	96	Negative
+1570	/company/the-rainmaker-group	The Rainmaker Group	42800000	operating	GA	Alpharetta	2	2	0	
+1571	/company/the-resumator	The Resumator	2975000	operating	PA	Pittsburgh	5	12	0	
+1572	/company/theravid	TheraVid	50000	operating	MA	Cambridge	1	1	0	
+1573	/company/therenow	thereNow	1350000	operating	UT	North Logan	2	2	0	
+1574	/company/thinglabs	Thing Labs	2200000	acquired	CA	San Francisco	2	8	20	Negative
+1575	/company/thingworx	ThingWorx	18399971	operating	PA	Downingtown	3	2	0	
+1576	/company/thinkspeed	Thinkspeed		operating	TX	Austin	1	1	0	
+1577	/company/thinkvine	ThinkVine	8000000	operating	OH	Cincinnati	1	4	0	
+1578	/company/this-technology	This Technology	7500000	operating	NY	New York	1	1	1836	Positive
+1579	/company/thru-inc	Thru, Inc.	14734000	operating	TX	Irving	4	14	0	
+1580	/company/ticket-evolution	Ticket Evolution	3500000	operating	NJ	Jersey City	1	2	0	
+1581	/company/ticketbiscuit	TicketBiscuit		operating	AL	Birmingham	1	1	0	
+1582	/company/tinderbox	TinderBox	1300000	operating	IN	Indianapolis	1	1	3	Negative
+1583	/company/tintri	Tintri	60000000	operating	CA	Mountain View	3	7	0	
+1584	/company/tipbit	Tipbit	1950000	operating	WA	Bellevue	1	2	0	
+1585	/company/toa-technologies	TOA Technologies	96200000	operating	OH	Beachwood	3	10	0	
+1586	/company/topchalks	TopChalks	3800000	operating	CA	Santa Clara	1	1	0	
+1587	/company/toptal	TopTal		operating	CA	Palo Alto,	1	6	0	
+1588	/company/toutapp	ToutApp	1270000	operating	CA	San Francisco	2	8	0	
+1589	/company/tracky	Tracky	1500000	operating	NV	Las Vegas	2	1	0	
+1590	/company/tradertools	TraderTools	9800000	operating	NY	New York	2	2	0	
+1591	/company/tradeshift	Tradeshift	24000000	operating	CA	San Francisco	2	4	0	
+1592	/company/trading-metrics	Trading Metrics	4000000	operating	NY	New York	1	1	11	Negative
+1593	/company/trakbill	TrakBill	600000	operating	MO	Saint Louis	3	3	0	
+1594	/company/transactis	Transactis	25700000	acquired	NY	Charlotte	7	7	0	
+1595	/company/transcepta	Transcepta	3000000	operating	CA	Aliso Viejo	1	1	0	
+1596	/company/transcribeme	TranscribeMe	1350000	operating	CA	Emeryville	2	8	0	
+1597	/company/transera-communications	Transera Communications	37000000	operating	CA	Sunnyvale	3	10	0	
+1598	/company/transparency-software	Transparency Software	12050000	operating	CA	Palo Alto	2	4	5	Positive
+1599	/company/trendkite	TrendKite	1200000	operating	TX	Austin	1	6	0	
+1600	/company/trenstar	TrenStar	10000000	acquired	CO	Greenwood Village	1	1	0	
+1601	/company/triactive	TriActive	2100000	operating	TX	Austin	1	3	0	
+1602	/company/trifacta	Trifacta	4300000	operating	CA	San Francisco	1	6	0	
+1603	/company/triggermail	TriggerMail	1219452	operating	NY	New York	2	1	0	
+1604	/company/triumfant	Triumfant	9000000	operating	MD	Rockville	1	4	0	
+1605	/company/trov	Trov	6800000	operating	CA	San Ramon	1	1	0	
+1606	/company/true-north-technology	True North Technology	3250000	operating	GA	Duluth	1	1	2	Negative
+1607	/company/truedemand-software	TrueDemand Software	16700000	acquired	CA	Los Gatos	3	8	0	
+1608	/company/trumarx-data-partners	TruMarx Data Partners	500000	operating	IL	Chicago	2	1	0	
+1609	/company/trumba-corporation	Trumba Corporation	8000000	operating	WA	Seattle	1	3	0	
+1610	/company/trustribe	Trustribe		operating	CA	San Francisco	1	1	0	
+1611	/company/truveris	Truveris	13800000	operating	NY	New York	2	7	0	
+1612	/company/trx-systems	TRX Systems	2000000	operating	MD	Greenbelt	2	4	0	
+1613	/company/tsumobi	tsumobi		operating	MA	Cambridge	2	2	0	
+1614	/company/tvcompass	tvCompass	5100000	operating	IL	Chicago	1	1	0	
+1615	/company/twisted-pair-solutions	Twisted Pair Solutions	9000000	operating	WA	Seattle	1	3	0	
+1616	/company/typesafe	Typesafe	17000000	operating	CA	San Francisco	2	5	0	
+1617	/company/u-s-trailmaps	U.S. TrailMaps	600000	operating	WI	Wausau	1	1	0	
+1618	/company/ubicom	Ubicom	47806598	operating	CA	San Jose	5	13	0	
+1619	/company/ucirrus	uCirrus	13104964	operating	CA	San Mateo	4	4	0	
+1620	/company/uievolution	UIEvolution	11999994	operating	WA	Kirkland	3	2	0	
+1621	/company/ulocate-communications	uLocate Communications	11000000	operating	MA	Boston	1	3	0	
+1622	/company/umbie-health	Umbie Health	470000	operating	CT	East Hartford	2	1	0	
+1623	/company/unboundid	UnboundID	14500000	operating	TX	Austin	2	2	0	
+1624	/company/unidesk	Unidesk	21050001	operating	MA	Marlborough	2	4	0	
+1625	/company/unified-color	Unified Color		operating	CA	South San Frnacisco	1	1	0	
+1626	/company/unify	UNIFY	38000000	operating	CA	Roseville	1	1	21	Positive
+1627	/company/union-bay-networks	Union Bay Networks	1850000	operating	WA	Seattle	1	4	0	
+1628	/company/unitask	Unitask	2500000	operating	MI	Bloomfield Hills	1	2	0	
+1629	/company/unitrends-software	Unitrends Software	20600000	operating	SC	Columbia	3	8	0	
+1630	/company/univa	Univa	17385708	operating	IL	Hoffman Estates	2	6	0	
+1631	/company/univa-ud	Univa UD	33000000	acquired	IL	Lisle	4	16	0	
+1632	/company/universal-robotics	Universal Robotics	1040000	operating	TN	Nashville	1	1	0	
+1633	/company/untangle	Untangle	18500000	operating	CA	Sunnyvale	3	5	8	Negative
+1634	/company/updatelogic	UpdateLogic	18973011	operating	MA	Southborough	3	2	0	
+1635	/company/updox	Updox	500000	operating	OH	Dublin	1	1	0	
+1636	/company/upland-software	Upland Software	3500000	operating	MA	Cambridge	1	3	0	
+1637	/company/uservoice	UserVoice	1800000	operating	CA	San Francisco	2	17	0	
+1638	/company/ustyme	ustyme	2000000	operating	CA	Sausalito	1	1	0	
+1639	/company/utest	uTest	37800000	operating	MA	Southborough	5	10	0	
+1640	/company/utility-associates	Utility Associates	1500000	operating	GA	Tucker	1	1	0	
+1641	/company/utopy	UTOPY	7500000	acquired	CA	San Francisco	1	2	0	
+1642	/company/v-i-laboratories	V.i. Laboratories	8500000	operating	MA	Waltham	2	3	0	
+1643	/company/valchemy	Valchemy	8500000	acquired	CA	San Mateo	1	4	0	
+1644	/company/vantageilm	VantageILM	1300000	operating	CA	Altadena	1	2	0	
+1645	/company/vanu	Vanu	42150000	operating	MA	Cambridge	3	4	0	
+1646	/company/varmour-networks	vArmour Networks	6000000	operating	CA	Santa Clara	1	1	0	
+1647	/company/varolii	Varolii	11000000	operating	WA	Seattle	2	5	0	
+1648	/company/varonis-systems	Varonis Systems	26139992	operating	NY	New York	3	7	0	
+1649	/company/vast-systems-technology	VaST Systems Technology	24000000	operating	CA	Sunnyvale	2	7	2	Negative
+1650	/company/vayusa	Vayusa	10000000	operating	MA	Watertown	1	3	0	
+1651	/company/vcommerce	Vcommerce	13000000	operating	AZ	Scottsdale	1	1	0	
+1652	/company/vcopious-software	vcopious Software		operating	PA	Conshohocken	1	3	0	
+1653	/company/veeam-software	Veeam Software		operating	OH	Columbus	1	1	0	
+1654	/company/veeva	Veeva	4000000	operating	CA	Pleasanton	1	1	0	
+1655	/company/vela-systems	Vela Systems	12000000	acquired	MA	Burlington	3	8	0	
+1656	/company/velocify	Velocify	20250000	operating	CA	El Segundo	2	3	0	
+1657	/company/veloxum-corporation	Veloxum Corporation	2000000	operating	CA	Scotts Valley	1	1	0	
+1658	/company/vendavo	Vendavo	15000000	operating	CA	Mountain View	1	5	0	
+1659	/company/veracity-payment-solutions	Veracity Payment Solutions	80000000	operating	GA	Atlanta	1	1	0	
+1660	/company/vericept	Vericept	20500000	acquired	CO	Denver	2	5	0	
+1661	/company/verient	Verient	10379997	operating	CA	San Jose	4	4	0	
+1662	/company/verimatrix	Verimatrix	39300000	operating	CA	San Diego	5	13	0	
+1663	/company/verix	Verix	12700000	operating	CA	Mountain View	1	3	0	
+1664	/company/versify-solutions	Versify Solutions	3841004	operating	PA	Glen Mills	3	1	0	
+1665	/company/versionone-2	VersionOne	6500000	operating	GA	Alpharetta	1	1	0	
+1666	/company/versly	Versly		acquired	CA	San Francisco	1	7	0	
+1667	/company/vertica-systems	Vertica Systems	30500000	acquired	MA	Billerica	3	8	0	
+1668	/company/vettro	Vettro	15000000	operating	NY	New York	1	1	0	
+1669	/company/vfa	VFA	3000000	operating	MA	Boston	1	1	0	
+1670	/company/vhayu-technologies	Vhayu Technologies	10250000	acquired	CA	Los Gatos	1	4	0	
+1671	/company/vico-software	Vico Software	3600000	operating	CO	Boulder	1	3	0	
+1672	/company/victorops	VictorOps	8107500	operating	CO	Boulder	3	6	0	
+1673	/company/videolicious	Videolicious	3650000	operating	NJ	Newark	2	10	0	
+1674	/company/vidient	Vidient	12000000	operating	CA	Santa Clara	1	4	0	
+1675	/company/vidsys	VidSys	18650000	operating	MA	Marlborough	3	5	0	
+1676	/company/vigilistics	Vigilistics	620000	operating	AR	Irvine	1	1	0	
+1677	/company/vigilix	Vigilix	120000	operating	SC	Greenville	1	1	0	
+1678	/company/vigilos	Vigilos	7400000	operating	WA	Seattle	2	3	0	
+1679	/company/viridity-software	Viridity Software	15000000	operating	MA	Burlington	2	4	0	
+1680	/company/virsto	Virsto Software	24000000	acquired	CA	Sunnyvale	3	10	0	
+1681	/company/virtual-bridges	Virtual Bridges	4000000	operating	TX	Austin	1	1	0	
+1682	/company/virtual-computer	Virtual Computer	21000000	acquired	MA	Westford	2	5	15	Positive
+1683	/company/virtual-iron-software	Virtual Iron Software	24500000	acquired	MA	Lowell	2	12	0	
+1684	/company/virtual-race-bags	Virtual Race Bags	1550000	operating	NC	Charlotte	2	2	0	
+1685	/company/virtuallogix	VirtualLogix	29288979	acquired	CA	Sunnyvale	4	8	0	
+1686	/company/virtualsharp-software	VirtualSharp Software	2547600	operating	VA	McLean	1	3	0	
+1687	/company/virtualworks-group	VirtualWorks Group	8500000	operating	FL	Boca Raton	1	1	0	
+1688	/company/virtugo-software	Virtugo Software	17600000	operating	OR	Beaverton	2	5	0	
+1689	/company/visionshare	VisionShare	6000000	operating	MN	Minneapolis	2	2	0	
+1690	/company/visiprise	Visiprise	32000000	operating	GA	Alpharetta	1	6	0	
+1691	/company/visitar	Visitar	3600000	operating	NC	Morrisville	1	2	0	
+1692	/company/visual-iq	Visual IQ	15000000	operating	MA	Needham	2	2	0	
+1693	/company/visual-networks	Visual Networks	10000000	operating	MD	Rockville	1	1	3	Negative
+1694	/company/visualon	VisualOn	3100000	operating	CA	Santa Clara	2	4	0	
+1695	/company/visualshare	VisualShare	260000	operating	UT	Salt Lake City	2	1	0	
+1696	/company/vivsimo	Vivisimo	5660000	acquired	PA	Pittsburgh	5	5	0	
+1697	/company/vizerra	Vizerra	16000000	operating	CA	San-Francisco	3	3	0	
+1698	/company/vkernel-corporation	VKernel, now a part of Dell	7000000	acquired	MA	Boston	1	3	0	
+1699	/company/vmlogix	VMLogix	3500000	operating	CA	Santa Clara	1	1	0	
+1700	/company/vmware	VMware	368500000	acquired	CA	Palo Alto	2	2	39	Positive
+1701	/company/vocalocity	Vocalocity	8200000	operating	GA	Atlanta	2	4	0	
+1702	/company/vocent	Vocent	6400000	acquired	CA	Mountain View	1	2	0	
+1703	/company/vontu	Vontu	20000000	acquired	CA	San Francisco	2	9	0	
+1704	/company/voss	VOSS Solutions	32000000	operating	TX	Richardson	3	9	0	
+1705	/company/votigo	Votigo	1265000	operating	CO	Boulder	1	1	0	
+1706	/company/voxware-inc	Voxware	2250000	operating	NJ	Hamilton	1	1	0	
+1707	/company/vpisystems	VPIsystems	13000000	acquired	NJ	Holmdel	2	12	0	
+1708	/company/vringo	Vringo	36982000	ipo	NY	New York	6	3	0	
+1709	/company/vsoft	VSoft	10000000	operating	GA	Duluth	1	1	0	
+1710	/company/vurv-technology	Vurv Technology	5000000	acquired	FL	Jacksonville	1	2	0	
+1711	/company/vuzit	Vuzit	355000	operating	PA	Philadelphia	3	2	0	
+1712	/company/vyatta	Vyatta	40800000	operating	CA	Belmont	4	15	0	
+1713	/company/wandisco-2	WANdisco	54789777	ipo	CA	San Ramon	2	4	0	
+1714	/company/watersmart-software	WaterSmart Software	5400000	operating	CA	San Francisco	2	8	0	
+1715	/company/watt-company	Watt & Company	2410000	operating	TX	Dallas	1	1	6	Positive
+1716	/company/wavemaker-software	Wavemaker Software	14500000	acquired	CA	San Francisco	2	6	0	
+1717	/company/wavesyndicate	WaveSyndicate	350000	operating	RI	Providence	1	1	0	
+1718	/company/webcollage	WebCollage	17598940	acquired	NY	New York	4	7	0	
+1719	/company/webgen-systems	WebGen Systems	9500000	operating	MA	Cambridge	1	2	0	
+1720	/company/weblayers	WebLayers	10000000	operating	MA	Cambridge	2	6	0	
+1721	/company/triggerio	webmynd	604400	operating	CA	San Francisco	3	9	0	
+1722	/company/websense	Websense	18000000	ipo	CA	San Diego	1	4	10	Negative
+1723	/company/webvisible	WebVisible	37000000	closed	CA	Playa Vista	3	4	0	
+1724	/company/wepay	WePay	19150000	operating	CA	Palo Alto	4	13	2	Negative
+1725	/company/weston-software	Weston Software	1577460	operating	CT	Westport	2	1	0	
+1726	/company/whale-communications	Whale Communications	15000000	acquired	NJ	Fort Lee	3	5	0	
+1727	/company/whittle	Whittle	1300000	operating	TX	Austin	1	2	15	Negative
+1728	/company/wikisway	Wikisway	140000	operating	OR	Portland	1	1	0	
+1729	/company/wimba	Wimba	25089334	operating	NY	New York	4	6	0	
+1730	/company/winshuttle	Winshuttle	12000000	operating	WA	Bothell	1	1	0	
+1731	/company/wireless-glue-networks	Wireless Glue Networks	4500000	operating	CA	Lafayette	1	4	0	
+1732	/company/work-for-pie	Work For Pie	315000	operating	TN	Memphis	4	5	39	Negative
+1733	/company/workflex-solutions	WorkFlex Solutions	1500000	operating	OH	Cincinnati	1	1	0	
+1734	/company/workforce-software	WorkForce Software	17000000	operating	MI	Livonia	1	2	14	Positive
+1735	/company/workshare	Workshare	55171635	operating	CA	California	2	6	2	Negative
+1736	/company/worksoft	Worksoft	15000000	operating	TX	Addison	2	2	0	
+1737	/company/worldly-developments	Worldly Developments	800000	operating	CA	San Francisco	2	15	0	
+1738	/company/wso2	WSO2	20500000	operating	CA	Palo Alto	3	6	0	
+1739	/company/wymsee	Wymsee		operating	MA	Cambridge	1	1	0	
+1740	/company/x1-technologies	X1 Technologies	10000000	operating	CA	Pasadena	2	3	0	
+1741	/company/xamarin	Xamarin	28000000	operating	CA	San Francisco	2	7	0	
+1742	/company/xand	Xand	200000000	operating	NY	Hawthorne	1	1	0	
+1743	/company/xangati	Xangati	10700000	operating	CA	Cupertino	1	2	0	
+1744	/company/xata	XATA	30000000	ipo	MN	Eden Prairie	1	2	0	
+1745	/company/xbio-systems	Xbio Systems	2230000	operating	PA	Harrisburg	1	2	0	
+1746	/company/xelor-software	Xelor Software	6000000	operating	NH	Salem	1	4	0	
+1747	/company/xenon-arc	Xenon Arc	27509998	operating	WA	Bellevue	2	1	0	
+1748	/company/xensource	XenSource	38000000	operating	CA	Palo Alto	3	11	0	
+1749	/company/xifin	XIFIN	2000000	operating	CA	San Diego	1	4	0	
+1750	/company/xkoto	xkoto	11035000	operating	MA	Waltham	3	5	0	
+1751	/company/xlerant	XLerant	4525000	operating	CT	Stamford	3	3	0	
+1752	/company/xmpie	XMPie	9000000	acquired	NY	New York	3	3	0	
+1753	/company/xobni	Xobni	41752000	acquired	CA	San Francisco	8	30	0	
+1754	/company/xoomsys	Xoomsys	8000000	operating	CA	Cupertino	1	3	0	
+1755	/company/xos-digital	XOS Digital	59821495	operating	MA	North Billerica	6	4	0	
+1756	/company/xterprise-solutions	Xterprise Solutions	2000000	operating	TX	Carrollton	1	1	0	
+1757	/company/xtime	Xtime	26000000	operating	CA	Redwood Shores	2	5	0	
+1758	/company/yam-labs	yaM Labs	500000	operating	VA	Alexandria	1	1	0	
+1759	/company/ycd-multimedia	YCD Multimedia	32500000	operating	NY	New York	4	9	0	
+1760	/company/yext	Yext	65750000	operating	NY	New York	6	17	0	
+1761	/company/yottamark	YottaMark	42000000	operating	CA	Redwood City	3	10	0	
+1762	/company/zadara-storage	Zadara Storage	10000000	operating	CA	Irvine	2	1	0	
+1763	/company/zadspace	Zadspace	3200000	operating			1	6	0	
+1764	/company/zalp	ZALP		operating			1	1	0	
+1765	/company/zapier	Zapier	1200000	operating	CA	Mountain View	2	4	0	
+1766	/company/zapproved	Zapproved	1450000	operating	OR	Portland	1	6	0	
+1767	/company/zazuba	Zazuba	150000	operating	DC	Washington	1	1	0	
+1768	/company/zencoder	Zencoder	2000000	acquired	CA	San Francisco	2	17	0	
+1769	/company/zend-technologies	Zend Technologies	44000000	operating	CA	Cupertino	4	18	0	
+1770	/company/zendesk	Zendesk	85500000	operating	CA	San Francisco	5	15	1	Negative
+1771	/company/zenitum	Zenitum	1000000	operating	CA	Sunnyvale	1	1	0	
+1772	/company/zenoss	Zenoss	40800000	operating	MD	Annapolis	3	12	1	Negative
+1773	/company/zenpayroll	ZenPayroll	6100000	operating	CA	San Francisco	1	19	1	Negative
+1774	/company/zeroturnaround	ZeroTurnaround		operating	MA	Tartu	1	2	0	
+1775	/company/zet-universe	Zet Universe	12000	operating	MA	Boston	3	3	0	
+1776	/company/zettics	Zettics	8200000	operating		Concord	1	4	0	
+1777	/company/zeuss	Zeuss		operating	CA	San Francisco	1	1	0	
+1778	/company/zilliant	Zilliant	29100000	operating	TX	Austin	3	13	0	
+1779	/company/zimplemoney	ZimpleMoney	600000	operating	CA	Costa Mesa	1	2	0	
+1780	/company/zmanda	ZManda	21000000	acquired	CA	Sunnyvale	3	8	0	
+1781	/company/zonoff	Zonoff	3800000	operating	PA	Malvern	1	2	0	
+1782	/company/zoopshop	ZoopShop	20000	operating	OH	columbus	1	1	0	
+1783	/company/zuora	Zuora	127500000	operating	CA	Foster City	5	27	0	
