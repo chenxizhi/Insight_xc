@@ -15,10 +15,10 @@ def get_prediction(Company):
     X_query = X[cb_software_reddit.company_name == Company]
     print(X_query)
     if clf.predict(X_query).astype(int) == 0:
-        blurb =  "NAY"
+        blurb =  "NAY, it is a StartDOWN"
         color = "darkred"
     else:
-        blurb = "YAY"
+        blurb = "YAY! It is a StartUP!"
         color = "skyblue"
     return blurb, color
 
