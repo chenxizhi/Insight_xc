@@ -1,0 +1,1785 @@
+,company_name,funding_total_usd,status,state_code,city,funding_rounds,num_investers,num_reddit,sentiment_reddit,outcome
+0,1010data,35000000,operating,NY,New York,1,1,0,,Not_Success
+1,121nexus,719000,operating,RI,Providence,4,5,0,,Not_Success
+2,15Five,1200000,operating,CA,San Francisco,2,8,0,,Not_Success
+3,170 Systems,14000000,acquired,MA,Bedford,1,1,0,,Success
+4,24PageBooks,,closed,NY,Rochester,1,1,0,,Not_Success
+5,27 bards,,operating,CA,Stanford,1,1,0,,Not_Success
+6,"2nd Story Software, Inc.",85000000,acquired,IA,Cedar Rapids,1,1,0,,Success
+7,30 Second Showcase,25000,operating,NJ,Clifton,1,1,0,,Not_Success
+8,3Leaf,65000000,operating,CA,Santa Clara,3,8,0,,Not_Success
+9,3Pillar Global,22520000,operating,VA,Fairfax,3,2,0,,Not_Success
+10,4Blox,,operating,CA,San Jose,1,1,0,,Not_Success
+11,4Home,9146354,acquired,CA,Sunnyvale,5,2,0,,Success
+12,6th Sense Analytics,6700000,acquired,NC,Morrisville,2,3,0,,Success
+13,7 Billion People,7952804,operating,TX,Austin,4,1,73,Negative,Not_Success
+14,9Lenses,3000000,operating,VA,Leesburg,1,2,0,,Not_Success
+15,A la Mobile,7550000,operating,KS,San Ramon,2,1,7,Negative,Not_Success
+16,ABPathfinder,400000,operating,KS,Overland Park,1,3,0,,Not_Success
+17,Accela,35000000,operating,CA,San Ramon,1,1,0,,Not_Success
+18,Accellos,51400000,operating,CO,Colorado Springs,3,5,0,,Not_Success
+19,Accept Software,25305000,acquired,CA,Santa Clara,4,4,33,Positive,Success
+20,Accruit,3315000,operating,CO,Denver,1,1,5,Negative,Not_Success
+21,AccuDraft,650000,operating,FL,Lake Mary,1,1,0,,Not_Success
+22,Accupost Corporation,,acquired,CO,Littleton,1,1,0,,Success
+23,AccuRev,2100000,operating,MA,Concord,1,1,0,,Not_Success
+24,Aceva Technologies,5280000,acquired,CA,San Mateo,1,3,0,,Success
+25,Achieve X,150000,operating,PA,Conshohocken,1,1,15,Positive,Not_Success
+26,Achievers,49122326,operating,CA,San Francisco,4,12,15,Positive,Not_Success
+27,Aconex,85000000,operating,CA,San Bruno,1,1,0,,Not_Success
+28,Acronis,11000000,operating,MA,Burlington,1,2,0,,Not_Success
+29,Acsis,6000000,operating,NJ,Marlton,1,1,0,,Not_Success
+30,Actiance,15600000,operating,CA,Belmont,1,4,0,,Not_Success
+31,Action Products International,10150000,operating,NY,New York,2,1,5,Negative,Not_Success
+32,ACTIV Financial Systems,25000000,operating,IL,Chicago,1,1,0,,Not_Success
+33,ACTIVE Network,213900000,ipo,CA,San Diego,8,37,53,Negative,Success
+34,ActiveTrak,500000,operating,OR,Portland,1,1,0,,Not_Success
+35,Adaptive Planning,84500000,operating,CA,Mountain View,4,18,0,,Not_Success
+36,Adapx,30000000,operating,WA,Seattle,5,16,0,,Not_Success
+37,Adesso Solutions,6000000,operating,IL,Rolling Meadows,1,1,0,,Not_Success
+38,Advanced Marketing & Media Group,500000,operating,CT,Stamford,1,1,0,,Not_Success
+39,Aegis Identity Software,2842900,operating,CO,Englewood,5,1,0,,Not_Success
+40,Affinnova,10500000,operating,MA,Waltham,2,3,0,,Not_Success
+41,afterBOT,1718955,operating,GA,Norcross,2,1,0,,Not_Success
+42,Agility Design Solutions,7000000,operating,CA,Palo Alto,1,3,0,,Not_Success
+43,Agily Networks,250000,operating,CA,San Jose,1,1,0,,Not_Success
+44,Agistics,2000000,acquired,CA,Pleasanton,1,1,0,,Success
+45,Agitar,10000000,operating,RI,Cranston,1,3,0,,Not_Success
+46,Ahalogy,1650000,operating,OH,Cincinnati,3,11,0,,Not_Success
+47,Aidin,600000,operating,NY,New York,1,4,0,,Not_Success
+48,AirSage,6000000,operating,GA,Atlanta,1,1,0,,Not_Success
+49,AIRSIS,2000000,operating,CA,San Diego,2,2,0,,Not_Success
+50,Airwide Solutions,25000000,acquired,MA,Burlington,1,5,0,,Success
+51,Akimbi Systems,8000000,operating,CA,San Mateo,1,3,0,,Not_Success
+52,Akorri Networks,48730000,acquired,MA,Littleton,4,9,0,,Success
+53,AlarmPointSystems,7500000,operating,CA,Pleasanton,2,1,0,,Not_Success
+54,Aldis,9780000,operating,TN,Oak Ridge,2,7,8,Positive,Not_Success
+55,Alignent Software,6000000,acquired,CA,Carlsbad,1,2,0,,Success
+56,Aligo,7920000,operating,CA,San Francisco,1,4,0,,Not_Success
+57,Allegiance,31854370,operating,UT,South Jordan,3,6,50,Negative,Not_Success
+58,Allegro Development Corporation,,operating,TX,Dallas,1,2,0,,Not_Success
+59,Alorum,191500,operating,FL,,1,2,0,,Not_Success
+60,AlterPoint,26800000,acquired,TX,Austin,3,3,0,,Success
+61,Altos Design Automation,1500000,operating,CA,San Jose,1,1,0,,Not_Success
+62,Amadesa,12800000,closed,IL,Evanston,2,2,0,,Not_Success
+63,Ambassador,18000,operating,MI,Birmingham,3,5,26,Negative,Not_Success
+64,Amcom Software,,acquired,MN,Eden Prairie,1,2,0,,Success
+65,Amitive,16000000,operating,CA,San Mateo,1,2,0,,Not_Success
+66,AMVONET,250000,operating,OH,Alliance,1,1,0,,Not_Success
+67,Anafore,,operating,CA,Torrance,1,1,0,,Not_Success
+68,Anaqua,100000000,operating,MA,Boston,1,1,0,,Not_Success
+69,Andrews Consulting Group,1000000,operating,CT,Cheshire,1,1,0,,Not_Success
+70,Angstro,225000,acquired,CA,Palo Alto,1,1,0,,Success
+71,Animated Speech,250000,operating,CA,San Francisco,1,3,0,,Not_Success
+72,Ankeena Networks,31828793,acquired,CA,Santa Clara,3,5,0,,Success
+73,Anomaly Innovations,,operating,CA,San Francisco,1,1,0,,Not_Success
+74,Anthology Solutions,10000000,operating,CA,Santa Clara,1,2,0,,Not_Success
+75,Anystream,59000000,acquired,VA,Dulles,3,6,0,,Success
+76,ApeSoft,3800000,operating,VA,Herndon,1,2,0,,Not_Success
+77,Apiary,1750000,operating,CA,San Francisco,2,6,0,,Not_Success
+78,Apmetrix,,operating,CA,San Diego,1,3,0,,Not_Success
+79,AppAssure Software,6000000,acquired,VA,Reston,1,1,0,,Success
+80,AppDynamics,86500000,operating,CA,San Francisco,4,11,0,,Not_Success
+81,Appian,10000000,operating,VA,Reston,1,1,0,,Not_Success
+82,Application Experts,18000,operating,CO,Broomfield,1,1,9,Positive,Not_Success
+83,Application Security,10000000,operating,NY,New York,1,2,37,Positive,Not_Success
+84,Applied Computational Technologies,200000,operating,PA,Windber,1,2,0,,Not_Success
+85,Applied Predictive Technologies,54000000,operating,VA,Arlington,1,1,0,,Not_Success
+86,AppNeta,47800000,operating,MA,SOUTH BOSTON,4,16,0,,Not_Success
+87,Appnomic Systems,11700000,operating,CA,Bangalore,3,3,0,,Not_Success
+88,Apprenda,15000000,operating,NY,Clifton Park,2,5,0,,Not_Success
+89,Appscio,7000000,operating,CA,Freedom,2,2,0,,Not_Success
+90,Appsembler,118000,operating,MA,Cambridge,1,1,0,,Not_Success
+91,Appstores.com,1155000,acquired,CA,San Francisco,2,19,0,,Success
+92,AppTank,,operating,OK,Jenks,1,1,0,,Not_Success
+93,Apreso Classroom,15000000,operating,VA,Dulles,1,3,0,,Not_Success
+94,aPriori Technologies,20400000,operating,MA,Concord,4,5,0,,Not_Success
+95,Aptana,7800000,acquired,CA,San Mateo,1,2,1,Negative,Success
+96,Apttus,37000000,operating,CA,San Mateo,1,3,0,,Not_Success
+97,Aragon Consulting Group,2500000,operating,CA,Redwood City,1,1,0,,Not_Success
+98,Arc Solutions,3000000,operating,NC,Durham,2,4,0,,Not_Success
+99,Arch Rock Corporation,15000000,acquired,CA,San Francisco,2,6,0,,Success
+100,Archivas,12000000,operating,MA,Waltham,1,3,0,,Not_Success
+101,ArcSight,26914000,acquired,CA,Cupertino,3,6,0,,Success
+102,ArcSoft,20000000,operating,CA,Fremont,1,2,0,,Not_Success
+103,Are You a Human,1551000,operating,MI,Detroit,4,9,1483,Positive,Not_Success
+104,Argyle Social,1565000,operating,NC,Durham,2,2,0,,Not_Success
+105,Aricent Group,64700000,operating,NJ,East Brunswick,2,3,0,,Not_Success
+106,Arigo,5000000,operating,MA,North Billercia,1,1,0,,Not_Success
+107,Arithmatica,622000,operating,CA,Redwood City,1,2,0,,Not_Success
+108,Arkeia Software,4080000,operating,CA,Carlsbad,1,2,0,,Not_Success
+109,ArrayComm,30000000,operating,CA,San Jose,1,2,0,,Not_Success
+110,Arrayent,738309,operating,CA,Redwood City,2,2,0,,Not_Success
+111,Article One Partners,10000000,operating,NY,New York,2,2,16,Negative,Not_Success
+112,ArtsApp,,acquired,MN,Minneapolis,1,2,0,,Success
+113,Aruspex,3770000,operating,CA,San Francisco,1,1,0,,Not_Success
+114,Asana,38200000,operating,CA,San Francisco,4,20,7,Negative,Not_Success
+115,ASSIA,52344067,operating,CA,Redwood City,4,15,0,,Not_Success
+116,Astoria Software,,acquired,CA,San Francisco,1,4,0,,Success
+117,AstroloMe,300000,operating,,,1,1,0,,Not_Success
+118,At The Pool,750000,operating,CA,Santa Monica,1,3,371,Negative,Not_Success
+119,Athena Design Systems,4000000,operating,CA,Santa Clara,1,6,0,,Not_Success
+120,Atieva,31000000,operating,CA,Redwood City,2,2,0,,Not_Success
+121,Atrenta,33041651,operating,CA,San Jose,4,8,0,,Not_Success
+122,Attachments.me,2500000,operating,CA,San Francisco,2,2,0,,Not_Success
+123,Attainia,800000,operating,CA,Mountain View,1,2,0,,Not_Success
+124,Attendio,965000,operating,CA,Mountain View,1,2,0,,Not_Success
+125,Attendware,1000000,operating,MA,Boston,1,1,0,,Not_Success
+126,Attenex,5000000,acquired,WA,Seattle,1,1,0,,Success
+127,Attila Technologies,,operating,NJ,Hoboken,1,1,0,,Not_Success
+128,Attributor,25200000,acquired,CA,San Mateo,4,16,1,Positive,Success
+129,Attunity,10500000,ipo,MA,Burlington,4,4,0,,Success
+130,Audax Health Solutions,40959128,operating,DC,Washington,2,1,0,,Not_Success
+131,Audible Magic,1280000,operating,CA,Los Gatos,1,2,0,,Not_Success
+132,Austin Logistics Incorporated,8000000,operating,TX,Austin,1,5,0,,Not_Success
+133,Authentium,21000000,operating,FL,Palm Beach Gardens,2,10,0,,Not_Success
+134,Authernative,2500000,operating,CA,Redwood City,1,2,0,,Not_Success
+135,Automated Trading Desk,60000000,operating,SC,Mount Pleasant,1,1,0,,Not_Success
+136,Autotask,6000000,operating,NY,East Greenbush,1,2,2,Positive,Not_Success
+137,AutoVirt,24300000,closed,NH,Nashua,7,10,0,,Not_Success
+138,Availigent,12200000,operating,CA,San Jose,1,3,0,,Not_Success
+139,Avalara,46575356,operating,WA,Bainbridge Island,4,1,2,Positive,Not_Success
+140,Avectra,26500000,operating,VA,McLean,1,2,0,,Not_Success
+141,Aveksa,28000000,acquired,MA,Waltham,3,8,0,,Success
+142,Aventura,5300000,operating,CO,Denver,2,4,5,Negative,Not_Success
+143,Aventura HQ,18952281,operating,CO,Denver,6,3,0,,Not_Success
+144,AVIcode,1000000,operating,MD,Baltimore,1,1,0,,Not_Success
+145,Avisena,2500000,acquired,FL,Miami,1,1,0,,Success
+146,Avocadoª,2150000,operating,CA,San Francisco,2,5,0,,Not_Success
+147,Avolent,9000000,operating,CA,San Francisco,1,4,0,,Not_Success
+148,AVOS Systems,,operating,CA,San Mateo,1,4,0,,Not_Success
+149,AwarenessHub,12000000,operating,MA,Boston,3,2,0,,Not_Success
+150,Awarepoint,60000000,operating,CA,San Diego,4,15,0,,Not_Success
+151,AwesomeTouch,59700,acquired,KY,Lexington,4,1,0,,Success
+152,AWR Corporation,6400000,acquired,CA,El Segundo,1,5,0,,Success
+153,Axceler,12000000,operating,MA,Woburn,1,1,0,,Not_Success
+154,Axeda,21000000,operating,MA,Foxboro,3,5,0,,Not_Success
+155,Axentis Software,9000000,operating,OH,Cleveland,1,4,0,,Not_Success
+156,Axilogix Education,47628902,operating,NJ,Egg Harbor Township,1,2,0,,Not_Success
+157,Axiom Education,300000,operating,CT,Shelton,1,1,2,Negative,Not_Success
+158,Azaire Networks,21000000,operating,CA,Santa Clara,1,4,0,,Not_Success
+159,Azimuth Systems,7500000,operating,MA,Acton,1,2,0,,Not_Success
+160,Azumio,2500000,operating,CA,Palo Alto,1,3,0,,Not_Success
+161,B-hive Networks,7500000,acquired,CA,San Mateo,2,2,0,,Success
+162,BA Insight,14500000,operating,NY,New York,3,7,1,Negative,Not_Success
+163,Backblaze,5000000,operating,CA,Palo Alto,1,1,6,Negative,Not_Success
+164,BakedCode,168000,operating,CA,San Francisco,1,2,0,,Not_Success
+165,Banyan Technology,600000,operating,OH,Elyria,1,1,0,,Not_Success
+166,Base CRM,7900000,operating,IL,Chicago,2,6,0,,Not_Success
+167,Basho Technologies,33393001,operating,MA,Cambridge,6,5,0,,Not_Success
+168,batterii,3300000,operating,OH,Cincinnati,2,5,0,,Not_Success
+169,Baynote,27750000,operating,CA,San Jose,3,7,0,,Not_Success
+170,BayPackets,14000000,operating,CA,Fremont,1,2,0,,Not_Success
+171,Bazaarvoice,130552663,ipo,TX,Austin,5,10,0,,Success
+172,BBS Technologies,8000000,operating,TX,Houston,1,1,0,,Not_Success
+173,BDNA,32500000,operating,CA,Mountain View,2,8,0,,Not_Success
+174,Beeminder,25000,operating,OR,Portland,1,1,0,,Not_Success
+175,Beetailer,,operating,CA,Mountain View,1,1,0,,Not_Success
+176,Before the Call,2540000,operating,CA,Pleasanton,1,2,612,Negative,Not_Success
+177,Behavio,355000,acquired,CA,Sunnyvale,1,1,0,,Success
+178,BeliefNetworks,1400000,operating,SC,Charleston,1,1,0,,Not_Success
+179,Bench,2000000,operating,NY,New York,2,5,64,Positive,Not_Success
+180,Benefitter,2800000,operating,CA,San Francisco,2,1,0,,Not_Success
+181,Berkeley Design Automation,20250000,operating,CA,Santa Clara,3,5,0,,Not_Success
+182,BestVendor,3600000,acquired,NY,New York,2,8,0,,Success
+183,BeVocal,10000000,operating,CA,Mountain View,1,4,0,,Not_Success
+184,Beyond Lucid Technologies,461500,operating,CA,Walnut Creek,3,3,0,,Not_Success
+185,BEZ Systems,11100000,operating,MA,Boston,2,9,0,,Not_Success
+186,Big Switch Networks,45250000,operating,CA,Palo Alto,3,7,0,,Not_Success
+187,BigFix,8400000,acquired,CA,Emeryville,1,3,0,,Success
+188,BigMachines,,operating,IL,Deerfield,1,3,0,,Not_Success
+189,BigTime Software,2700000,operating,IL,Chicago,1,4,0,,Not_Success
+190,Billtrust,29000000,operating,NJ,Jamesburg,2,2,0,,Not_Success
+191,Binfire,1250000,operating,FL,Bocat Raton,2,4,0,,Not_Success
+192,Binpress,50000,operating,CA,Mountain View,2,2,0,,Not_Success
+193,BinWise,,operating,CA,San Francisco,1,1,0,,Not_Success
+194,Bislr,8810272,operating,CA,San Francisco,4,6,0,,Not_Success
+195,BitDefender,7000000,operating,FL,Fort Lauderdale,1,2,7,Negative,Not_Success
+196,Bitium,2400000,operating,CA,Santa Monica,1,11,0,,Not_Success
+197,BitLeap,130000,acquired,PA,Carlisle,1,1,0,,Success
+198,BitWall,,operating,CA,San Francisco,1,1,0,,Not_Success
+199,Bitzer Mobile,6250000,operating,CA,Sunnyvale,2,2,0,,Not_Success
+200,BizeeBee,870000,operating,CA,Palo Alto,2,8,0,,Not_Success
+201,Bizen,365000,operating,TN,Nashville,2,1,0,,Not_Success
+202,Bizzuka,1700000,operating,LA,Lafayette,1,1,0,,Not_Success
+203,Black Duck Software,50500000,operating,MA,Waltham,5,23,0,,Not_Success
+204,BlackJet,3135000,operating,FL,West Palm Beach,2,28,0,,Not_Success
+205,BlackLine Systems,,operating,CA,Woodland HIlls,1,2,0,,Not_Success
+206,BlenderHouse,25000,operating,PA,Pittsburgh,1,1,0,,Not_Success
+207,Blogic,20000,operating,AZ,Scottsdale,1,1,0,,Not_Success
+208,Bloomfire,20000000,operating,TX,Austin,3,5,0,,Not_Success
+209,Blue Cod Technologies,13500000,operating,MA,Marlborough,5,6,0,,Not_Success
+210,Blue Flame Data,6000000,operating,NY,New York,1,1,0,,Not_Success
+211,Blue Frog Gaming,1249990,operating,OH,Akron,2,4,0,,Not_Success
+212,Blue Pillar,7000000,operating,IN,Indianapolis,1,4,0,,Not_Success
+213,BlueNote Networks,23400000,acquired,ME,Tewksbury,2,5,0,,Success
+214,BlueRoads,15000000,acquired,CA,San Mateo,2,7,0,,Success
+215,Bluespec,5750000,operating,MA,Waltham,2,2,0,,Not_Success
+216,BlueSprig,10000000,operating,CA,San Francisco,1,1,0,,Not_Success
+217,BMG Controls,6000000,operating,CA,Livermore,1,1,0,,Not_Success
+218,BNI Video,16000000,acquired,MA,Boxborough,1,5,0,,Success
+219,BoardEvals,100000,operating,CA,El Dorado Hills,1,1,0,,Not_Success
+220,BoardVantage,5500000,operating,CA,Menlo Park,1,2,0,,Not_Success
+221,Bocada,13500000,operating,WA,Kirkland,2,10,0,,Not_Success
+222,BOLD Guidance,14000,operating,OH,Cleveland,1,1,0,,Not_Success
+223,BOLT Solutions,11500000,operating,NY,New York,1,5,1,Negative,Not_Success
+224,Bomgar,11000000,operating,MS,Ridgeland,2,4,0,,Not_Success
+225,Booker,42000000,operating,NY,New York,2,9,4,Positive,Not_Success
+226,Booktrack,2000000,operating,CA,San Francisco,1,4,0,,Not_Success
+227,Boston Technologies,3225000,operating,MA,Boston,2,2,1,Positive,Not_Success
+228,Boundless Geo,3000000,operating,NY,Brooklyn,1,1,0,,Not_Success
+229,BPL Global,75099969,operating,PA,Sewickley,5,13,0,,Not_Success
+230,Braintech,3000000,operating,VA,McLean,1,1,0,,Not_Success
+231,Braintree,69000000,acquired,IL,Chicago,2,6,2,Positive,Success
+232,Brand Networks,68000000,operating,MA,Boston,1,1,16,Positive,Not_Success
+233,Brandfolder,320000,operating,CO,Denver,2,1,0,,Not_Success
+234,brandlive,1715000,operating,OR,Portland,3,1,0,,Not_Success
+235,BravoSolution,8080000,operating,PA,Malvern,2,15,0,,Not_Success
+236,Breker Verification Systems,5000000,operating,CA,Mountain View,1,1,0,,Not_Success
+237,Brickfish,940261,acquired,IL,Chicago,1,1,0,,Success
+238,BridgePort Networks,13000000,acquired,IL,Chicago,1,4,0,,Success
+239,Brijot Imaging Systems,14000000,operating,FL,Lake Mary,1,1,0,,Not_Success
+240,BroadLight,27000000,acquired,CA,Santa Clara,3,18,0,,Success
+241,BroadSoft,42500000,ipo,MD,Gaithersburg,2,7,0,,Success
+242,Browserling,55000,operating,CA,Oakland,1,5,0,,Not_Success
+243,Bugsnag,1400000,operating,CA,San Francisco,1,3,0,,Not_Success
+244,BuildersCloud,1100000,operating,WA,Bellevue,1,6,0,,Not_Success
+245,BuildForge,6000000,acquired,TX,Austin,1,1,0,,Success
+246,BuildingIQ,19073747,operating,CA,San Mateo,3,4,0,,Not_Success
+247,BuildingLayer,20000,operating,KY,Lexington,1,2,0,,Not_Success
+248,Bunchball,12500000,operating,CA,Redwood City,3,7,0,,Not_Success
+249,Bungee Labs,23470000,operating,UT,Orem,3,9,0,,Not_Success
+250,Business Texter,250000,operating,WA,Spokane Valley,1,2,0,,Not_Success
+251,Buttercoin,1250000,operating,CA,Palo Alto,2,7,0,,Not_Success
+252,BYNDL,230000,operating,WA,Seattle,2,2,0,,Not_Success
+253,ByteShield,,operating,CA,San Francisco,1,1,0,,Not_Success
+254,C2FO,27100000,operating,KS,Fairway,2,5,0,,Not_Success
+255,C9 Inc.,12000000,operating,CA,San Mateo,1,3,0,,Not_Success
+256,CableMatrix Technologies,5000000,operating,IL,Des Plaines,1,4,0,,Not_Success
+257,Cadent,15000000,acquired,NJ,Carlstadt,1,5,0,,Success
+258,CADFORCE,4800000,operating,CA,Marina del Rey,2,5,0,,Not_Success
+259,Calabrio,8000000,operating,MN,Minneapolis,1,2,0,,Not_Success
+260,Calico Energy Services,2000000,operating,WA,Bellevue,2,1,0,,Not_Success
+261,CallCopy,6500000,operating,OH,Columbus,1,1,0,,Not_Success
+262,Callision,250000,operating,NY,New York,2,2,0,,Not_Success
+263,Calpont Corporation,6270000,operating,TX,Frisco,2,2,0,,Not_Success
+264,Calpurnia Corporation,8000000,acquired,MA,Cambridge,1,4,0,,Success
+265,Calxeda,99750000,operating,TX,Austin,5,6,0,,Not_Success
+266,Camiant,16100000,acquired,MA,Marlborough,2,5,0,,Success
+267,Cape Clear Software,19950000,operating,CA,San Mateo,2,8,0,,Not_Success
+268,CapRally,,operating,CA,San Francisco,1,1,0,,Not_Success
+269,Carbon Design Systems,27850000,operating,MA,Acton,5,13,0,,Not_Success
+270,CarbonFlow,8467282,operating,CA,San Francsico,4,5,0,,Not_Success
+271,CardStar,2030882,acquired,MA,Boston,3,6,0,,Success
+272,CareCam Innovations,10200000,operating,SC,Greenville,2,1,0,,Not_Success
+273,CareCloud,56400000,operating,FL,Miami,5,6,0,,Not_Success
+274,CareinSync,1600000,operating,CA,Santa Clara,2,2,0,,Not_Success
+275,Carnegie Speech,14886399,operating,PA,Pittsburgh,6,6,0,,Not_Success
+276,Casenet,14900000,operating,MA,Bedford,3,4,0,,Not_Success
+277,Cassatt,15000000,acquired,CA,San Jose,1,3,0,,Success
+278,Catalyst Mobile,10000000,operating,,Emeryville,1,2,0,,Not_Success
+279,Catalytic Software,4100000,operating,WA,Kirkland,2,2,0,,Not_Success
+280,Causata,15500000,operating,CA,San Francisco,2,2,0,,Not_Success
+281,Cazoomi,250000,operating,CA,San Francisco,1,1,0,,Not_Success
+282,CE Interactive,2000000,operating,NY,New York,3,7,0,,Not_Success
+283,Ceannate,,operating,IL,Rolling Meadows,1,1,0,,Not_Success
+284,CebaTech,8500000,operating,NJ,Eatontown,2,4,0,,Not_Success
+285,Celiro,560000,operating,CA,San Jose,1,1,0,,Not_Success
+286,Centeris Corporation,16500000,operating,WA,Bellvue,2,4,0,,Not_Success
+287,Central Logic,8030233,operating,UT,South Jordan,1,1,17,Positive,Not_Success
+288,CentrePath,15050000,operating,MA,Waltham,2,5,0,,Not_Success
+289,Centric Software,38399999,operating,CA,Campbell,4,8,2,Positive,Not_Success
+290,Cenzic,15000000,operating,CA,Campbell,1,4,0,,Not_Success
+291,Ceon,5040000,acquired,CA,Redwood City,1,3,0,,Success
+292,Cequint,7610000,acquired,WA,Seattle,2,5,0,,Success
+293,Cernium,17500000,operating,VA,Reston,2,2,0,,Not_Success
+294,Certeon,19000000,closed,MA,Burlington,2,7,0,,Not_Success
+295,Certpoint Systems,3750000,operating,NY,Roslyn Heights,1,1,0,,Not_Success
+296,CH Mack,3000000,operating,OH,Cincinnati,1,4,0,,Not_Success
+297,Chai Labs,1100000,acquired,CA,Mountain View,1,1,0,,Success
+298,Char Software,6199977,operating,MA,Chelmsford,2,2,0,,Not_Success
+299,Chequed.com,2400000,operating,NY,Saratoga Springs,3,3,0,,Not_Success
+300,Cherwell Software,25000000,operating,CO,Colorado Springs,1,1,0,,Not_Success
+301,Chip Estimate,3500000,operating,CA,San Jose,1,1,0,,Not_Success
+302,Chroma Energy,19700000,operating,TX,Sugar Land,1,1,0,,Not_Success
+303,Ciespace,6000000,operating,CA,Santa Clara,2,2,0,,Not_Success
+304,Cinnafilm,,operating,NM,Albuquerque,1,1,0,,Not_Success
+305,CircleCi,1500000,operating,CA,San Francisco,1,8,0,,Not_Success
+306,CircuitLab,,operating,CA,Mountain View,1,1,0,,Not_Success
+307,CITTIO,11500000,closed,CA,San Francisco,2,3,0,,Not_Success
+308,ClariFI,3500000,operating,NY,New York,1,1,0,,Not_Success
+309,Clarizen,56000000,operating,CA,San Mateo,6,14,1,Negative,Not_Success
+310,Clarus Systems,8330000,operating,CA,Redwood City,2,4,0,,Not_Success
+311,ClassLink,3000000,operating,NJ,Clifton,1,1,0,,Not_Success
+312,Clear Shape Technologies,5000000,operating,CA,Santa Clara,1,5,0,,Not_Success
+313,Clear Story Systems,1100000,acquired,NY,New York,1,2,2,Positive,Success
+314,ClearApp,14200000,acquired,CA,Mountain View,1,3,0,,Success
+315,Clearleap,20806300,operating,GA,Duluth,5,2,0,,Not_Success
+316,ClearMomentum,1000000,operating,NY,Canandaigua,1,1,0,,Not_Success
+317,ClearPoint Learning Systems,6900000,operating,NJ,Hoboken,2,1,0,,Not_Success
+318,ClearPoint Metrics,3800000,operating,MA,Burlington,2,2,0,,Not_Success
+319,Clearview International,,operating,TX,Dallas,1,1,0,,Not_Success
+320,Clearwell Systems,29000000,acquired,CA,Mountain View,2,5,0,,Success
+321,CLEO Communications,3500000,operating,IL,Loves Park,1,1,0,,Not_Success
+322,ClickShift,6000000,acquired,CA,San Bruno,1,2,0,,Success
+323,ClickSquared,56710000,operating,MA,Boston,3,7,0,,Not_Success
+324,Clickst,500000,operating,CA,San Francisco,1,1,0,,Not_Success
+325,Clinical Insight,,operating,NY,Fairport,1,1,0,,Not_Success
+326,CliniCast,100000,operating,CA,Millbrae,1,1,0,,Not_Success
+327,Clinicient,3499999,operating,OR,Portland,2,1,0,,Not_Success
+328,CLK Design Automation,5610000,operating,MA,Littleton,2,2,0,,Not_Success
+329,Cloakware,10000000,operating,VA,Vienna,1,3,0,,Not_Success
+330,Cloud Cruiser,6000000,operating,CA,San Francisco,2,2,0,,Not_Success
+331,Cloud Takeoff,300000,operating,OH,Mason,1,1,0,,Not_Success
+332,CloudAptitude,15000,operating,TN,Memphis,1,2,0,,Not_Success
+333,CloudHealth Technologies,4500000,operating,MA,Boston,1,2,0,,Not_Success
+334,CloudOne,3600000,operating,IN,Indianapolis,2,1,0,,Not_Success
+335,CloudPay,16000000,operating,NC,Raleigh,1,2,0,,Not_Success
+336,CloudShield Technologies,25000000,acquired,CA,Sunnyvale,2,9,0,,Success
+337,Cluepedia,430000,operating,CA,Irvine,1,1,0,,Not_Success
+338,Co-eXprise,2000000,operating,PA,Wexford,1,1,0,,Not_Success
+339,Co3 Systems,,operating,MA,Cambridge,1,1,0,,Not_Success
+340,COADE,42000000,acquired,TX,Houston,1,1,0,,Success
+341,Coaxis,86000000,operating,OR,Portland,2,2,0,,Not_Success
+342,Code42,52500000,operating,MN,Minneapolis,1,2,0,,Not_Success
+343,Codefast,6500000,acquired,CA,San Jose,1,2,0,,Success
+344,CodeGlide,500000,operating,CA,San Francisco,1,1,0,,Not_Success
+345,CodeGuard,1800000,operating,GA,Atlanta,2,2,0,,Not_Success
+346,CodeStreet,,operating,NY,New York,1,1,0,,Not_Success
+347,Cogency Software,2500000,operating,CA,Burlingame,1,4,0,,Not_Success
+348,Cogito,11700000,operating,UT,Draper,1,4,1,Negative,Not_Success
+349,Cogniscan,500000,operating,NJ,Newfoundland,1,1,0,,Not_Success
+350,Cognition Technologies,2700000,operating,CA,Culver City,1,4,0,,Not_Success
+351,CohesiveFT,1204650,operating,IL,Chicago,1,1,0,,Not_Success
+352,ColdSpark,6500000,acquired,CO,Broomfield,1,1,0,,Success
+353,Colectica,250000,operating,MN,Minneapolis,2,2,0,,Not_Success
+354,Colyar Consulting Group,,operating,AZ,Phoenix,1,2,0,,Not_Success
+355,Comet Solutions,15778037,operating,OH,Cincinnati,5,7,0,,Not_Success
+356,Commerce Guys,5000000,operating,MI,Jackson,1,2,4,Positive,Not_Success
+357,Communicado,15600000,operating,CA,Santa Ana,2,5,0,,Not_Success
+358,Compass Quality Insight Inc.,2000000,operating,CA,San Francisco,1,2,0,,Not_Success
+359,Compiere,6000000,operating,CA,Redwood Shores,1,1,1,Negative,Not_Success
+360,Compliance 360,2200000,operating,GA,Alpharetta,1,1,0,,Not_Success
+361,Compliance Assurance,1250000,operating,PA,Pittsburgh,1,4,1,Negative,Not_Success
+362,Composite Software,14650003,acquired,CA,San Mateo,3,1,0,,Success
+363,CompuPay,20000000,operating,FL,Miramar,1,1,0,,Not_Success
+364,Conclusive Analytics,8000000,operating,NC,Charlotte,1,3,0,,Not_Success
+365,Concuity,2500000,operating,IL,Vernon Hills,1,2,0,,Not_Success
+366,Conductrics,210000,operating,NY,Brooklyn,2,1,0,,Not_Success
+367,Conexus-IT,500000,closed,NY,New York,1,1,0,,Not_Success
+368,Conference Hound,700000,operating,CA,San Francisco,3,17,0,,Not_Success
+369,Confluence Technologies,60000000,operating,PA,Pittsburgh,1,1,0,,Not_Success
+370,Conformia Software,27250000,acquired,CA,Sunnyvale,3,10,0,,Success
+371,Conformiq,4200000,operating,CA,Saratoga,1,2,0,,Not_Success
+372,Connectbeam,3500000,operating,CA,Mountain View,1,1,0,,Not_Success
+373,Connected,500000,acquired,CA,San Francisco,1,6,742,Positive,Success
+374,Connectiva Systems,17000000,operating,NY,New York,1,4,0,,Not_Success
+375,Connecture,23500000,operating,GA,Atlanta,2,5,0,,Not_Success
+376,Connexin Software,,operating,NY,New York,1,1,0,,Not_Success
+377,Construction Software Technologies,11000000,operating,OH,Cincinnati,1,5,0,,Not_Success
+378,CONSTRVCT,,operating,NY,New York,1,1,0,,Not_Success
+379,Contact At Once!,3000000,operating,GA,Alpharetta,1,1,35,Positive,Not_Success
+380,Contact Solutions,46000000,operating,VA,Reston,1,1,50,Positive,Not_Success
+381,Contactually,1000000,operating,DC,Washington,1,3,0,,Not_Success
+382,Contatta,10189773,operating,AZ,Scottsdale,3,2,0,,Not_Success
+383,ConteXtream,23600000,operating,CA,Santa Clara,2,4,0,,Not_Success
+384,Continuent,5750000,operating,CA,San Jose,1,3,0,,Not_Success
+385,Continuity Engine,7291458,operating,CT,New Haven,6,4,0,,Not_Success
+386,Continuity Software,1000000,operating,NY,New York,1,1,2,Negative,Not_Success
+387,Contrail Systems,10000000,operating,CA,Santa Clara,1,1,0,,Not_Success
+388,Conversocial,8050000,operating,,London,3,4,0,,Not_Success
+389,Convio,10150000,ipo,TX,Austin,1,10,0,,Success
+390,Conviva,59000000,operating,CA,San Mateo,4,10,0,,Not_Success
+391,Convoke Systems,5500000,operating,CA,San Francisco,1,2,0,,Not_Success
+392,Copiun,9901574,acquired,MA,Marlborough,4,6,0,,Success
+393,CopperKey,2200000,operating,AZ,Gilbert,1,3,0,,Not_Success
+394,Coppertino,400000,operating,CA,Los Angeles,1,1,0,,Not_Success
+395,CorasWorks,4000000,operating,VA,Reston,1,1,0,,Not_Success
+396,Corduro,,operating,TX,Southlake,1,1,0,,Not_Success
+397,Core Security Technologies,4500000,operating,MA,Boston,1,1,2,Negative,Not_Success
+398,Core Solutions,,operating,PA,Wayne,1,1,20,Negative,Not_Success
+399,CoreDial,1500000,operating,PA,Blue Bell,1,1,0,,Not_Success
+400,Corefino,13600000,operating,CA,Sunnyvale,1,2,0,,Not_Success
+401,Corensic,6000000,operating,WA,Seattle,2,3,0,,Not_Success
+402,Cornerstone OnDemand,44700000,ipo,CA,Santa Monica,2,5,0,,Success
+403,Correlsense,17500000,operating,MA,Framingham,5,17,0,,Not_Success
+404,Corrigo,20000000,operating,OR,Tualatin,2,8,0,,Not_Success
+405,Corvil,31480000,operating,NY,New York,2,6,0,,Not_Success
+406,Cotendo,36000000,acquired,CA,Sunnyvale,4,12,0,,Success
+407,CouchOne,2000000,operating,CA,Oakland,1,1,0,,Not_Success
+408,Covercake,,operating,CA,San Jose,1,1,0,,Not_Success
+409,CoWare,7000000,operating,CA,San Jose,1,3,0,,Not_Success
+410,Cranite Systems,11500000,operating,CA,Los Gatos,1,7,0,,Not_Success
+411,CrestaTech,19500000,operating,CA,Santa Clara,3,5,0,,Not_Success
+412,Critical Links,5700000,operating,NJ,Fairfield,1,4,6,Negative,Not_Success
+413,CRIX Labs,100000,operating,,San Francisco,1,1,0,,Not_Success
+414,Crocodoc,,acquired,CA,San Francisco,1,6,0,,Success
+415,Crowdcast,6000000,acquired,CA,San Francisco,1,2,0,,Success
+416,CrowdComputing Systems,7300000,operating,NY,New York,2,4,0,,Not_Success
+417,Crowdly,1534997,operating,MA,Boston,3,8,0,,Not_Success
+418,CrowdPC,880000,operating,TN,Nashville,3,2,0,,Not_Success
+419,CrowdSource,12500000,operating,IL,Swansea,1,1,5,Negative,Not_Success
+420,CrownPeak,10250000,operating,CA,Los Angeles,2,3,0,,Not_Success
+421,CSS Corp,47000000,operating,CA,San Jose,2,4,0,,Not_Success
+422,CTSpace,5300000,operating,CA,San Francisco,1,2,0,,Not_Success
+423,CumuLogic,500000,operating,,,3,3,0,,Not_Success
+424,CUneXus Solutions,670000,operating,CA,Santa Rosa,6,1,0,,Not_Success
+425,CURRENT,13000000,operating,MD,Germantown,1,3,8402,Positive,Not_Success
+426,CustomerAdvocacy.com,500000,operating,VA,Herndon,1,1,0,,Not_Success
+427,Cvent,136911999,ipo,VA,McLean,2,3,0,,Success
+428,cVidya,8000000,operating,FL,Plantation,2,2,0,,Not_Success
+429,Cyan,30750000,operating,CA,Petaluma,2,7,1,Positive,Not_Success
+430,CyberArts,16333000,operating,CA,San Francisco,2,1,0,,Not_Success
+431,CyberCity 3D,7850000,operating,CA,El Segundo,2,1,0,,Not_Success
+432,CyberFlow Analytics,2000000,operating,,San Diego,1,1,0,,Not_Success
+433,Cybernet Software Systems,22500000,operating,NY,New York,1,1,0,,Not_Success
+434,CYBRA,2480000,operating,NY,Yonkers,1,3,0,,Not_Success
+435,Dakwak,600000,operating,CA,Mountain View,1,6,0,,Not_Success
+436,Dasdak,150000,operating,DC,Washington,1,1,0,,Not_Success
+437,Data Impact,5000000,acquired,CA,Huntington Beach,1,1,68,Negative,Success
+438,DataArt,4000000,operating,NY,New York,1,2,0,,Not_Success
+439,Databraid,20000,operating,RI,Providence,1,1,0,,Not_Success
+440,DataCert,12500000,operating,TX,Houston,2,2,0,,Not_Success
+441,Datacraft Solutions,4000000,operating,NC,Durham,1,1,0,,Not_Success
+442,Datadog,6200000,operating,NY,New York,2,9,0,,Not_Success
+443,DataGravity,42000000,operating,NH,Nashua,2,5,0,,Not_Success
+444,Datical,1660000,operating,TX,Austin,2,6,0,,Not_Success
+445,Datorama,3000000,operating,NY,New York,1,2,0,,Not_Success
+446,Datto,25000000,operating,CT,Norwalk,1,1,0,,Not_Success
+447,DAXKO,7750000,operating,AL,Birmingham,1,1,0,,Not_Success
+448,deCarta,56063148,operating,CA,San Jose,6,10,0,,Not_Success
+449,Decision Pace,1000000,operating,NY,Buffalo,1,2,5,Positive,Not_Success
+450,DecisionView,7535000,operating,CA,San Francisco,2,3,0,,Not_Success
+451,Decisyon,20000000,operating,CT,Stamford,3,3,0,,Not_Success
+452,Deep Nines,9000000,operating,TX,Dallas,1,1,0,,Not_Success
+453,Delphix,44500000,operating,CA,Menlo Park,3,9,0,,Not_Success
+454,Demandforce,10119801,acquired,CA,San Francisco,3,3,0,,Success
+455,DemandTec,6000000,acquired,CA,San Carlos,1,3,0,,Success
+456,Demibooks,,operating,IL,Chicago,1,1,0,,Not_Success
+457,DepotPoint,11000000,operating,WA,Bellevue,2,3,0,,Not_Success
+458,Derceto,2190000,operating,CA,San Francisco,1,2,0,,Not_Success
+459,Derivix,12700000,acquired,NY,New York,2,4,0,,Success
+460,Design2Launch,200000,operating,CT,Stamford,1,1,0,,Not_Success
+461,DeskGod,86626,operating,CA,San Francisco,1,1,0,,Not_Success
+462,Desmos,900000,operating,CA,San Francisco,3,4,0,,Not_Success
+463,Devver,515000,closed,CO,Boulder,2,3,0,,Not_Success
+464,DEY Storage Systems,3000000,operating,CA,San Mateo,1,4,0,,Not_Success
+465,Digabit,5500000,operating,CO,Lakewood,3,3,0,,Not_Success
+466,Digital Assent,12000000,operating,GA,Atlanta,3,6,0,,Not_Success
+467,Digital Fuel,5000000,operating,CA,San Mateo,1,4,31,Positive,Not_Success
+468,Digital Harbor,11000000,operating,VA,Reston,1,2,0,,Not_Success
+469,Digitalsmiths,31500000,operating,NC,Durham,5,12,0,,Not_Success
+470,DivvyHQ,,operating,MO,Kansas City,1,2,0,,Not_Success
+471,DivX,35000000,acquired,CA,San Diego,4,17,59,Positive,Success
+472,DNA Response,3575000,operating,WA,Seattle,2,5,2,Positive,Not_Success
+473,DNN Corp,8000000,operating,CA,San Mateo,2,5,0,,Not_Success
+474,DocRun,1100000,operating,CA,Santa Monica,1,4,0,,Not_Success
+475,DocuSign,115549498,operating,WA,Seattle,7,22,8,Positive,Not_Success
+476,Domo,123000000,operating,UT,American Fork,4,24,2,Negative,Not_Success
+477,dotCloud,10800000,operating,CA,San Francisco,2,14,0,,Not_Success
+478,doubleTwist,7500000,operating,CA,San Francisco,2,6,0,,Not_Success
+479,dreamsha.re,20000,operating,CA,Los Angeles,1,1,0,,Not_Success
+480,Drill Map,7179849,operating,TX,Austin,2,3,0,,Not_Success
+481,Dropbox,257200000,operating,CA,San Francisco,4,16,105,Negative,Not_Success
+482,Dropcam,47800000,operating,CA,San Francisco,4,17,0,,Not_Success
+483,Dropifi,100000,operating,CA,Mountain View,2,1,0,,Not_Success
+484,DropShip,4300000,operating,UT,American Fork,1,2,5,Negative,Not_Success
+485,Duable Chinese,,operating,,,1,1,0,,Not_Success
+486,Duck Creek Technologies,7000000,operating,MO,Bolivar,1,1,0,,Not_Success
+487,Duetto,12200000,operating,CA,San Francisco,2,10,0,,Not_Success
+488,DVS Intelestream,28500000,operating,CA,Burbank,1,1,0,,Not_Success
+489,Dwolla,22805000,operating,IA,Des Moines,5,10,50,Negative,Not_Success
+490,Dynamic Signal,21300000,operating,CA,San Bruno,2,10,3,Negative,Not_Success
+491,dynaTrace software,21900000,acquired,MA,Waltham,3,5,0,,Success
+492,Earth Class Mail,21400000,operating,OR,Beaverton,4,5,0,,Not_Success
+493,Easy Metrics,6700003,operating,WA,Kent,2,1,14,Negative,Not_Success
+494,easy2comply (Dynasec),1000000,operating,NY,New York,1,3,0,,Not_Success
+495,eDoorways International,5067737,operating,TX,Austin,2,1,0,,Not_Success
+496,Eglue Business Technologies,27000000,acquired,NJ,Hoboken,3,8,0,,Success
+497,Elanti Systems,5500000,operating,NJ,Somerset,1,3,0,,Not_Success
+498,Elastic,,operating,CA,Mountain View,1,1,83,Positive,Not_Success
+499,Elastra,14600000,operating,CA,San Francisco,2,4,2,Positive,Not_Success
+500,Electric Cloud,25000000,operating,CA,Sunnyvale,3,12,3,Negative,Not_Success
+501,Electron Database,500000,operating,OH,Independence,1,1,0,,Not_Success
+502,ELERTS,450000,operating,MA,Braintree,2,1,0,,Not_Success
+503,Elevate Digital,2700000,operating,IL,Chicago,1,1,0,,Not_Success
+504,Elitecore Technologies,10300000,operating,MA,Woburn,1,1,0,,Not_Success
+505,Ellevation,3850000,operating,MA,Boston,2,13,1,Positive,Not_Success
+506,Embrane,18000000,operating,CA,Santa Clara,1,3,0,,Not_Success
+507,eMerge Health Solutions,1100000,operating,OH,Cincinnati,2,2,0,,Not_Success
+508,Emergency CallWorx,,operating,AL,Madison,1,1,0,,Not_Success
+509,Emida,7500000,operating,CA,Foothill Ranch,1,3,0,,Not_Success
+510,eMinor,5000000,operating,NC,Durham,2,5,0,,Not_Success
+511,Enablon,15000000,operating,IL,Chicago,1,1,0,,Not_Success
+512,Encentuate,16000000,acquired,CA,Foster City,1,3,0,,Success
+513,Encirq Corporation,14000000,operating,CA,Burlingame,1,6,0,,Not_Success
+514,Encoding.com,4750000,operating,CA,San Francisco,3,5,0,,Not_Success
+515,Encover,8000000,acquired,UT,South Jordan,1,3,0,,Success
+516,Endeavor Commerce,500000,operating,TX,Dallas,1,1,0,,Not_Success
+517,Energid Technologies,500000,operating,MA,Cambridge,1,1,0,,Not_Success
+518,EnergySavvy.com,4845000,operating,WA,Seattle,4,6,0,,Not_Success
+519,Engine Yard,37500000,operating,CA,San Francisco,3,10,3,Positive,Not_Success
+520,Enmetric Systems,3735202,operating,CA,Belmont,2,2,0,,Not_Success
+521,Enroute Systems,2642814,operating,WA,Bellevue,4,4,0,,Not_Success
+522,Ensenda,10300000,operating,CA,San Francisco,1,3,0,,Not_Success
+523,Entelo,3500000,operating,CA,San Francisco,1,2,0,,Not_Success
+524,Entertainment Media Works,4000000,closed,NY,New York,1,1,3,Positive,Not_Success
+525,Entrada,5430000,operating,TN,Brentwood,3,3,1,Positive,Not_Success
+526,Environmental Support Solutions,8000000,acquired,,,1,3,1,Positive,Success
+527,Envis,6000000,operating,CA,Santa Clara,1,1,0,,Not_Success
+528,Envivio,57500000,operating,CA,San Francisco,4,22,0,,Not_Success
+529,Envysion,13269616,operating,CO,Louisville,4,7,0,,Not_Success
+530,ePAC Technologies,46000000,operating,CA,San Leandro,2,2,0,,Not_Success
+531,EPAM Systems,50000000,operating,PA,Newtown,1,3,0,,Not_Success
+532,ePartners,25000000,operating,TX,Irving,1,8,0,,Not_Success
+533,Epocrates,35000000,acquired,CA,San Mateo,2,10,0,,Success
+534,EquaMetrics,4500000,operating,NY,New York,3,2,0,,Not_Success
+535,Equiom,,operating,WA,Bellevue,1,1,0,,Not_Success
+536,Equivalent DATA,,operating,TX,Houston,1,1,44,Negative,Not_Success
+537,Escapia,3600000,acquired,WA,Seattle,2,2,0,,Success
+538,ESO Solutions,4000000,operating,TX,Austin,1,1,0,,Not_Success
+539,Estorian,4500000,operating,WA,Bellevue,1,2,0,,Not_Success
+540,ETI International,6500000,operating,TX,Austin,1,3,0,,Not_Success
+541,eTimesheets.com,250000,operating,VA,Herndon,1,1,0,,Not_Success
+542,etouches,7750000,operating,CT,Norwalk,2,6,0,,Not_Success
+543,everbill,50000,operating,CA,Mountain View,1,1,0,,Not_Success
+544,Everdream,20000000,acquired,CA,Fremont,1,5,0,,Success
+545,Evergage,2000000,operating,MA,Somerville,1,4,0,,Not_Success
+546,Everwise,3450000,operating,NY,New York,2,1,0,,Not_Success
+547,Everypoint,14000000,operating,MA,Boston,2,5,0,,Not_Success
+548,Evident Software,,operating,NJ,Newark,1,2,1,Positive,Not_Success
+549,Evolution Robotics,13880000,acquired,CA,Pasadena,1,3,0,,Success
+550,Evolven Software,,operating,NJ,Jersey City,1,2,0,,Not_Success
+551,Evostor,8000000,acquired,CA,Campbell,2,6,0,,Success
+552,ExactCost,8500000,operating,FL,Hallandale Beach,1,1,0,,Not_Success
+553,ExactTarget,244510002,acquired,IN,Indianapolis,8,10,0,,Success
+554,Excel Energy,2200000,acquired,OK,Tulsa,1,1,5,Negative,Success
+555,Exelis,2000000,operating,VA,McLean,1,1,0,,Not_Success
+556,Exeros,12000000,acquired,CA,Santa Clara,1,3,0,,Success
+557,Exinda,19000000,operating,MT,Boston,3,2,1,Positive,Not_Success
+558,Exit41,24200000,operating,MA,Andover,4,7,0,,Not_Success
+559,Expect Labs,2400000,operating,CA,San Francisco,3,18,4,Positive,Not_Success
+560,Expedit.us,,operating,RI,Providence,1,1,0,,Not_Success
+561,Expensify,6700000,operating,CA,San Francisco,2,4,0,,Not_Success
+562,eXperticity,2700000,operating,UT,Salt Lake City,1,2,0,,Not_Success
+563,expressor software,33550000,acquired,MA,Burlington,5,8,0,,Success
+564,Extend Media,33200000,acquired,MA,Newton,3,8,4,Positive,Success
+565,Extole,30950000,operating,CA,San Francisco,6,22,0,,Not_Success
+566,Extreme DA,7380000,operating,CA,Santa Clara,1,3,0,,Not_Success
+567,EZ-Apps,650000,operating,CA,Santa Barbara,1,2,0,,Not_Success
+568,F-Origin,10885060,operating,CA,Pleasanton,4,3,0,,Not_Success
+569,Facio,300000,operating,OH,Columbus,2,2,0,,Not_Success
+570,Factor Technology Group,2960000,operating,CA,San Francisco,1,1,4,Negative,Not_Success
+571,famo.us,5100000,operating,CA,San Francisco,2,12,0,,Not_Success
+572,FanGo,1052870,acquired,IL,Chicago,9,9,3,Positive,Success
+573,Fanplayr,2500000,operating,CA,Palo Alto,2,1,0,,Not_Success
+574,Farelogix,6000000,operating,FL,Miami,1,1,0,,Not_Success
+575,FarmLogs,1000000,operating,CA,Sacramento,1,2,0,,Not_Success
+576,Fastmobile,12000000,operating,IL,Rolling Meadows,1,3,0,,Not_Success
+577,FastScaleTechnology,12000000,acquired,CA,Santa Clara,2,7,0,,Success
+578,FastSoft,5965000,acquired,CA,Pasadena,4,1,0,,Success
+579,Feedgen,,operating,CA,San Francisco,3,2,0,,Not_Success
+580,Fieldglass,11000000,operating,IL,Chicago,1,4,0,,Not_Success
+581,FiftyThree,15100000,operating,NY,New York City,2,12,0,,Not_Success
+582,Finalta,2050000,operating,MA,Bedford,3,1,0,,Not_Success
+583,FinAnalytica,7000000,operating,NY,New York,2,2,0,,Not_Success
+584,Fios,6500000,operating,OR,Portland,1,5,111,Positive,Not_Success
+585,FiREapps,8750000,operating,AZ,Scottsdale,1,2,0,,Not_Success
+586,FireStar Software,980000,operating,MA,Boxborough,1,1,0,,Not_Success
+587,Firm58,19200000,operating,IL,Chicago,3,5,0,,Not_Success
+588,First Opinion,,operating,CA,San Francisco,1,6,361,Negative,Not_Success
+589,First Service Networks,10000000,operating,AZ,Scottsdale,1,1,12,Positive,Not_Success
+590,First To File,2167701,operating,CA,San Mateo,4,1,124,Negative,Not_Success
+591,FirstBest,10000000,operating,MA,Bedford,1,2,0,,Not_Success
+592,FitLinxx,4100000,operating,CT,Shelton,1,2,0,,Not_Success
+593,Fitnet,,operating,VA,Blacksburg,1,2,0,,Not_Success
+594,FlashSoft,3000000,acquired,CA,Sunnyvale,1,2,0,,Success
+595,FlashStarts,14000,operating,OH,Cleveland,1,1,0,,Not_Success
+596,Flat World Knowledge,26200000,operating,NY,Irvington,5,10,5,Negative,Not_Success
+597,FlatBurger,6750000,operating,NY,Loudonville,2,4,0,,Not_Success
+598,FleetCor Technologies,100000000,ipo,GA,Norcross,1,3,0,,Success
+599,FleetMatics,93000000,operating,IL,Rolling Meadows,2,4,0,,Not_Success
+600,Fliptop,5200000,operating,CA,San Francisco,3,9,0,,Not_Success
+601,Floored,1100000,operating,NY,New York,1,7,31,Negative,Not_Success
+602,Flutter,1400000,operating,CA,Palo Alto,1,4,6,Negative,Not_Success
+603,Forerun,2000000,operating,MA,Waltham,1,1,0,,Not_Success
+604,Formatta,7300000,operating,VA,Fairfax,2,3,0,,Not_Success
+605,Forte Design Systems,8100000,operating,CA,San Jose,2,6,0,,Not_Success
+606,Fortify Software,10000000,acquired,CA,San Mateo,1,2,1,Positive,Success
+607,Fortisphere,10000000,closed,VA,Chantilly,1,2,0,,Not_Success
+608,Fox Technologies,16000000,operating,CA,Mountain View,1,1,2,Positive,Not_Success
+609,Framehawk,16500000,operating,CA,San Francisco,2,4,0,,Not_Success
+610,Freshdesk,7051638,operating,CA,Walnut,3,3,0,,Not_Success
+611,Frictionless Commerce,6200000,operating,PA,Newton Square,1,4,0,,Not_Success
+612,FTRANS,14060000,operating,GA,"Atlanta,",3,10,0,,Not_Success
+613,Full Capture Solutions,7000000,operating,CT,East Hartford,1,2,0,,Not_Success
+614,Full Circle CRM,500000,operating,CA,San Mateo,1,1,0,,Not_Success
+615,Fusion Dynamic,6000000,operating,,,1,3,0,,Not_Success
+616,FusionStorm,15000000,operating,CA,San Francisco,1,1,0,,Not_Success
+617,FuzeBox,48500000,operating,CA,San Francisco,3,8,0,,Not_Success
+618,G5,15000000,operating,OR,Bend,1,1,18,Positive,Not_Success
+619,Game Trust,9000000,acquired,NY,New York,2,8,76,Negative,Success
+620,GameChanger Media,2083130,operating,NY,New York,4,1,0,,Not_Success
+621,GamePlan Technologies,2500000,operating,NE,Omaha,1,1,0,,Not_Success
+622,Gamma Basics,125000,operating,PA,Wayne,1,1,0,,Not_Success
+623,Gamma Enterprise Technologies,6200000,acquired,CA,Woodland Hills,1,2,0,,Success
+624,Gecko Audio,3000000,operating,CA,Palo Alto,1,1,1,Positive,Not_Success
+625,Generic Media,2500000,operating,CA,Palo Alto,1,2,9,Positive,Not_Success
+626,GenieDB,2700000,operating,CA,San Juan Capistrano,1,1,0,,Not_Success
+627,Genius.com,40599999,operating,CA,San Mateo,5,13,0,,Not_Success
+628,GenomeQuest,11200000,operating,MA,Westborough,3,3,0,,Not_Success
+629,GEOCOMtms,3070000,acquired,GA,Atlanta,1,5,0,,Success
+630,Geoforce,,operating,TX,Coppell,1,2,0,,Not_Success
+631,Geomagic,8000000,acquired,NC,Durham,1,1,0,,Success
+632,GestureTek,5000000,operating,CA,Sunnyvale,1,1,0,,Not_Success
+633,Get Real Health,,operating,MD,Rockville,1,1,152,Positive,Not_Success
+634,GettingHired,3000000,operating,NJ,Bedminster,1,1,0,,Not_Success
+635,"GetWellNetwork, Inc.",9000000,acquired,MD,Bethesda,2,7,0,,Success
+636,GigaSpaces Technologies,11000000,operating,NY,New York,2,6,0,,Not_Success
+637,GigaTrust,11000000,operating,VA,Herndon,1,3,0,,Not_Success
+638,Ginger Software,11700000,operating,MA,Lexington,2,3,0,,Not_Success
+639,GitHub,100000000,operating,CA,San Francisco,1,1,9,Positive,Not_Success
+640,Giveo,1500000,closed,CO,Boulder,1,3,0,,Not_Success
+641,Glassbeam,3000000,operating,CA,Sunnyvale,1,1,0,,Not_Success
+642,Glider,1000000,operating,OR,Portland,2,5,11,Negative,Not_Success
+643,GlobalCrypto,1000000,operating,GA,Atlanta,2,2,0,,Not_Success
+644,GlobalLogic,24972133,operating,VA,Vienna,3,2,0,,Not_Success
+645,GlobeRanger,8300000,operating,TX,Richardson,1,2,0,,Not_Success
+646,GMI,35000000,operating,WA,Bellevue,1,3,8,Positive,Not_Success
+647,goBalto,20500000,operating,CA,San Francisco,3,4,0,,Not_Success
+648,GoingOn,8500000,operating,CA,San Francisco,3,3,0,,Not_Success
+649,GoToTags,5000,operating,WA,Seattle,1,1,0,,Not_Success
+650,GovDelivery,19700000,operating,MN,Saint Paul,1,1,0,,Not_Success
+651,Granicus,10015003,operating,CA,San Francisco,2,1,0,,Not_Success
+652,GraphLab,6750000,operating,WA,Seattle,1,2,0,,Not_Success
+653,Greenphire,5806037,operating,PA,King of Prussia,2,1,0,,Not_Success
+654,Greenplum Software,61000000,acquired,CA,San Mateo,4,12,0,,Success
+655,Greenway Medical Technologies,22000000,operating,GA,Carrollton,1,2,0,,Not_Success
+656,GreenWizard,4400000,operating,SC,Mount Pleasant,4,5,0,,Not_Success
+657,Gremln,700000,operating,MO,St. Louis,1,1,0,,Not_Success
+658,Grid Net,,operating,CA,San Francisco,2,7,9,Negative,Not_Success
+659,Grid2Home,6649999,operating,CA,San Diego,4,2,0,,Not_Success
+660,GridApp Systems,5000000,acquired,NY,New York,1,2,0,,Success
+661,Gridpoint Systems,8000000,operating,,Ottawa,1,2,0,,Not_Success
+662,Gridstone Research,10000000,closed,CA,San Mateo,1,3,0,,Not_Success
+663,Grocery Shopping Network,7000000,operating,MN,Minneapolis,1,1,0,,Not_Success
+664,GroSocial,2200000,acquired,UT,Orem,3,5,0,,Success
+665,GROU.PS,5000000,operating,CA,Palo Alto,3,3,0,,Not_Success
+666,GroundWork,26000000,operating,CA,San Francisco,3,10,27,Negative,Not_Success
+667,Groupsite,2000000,operating,CA,Palo Alto,1,1,0,,Not_Success
+668,GroupSwim,,acquired,CA,San Francisco,1,1,0,,Success
+669,GroupSystems.com,1000000,operating,CO,Broomfield,1,1,0,,Not_Success
+670,GroupTalent,1000000,operating,WA,Seattle,2,7,0,,Not_Success
+671,GT Nexus,6000000,operating,CA,Oakland,1,2,19,Negative,Not_Success
+672,GuardianEdge Technologies,19500000,acquired,CA,San Mateo,3,10,0,,Success
+673,Guardtime,8000000,operating,CA,Palo Alto,1,4,0,,Not_Success
+674,GuestSpan,450000,operating,UT,Salt Lake City,1,1,0,,Not_Success
+675,Guide,2500000,operating,FL,Miami,2,13,684,Negative,Not_Success
+676,GutCheck,6000000,operating,CO,Denver,2,5,1,Negative,Not_Success
+677,HardMetrics,2000000,operating,PA,Doylestown,1,3,0,,Not_Success
+678,Harmony Information Systems,39500000,operating,VA,Reston,3,7,0,,Not_Success
+679,Hatchbuck,1365000,operating,MO,St. Louis,4,3,0,,Not_Success
+680,Hatteras Networks,36000000,operating,NC,Durham,2,7,0,,Not_Success
+681,Hazelcast,2500000,operating,CA,Palo Alto,1,1,0,,Not_Success
+682,HeadCase Humanufacturing,900000,operating,CA,Los Angeles,1,1,0,,Not_Success
+683,HeadSprout,8256751,acquired,WV,Seattle,2,3,0,,Success
+684,Health Hero Network(Bosch Healthcare),16000000,acquired,CA,Palo Alto,1,5,0,,Success
+685,HealthDataInsights,13200000,acquired,NV,Las Vegas,1,3,0,,Success
+686,HealthWyse,,operating,MA,Wilmington,1,1,0,,Not_Success
+687,Hearsay Social,51000000,operating,CA,San Francisco,3,14,3,Negative,Not_Success
+688,HelloWallet,16150000,operating,DC,Washington,3,5,0,,Not_Success
+689,Help Scout,3450430,operating,MA,Boston,3,17,1,Positive,Not_Success
+690,hField Technologies,70000,operating,PA,Bethlehem,1,1,0,,Not_Success
+691,Higgle,300000,operating,AZ,Scottsdale,1,2,0,,Not_Success
+692,High Street Partners,14300000,operating,MA,Boston,2,5,1,Positive,Not_Success
+693,HighRoads,17262500,operating,MA,Woburn,3,7,0,,Not_Success
+694,Highwinds,311800000,operating,FL,Winter Park,4,7,0,,Not_Success
+695,HireIQ Solutions,5234844,operating,GA,Alpharetta,5,6,0,,Not_Success
+696,HiringThing,1000000,operating,OR,Portland,1,5,0,,Not_Success
+697,HiWired,14000000,acquired,MA,Needham,2,3,0,,Success
+698,HomeSphere,2000000,operating,CO,Lakewood,2,2,0,,Not_Success
+699,Hoopla Software,2800000,operating,CA,San Jose,1,3,2,Positive,Not_Success
+700,HotLink,10000000,operating,CA,Sunnyvale,1,2,1,Positive,Not_Success
+701,Hubspan,13000000,acquired,WA,Seattle,1,4,0,,Success
+702,HubSpot,130519802,operating,MA,Cambridge,7,17,4,Positive,Not_Success
+703,HumanAPI,,operating,CA,Menlo Park,1,1,0,,Not_Success
+704,Humanoid,1100000,acquired,CA,San Francisco,2,19,3,Negative,Success
+705,HuntForce,400000,operating,NE,Omaha,2,4,0,,Not_Success
+706,Hyper9,15200000,acquired,TX,Austin,3,7,0,,Success
+707,HyperActive Technologies,7000300,operating,PA,Pittsburgh,2,1,0,,Not_Success
+708,Hyperformix,11800000,acquired,TX,Austin,2,6,0,,Success
+709,Hyperic,9900000,acquired,CA,Palo Alto,2,4,0,,Success
+710,iCentera,1500000,acquired,MN,Burnsville,1,2,0,,Success
+711,iCIMS,35000000,operating,NJ,Matawan,1,1,0,,Not_Success
+712,iConclude,12500000,acquired,WA,Bellevue,3,7,0,,Success
+713,Iconixx Software,9264900,operating,TX,Austin,2,1,0,,Not_Success
+714,Idealist,10000,operating,OK,Tulsa,1,1,47,Negative,Not_Success
+715,IdenTrust,20000000,operating,CA,San Francisco,1,2,0,,Not_Success
+716,iDoneThis,380000,operating,CA,San Francisco,1,7,1,Positive,Not_Success
+717,Ifbyphone,27100000,operating,IL,Chicago,7,9,0,,Not_Success
+718,Ignite Media Solutions,11900000,operating,FL,Oldsmar,1,1,0,,Not_Success
+719,iLEVEL Solutions,6000000,operating,NY,New York,1,3,0,,Not_Success
+720,Imagine Communications,34700000,operating,CA,San Diego,4,9,7,Negative,Not_Success
+721,Imimtek,4074997,operating,CA,Sunnyvale,1,2,0,,Not_Success
+722,Immunet Corporation,2000000,acquired,CA,Palo Alto,1,2,0,,Success
+723,Immunetrics,150000,operating,PA,Pittsburgh,1,1,0,,Not_Success
+724,IMN,,operating,MA,Waltham,1,1,0,,Not_Success
+725,Imperva,37000000,operating,CA,Redwood City,2,9,0,,Not_Success
+726,Impeva,10000000,operating,CA,Mountain View,1,2,0,,Not_Success
+727,Implicit Monitoring Solutions,25000000,operating,TX,Dallas,1,1,0,,Not_Success
+728,Impress Software Solutions,10000000,operating,MA,Waltham,1,5,0,,Not_Success
+729,Incipient,83700000,operating,MA,Waltham,4,27,2,Positive,Not_Success
+730,Incuity Software,7300000,acquired,CA,Mission Viejo,1,2,0,,Success
+731,Indicative Software,6000000,acquired,CO,Fort Collins,1,3,1,Negative,Success
+732,inDinero,1217000,operating,CA,San Francisco,3,13,1,Negative,Not_Success
+733,iNeoMarketing,400000,operating,VA,Herndon,1,1,0,,Not_Success
+734,Inertia Beverage Group,22000000,operating,CA,Napa,2,2,0,,Not_Success
+735,Infineta Systems,30000000,operating,CA,San Jose,2,5,0,,Not_Success
+736,Infinio,12000000,operating,MA,Cambridge,2,5,0,,Not_Success
+737,Infinisource,,operating,MI,Coldwater,1,1,0,,Not_Success
+738,Infopia,20000000,operating,UT,Salt Lake City,2,8,0,,Not_Success
+739,Infotrieve,5000000,operating,CT,Wilton,1,3,0,,Not_Success
+740,Infusionsoft,70900000,operating,AZ,Chandler,3,5,0,,Not_Success
+741,InGrid Solutions,77000,operating,OR,Portland,2,1,0,,Not_Success
+742,INgrooves,,operating,CA,San Francisco,1,1,0,,Not_Success
+743,Ink,1800000,operating,CA,Palo Alto,2,6,331,Negative,Not_Success
+744,InMage Systems,32483786,operating,CA,San Jose,3,4,0,,Not_Success
+745,InnerWorkings,12960000,operating,CA,San Francisco,2,4,0,,Not_Success
+746,InnoPath Software,20500000,operating,CA,Sunnyvale,2,3,0,,Not_Success
+747,Innotas,11500000,operating,CA,San Francisco,2,4,0,,Not_Success
+748,innRoad,12895310,operating,NY,Southampton,4,3,0,,Not_Success
+749,INRIX,68100000,operating,WA,Kirkland,4,10,1,Negative,Not_Success
+750,Insightly,13000000,operating,CA,San Francisco,2,5,2,Positive,Not_Success
+751,Insightpool,500000,operating,GA,Atlanta,2,1,0,,Not_Success
+752,InstaJob,2000000,operating,TX,Flower Mound,1,1,0,,Not_Success
+753,Instantis,8800000,operating,CA,Santa Clara,1,3,0,,Not_Success
+754,InStoreFinance.com,25000,operating,OH,Cleveland,1,1,0,,Not_Success
+755,Insurance Technologies,5400000,operating,CO,Colorado Springs,1,1,10,Negative,Not_Success
+756,InSync Software,12399999,operating,CA,San Jose,3,4,0,,Not_Success
+757,Intapp,,operating,CA,Palo Alto,1,1,0,,Not_Success
+758,Intechra Holdings,52500000,acquired,MS,Ridgeland,4,15,0,,Success
+759,Integrated Development Enterprise,1500000,operating,MA,Concord,1,4,2,Negative,Not_Success
+760,Integrated Mobile,5000000,operating,OH,Columbus,1,1,26,Negative,Not_Success
+761,Integrated Trade Processing,9000000,operating,NY,New York,1,1,0,,Not_Success
+762,Integrys AssetPoint,5500000,operating,SC,Greenville,1,2,0,,Not_Success
+763,Intelliden,91000000,acquired,CA,Menlo Park,4,9,0,,Success
+764,Intellitactics,3500000,acquired,VA,Reston,1,2,0,,Success
+765,Interact Public Safety,77202607,operating,NC,Winston-Salem,6,5,1,Negative,Not_Success
+766,Interactive Advisory Software,5000000,operating,NJ,Egg Harbor Township,1,2,0,,Not_Success
+767,Interactive TKO,12560000,acquired,TX,Dallas,2,5,0,,Success
+768,Interface21,10000000,operating,CA,San Mateo,1,1,0,,Not_Success
+769,IntervalZero,10000000,operating,MA,Waltham,1,1,0,,Not_Success
+770,Intervolve,2000000,operating,NC,Raleigh,1,2,0,,Not_Success
+771,Interwise,9000000,operating,MA,Cambridge,1,3,0,,Not_Success
+772,Intio,8850000,operating,CO,Broomfield,2,1,0,,Not_Success
+773,IntraStage,,operating,CA,San Diego,1,1,0,,Not_Success
+774,Intrusic,16000000,closed,MA,Burlington,2,6,0,,Not_Success
+775,InvenQuery,1100000,operating,,"Kansas City, MO",4,1,0,,Not_Success
+776,INVIDI Technologies,117250000,operating,NJ,Princeton,5,16,0,,Not_Success
+777,Invincea,10249992,operating,VA,Fairfax,2,3,0,,Not_Success
+778,InvisibleCRM,1500000,operating,CA,Mountain View,1,2,0,,Not_Success
+779,INVISION,43500000,operating,NY,New York,3,4,1,Negative,Not_Success
+780,Invivio Link,3650000,operating,TN,Nashville,2,2,0,,Not_Success
+781,Involver,11040000,acquired,CA,San Francisco,3,5,0,,Success
+782,IO Turbine,7750000,acquired,CA,San Jose,1,2,0,,Success
+783,IonLogix Systems,30000,operating,TX,Waco,1,1,0,,Not_Success
+784,Iperia,10000000,operating,MA,Billerica,2,2,0,,Not_Success
+785,iPipeline,104434998,operating,PA,Exton,3,4,0,,Not_Success
+786,IPLocks,15400000,acquired,CA,Sunnyvale,1,1,0,,Success
+787,iRates,100000,operating,CA,San Diego,1,1,0,,Not_Success
+788,Iridian Technologies,5000000,operating,NJ,Moorestown,1,2,0,,Not_Success
+789,iRise,20000000,operating,CA,El Segundo,1,4,0,,Not_Success
+790,IronPearl,,acquired,CA,Palo Alto,1,1,0,,Success
+791,iRule,550000,operating,,Detroit,3,7,0,,Not_Success
+792,ISD Corporation,6000000,operating,TX,Irving,1,4,0,,Not_Success
+793,iStoryTime,2000000,operating,CA,Santa Barbara,1,1,0,,Not_Success
+794,IT Trading,3200000,closed,CA,Los Angeles,1,1,1882,Negative,Not_Success
+795,ITA Software,100000000,acquired,MA,Cambridge,1,5,1,Negative,Success
+796,ITM Software,10000000,acquired,CA,Santa Clara,2,10,0,,Success
+797,Ivalua,4444200,operating,CA,Redwood City,1,1,0,,Not_Success
+798,Jacent Technologies,13700000,operating,CA,Santa Clara,2,8,0,,Not_Success
+799,JackBe,24500000,acquired,MD,Chevy Chase,4,13,0,,Success
+800,JackRabbit Systems,1330000,operating,NM,Santa Fe,1,2,0,,Not_Success
+801,Jama Software,13000000,operating,OR,Portland,1,2,0,,Not_Success
+802,Janeeva,1500000,operating,MI,Ann Arbor,1,2,0,,Not_Success
+803,Jasper Design Automation,7000000,operating,CA,Mountain View,1,6,0,,Not_Success
+804,Jaspersoft,43500000,operating,CA,San Francisco,4,21,0,,Not_Success
+805,JavaJobs,50000,operating,AR,Little Rock,1,1,0,,Not_Success
+806,Jelastic,,operating,CA,Palo Alto,1,1,0,,Not_Success
+807,Jive Software,69426794,ipo,CA,Palo Alto,5,4,2,Negative,Success
+808,JobApp Network,4000000,operating,MI,West Bloomfield,1,1,0,,Not_Success
+809,Jumio,35345881,operating,CA,Palo Alto,3,3,0,,Not_Success
+810,Junction Solutions,7500000,operating,CO,Englewood,1,1,0,,Not_Success
+811,Justinmind,862000,operating,CA,San Francisco,1,1,0,,Not_Success
+812,K-MOTION Interactive,2000000,operating,NH,Bedford,1,1,0,,Not_Success
+813,Kace networks,11000000,acquired,CA,Mountain View,2,3,0,,Success
+814,Kalido,28600000,operating,MA,Burlington,3,8,0,,Not_Success
+815,Kaltura,69100000,operating,NY,New York,5,13,0,,Not_Success
+816,Kapost,8700000,operating,CO,Boulder,5,16,0,,Not_Success
+817,Kapow Software,19743770,acquired,CA,Palo Alto,3,5,0,,Success
+818,Kareo,50000000,operating,CA,Irvine,6,9,0,,Not_Success
+819,Kasenna,11000000,acquired,CA,Sunnyvale,1,1,0,,Success
+820,Kaseya,,operating,CA,San Jose,1,1,0,,Not_Success
+821,Kavam.com,4750000,operating,,,1,1,0,,Not_Success
+822,KEMP Technologies,21699990,operating,NY,Yaphank,3,2,0,,Not_Success
+823,Kextil,370000,operating,,,3,1,0,,Not_Success
+824,Keychain Logistics,2520000,operating,CA,San Francisco,1,4,0,,Not_Success
+825,Kickfire,20000000,operating,CA,Santa Clara,1,4,0,,Not_Success
+826,Kickserv,500000,operating,CA,San Francisco,1,1,0,,Not_Success
+827,Kiha Software,20000000,closed,WA,Seattle,1,1,0,,Not_Success
+828,Kindling,2300000,operating,NY,New York,1,2,12,Negative,Not_Success
+829,Kingfish Labs,500000,acquired,NY,New York,1,2,0,,Success
+830,Kinnser Software,40000000,operating,TX,Austin,1,1,0,,Not_Success
+831,KISSmetrics,10800000,operating,CA,San Francisco,3,2,0,,Not_Success
+832,Kleo,635000,operating,FL,Miami,1,1,0,,Not_Success
+833,Kno,89010094,operating,CA,Santa Clara,6,15,7,Negative,Not_Success
+834,Knoa Software,8850000,operating,NY,New York,3,5,0,,Not_Success
+835,Knotice,500000,operating,OH,Akron,1,1,0,,Not_Success
+836,KnowledgeTree,6950000,operating,NC,Raleigh,2,4,0,,Not_Success
+837,KnowledgeVision,6350000,operating,MA,Concord,4,6,0,,Not_Success
+838,KonaWare,2000000,acquired,CA,Menlo Park,1,3,0,,Success
+839,KoolConnect Technologies,6500000,operating,MA,Canton,1,2,0,,Not_Success
+840,Krossover,11734330,operating,NY,New York,6,7,0,,Not_Success
+841,Kurani Interactive,275000,operating,NJ,Red Bank,1,2,0,,Not_Success
+842,KXEN,8000000,operating,CA,San Francisco,1,5,0,,Not_Success
+843,Kynetx,2000000,operating,UT,Lehi,1,1,0,,Not_Success
+844,Lancope,24600000,operating,,Georgia,4,13,0,,Not_Success
+845,Landslide CRM,8000000,operating,MA,Lexington,1,3,0,,Not_Success
+846,Layer 7 Technologies,19900000,acquired,DC,Washington,2,4,1,Negative,Success
+847,LeadPages,5000000,operating,MN,Minneapolis,1,2,0,,Not_Success
+848,LeisureLogix,5900000,operating,FL,Tampa,3,1,0,,Not_Success
+849,Leostream,5000000,operating,MA,Waltham,2,2,0,,Not_Success
+850,Levanta,8000000,operating,CA,San Mateo,1,3,1,Negative,Not_Success
+851,Levels Beyond,8999999,operating,CO,Denver,2,1,56,Positive,Not_Success
+852,Lever,,operating,CA,San Francisco,1,1,60,Negative,Not_Success
+853,Leverage Software,6000000,acquired,CA,San Francisco,1,2,18,Positive,Success
+854,Levlr,25000,operating,PA,Pittsburgh,1,1,0,,Not_Success
+855,Librato,5050000,operating,CA,San Francisco,2,3,0,,Not_Success
+856,Lightspeed Audio Labs,1250000,operating,NJ,Scotch Plains,1,1,0,,Not_Success
+857,LignUp,15700000,operating,CA,Mountain View,2,9,0,,Not_Success
+858,Likewise Software,10000000,acquired,WA,Bellevue,1,3,8,Positive,Success
+859,LineStream Technologies,1000000,operating,OH,Cleveland,2,3,0,,Not_Success
+860,Lingt,,acquired,,Boston,1,1,0,,Success
+861,Linksy,100000,operating,WA,Seattle,1,1,0,,Not_Success
+862,Linux Networx,47000000,acquired,UT,Bluffdale,2,6,0,,Success
+863,Liqueo,150000,operating,VA,Vienna,2,6,0,,Not_Success
+864,Liquid Engines,5500000,operating,CA,"Santa, Clara",1,4,2,Positive,Not_Success
+865,LiquidPlanner,2200000,operating,WA,Seattle,2,5,1,Positive,Not_Success
+866,LiquidTalk,2430000,operating,IL,Chicago,1,1,0,,Not_Success
+867,LiteScape Technologies,26500000,operating,CA,Redwood Shores,3,11,0,,Not_Success
+868,Lithium Technologies,142400000,operating,CA,San Francisco,5,13,5,Negative,Not_Success
+869,LiveClips,7655000,operating,CT,Stamford,5,4,0,,Not_Success
+870,LivelyFeed,50000,operating,CA,San Diego,1,1,0,,Not_Success
+871,Livrada,1410816,operating,CA,,2,1,0,,Not_Success
+872,LLamasoft,6100000,operating,MI,Ann Arbor,1,1,0,,Not_Success
+873,Locally,,operating,PA,Lititz,1,1,504,Positive,Not_Success
+874,Locately,1178000,acquired,MA,Boston,5,5,0,,Success
+875,Location,1171464,operating,RI,Woonsocket,2,1,1243,Negative,Not_Success
+876,Logical Apps,14000000,operating,CA,Irvine,1,2,5,Negative,Not_Success
+877,LogMeIn,20000000,ipo,MA,Woburn,2,7,3,Negative,Success
+878,LogoGarden,2000000,operating,TN,Nashville,1,1,0,,Not_Success
+879,Lombardi Software,7950000,acquired,TX,Austin,1,3,0,,Success
+880,Loyalty Lab,11000000,acquired,CA,San Francisco,3,5,0,,Success
+881,Lucid Design Group,1500000,operating,CA,Oakland,1,1,0,,Not_Success
+882,Lumigent Technologies,23000000,operating,MA,Acton,4,8,0,,Not_Success
+883,LUMOback,5000000,operating,CA,Palo Alto,1,2,0,,Not_Success
+884,Luxanova,112500,operating,MA,Concord,2,2,0,,Not_Success
+885,LVL7 Systems,21000000,operating,NC,Morrisville,1,6,0,,Not_Success
+886,Lyatiss,3320000,operating,CA,Mountain View,2,1,0,,Not_Success
+887,Lyft,82500000,operating,CA,San Francisco,5,13,2,Positive,Not_Success
+888,Lytics,2300000,operating,OR,PORTLAND,2,5,0,,Not_Success
+889,M-Factor,10100000,acquired,CA,San Mateo,2,6,5,Positive,Success
+890,M-Files,7843200,operating,TX,Dallas,1,2,3,Negative,Not_Success
+891,Made2Manage Systems,50000000,operating,IN,Indianapolis,1,1,0,,Not_Success
+892,MailFrontier,1500000,operating,CA,Palo Alto,1,3,0,,Not_Success
+893,Makana Solutions,3000000,operating,NH,Nashua,1,1,0,,Not_Success
+894,Malauzai Software,5300000,operating,TX,Austin,2,1,0,,Not_Success
+895,Managed Objects,7000000,acquired,ME,Waltham,1,5,1,Negative,Success
+896,Mango Reservations,20000,operating,TN,Nashville,1,1,0,,Not_Success
+897,Mantara,50594855,operating,NJ,Jersey City,6,16,0,,Not_Success
+898,Map Decisions,13200,operating,PA,Bethlehem,1,1,2,Positive,Not_Success
+899,Marathon Technologies,12000000,acquired,MA,Littleton,1,3,0,,Success
+900,MarginPoint,13750000,operating,CA,Lake Forest,1,4,0,,Not_Success
+901,Mark43,2025000,operating,NY,New York,2,7,0,,Not_Success
+902,Market6,5500000,operating,IL,Deerfield,1,1,0,,Not_Success
+903,Marketbright,,operating,CA,San Bruno,2,3,0,,Not_Success
+904,Marketcetera,###############################################################################################################################################################################################################################################################,operating,CA,San Francisco,1,1,1,Negative,Not_Success
+905,Marketecture,1473000,operating,UT,American Fork,6,13,1,Negative,Not_Success
+906,MarketMeSuite,2550000,operating,MA,Cambridge,3,2,0,,Not_Success
+907,Marketo,108400000,ipo,CA,San Mateo,6,16,4,Negative,Success
+908,Marketsync,516100,operating,WA,Kirkland,4,1,0,,Not_Success
+909,Marxent Labs,2200000,operating,OH,Kettering,4,7,0,,Not_Success
+910,Masterbranch,470000,operating,,San Francisco,1,7,0,,Not_Success
+911,Material Mix,100000,operating,MO,Saint Louis,2,2,3,Negative,Not_Success
+912,Mathsoft Engineering & Education,3000000,operating,MA,Cambridge,1,1,0,,Not_Success
+913,MATRIXX Software,33600000,operating,CA,Mountain View,4,5,0,,Not_Success
+914,Mavent,10000000,operating,CA,Irvine,1,1,1,Negative,Not_Success
+915,Mavizon,2900000,operating,IN,New Albany,2,1,0,,Not_Success
+916,MD-IT,11000000,operating,CO,Boulder,1,1,54,Negative,Not_Success
+917,Meal Ticket,1028000,operating,ID,Boise,8,2,17,Negative,Not_Success
+918,Medallia,75000000,operating,CA,Palo Alto,2,1,0,,Not_Success
+919,MedAptus,6000000,operating,MA,Boston,1,1,0,,Not_Success
+920,MedGRC,90000,operating,TX,Plano,2,1,0,,Not_Success
+921,MediaMorph,10000000,operating,NY,New York,2,2,0,,Not_Success
+922,MediaOcean,40500000,operating,IL,Chicago,2,2,0,,Not_Success
+923,MediaSilo,2250000,operating,MA,Boston,1,1,0,,Not_Success
+924,Mediaspectrum,35800000,operating,MA,Burlington,1,1,0,,Not_Success
+925,MediKeeper,,operating,CA,San Diego,1,1,0,,Not_Success
+926,Medio,30000000,operating,WA,Seattle,1,4,5,Positive,Not_Success
+927,MedPageToday,2100000,acquired,NJ,Little Falls,1,2,0,,Success
+928,Medsphere Systems,12000000,operating,CA,Carlsbad,1,4,0,,Not_Success
+929,MedVentive,28400000,operating,MA,Waltham,6,9,0,,Not_Success
+930,MeetingSense Software,3000000,operating,CA,San Diego,1,1,0,,Not_Success
+931,MemberPlanet,2500000,operating,CA,Torrance,1,2,0,,Not_Success
+932,Memeo,11100000,operating,CA,Santa Clara,3,2,0,,Not_Success
+933,Mendocino Software,19700000,closed,CA,Fremont,2,8,0,,Not_Success
+934,Meograph,20000,operating,CA,San Francisco,2,2,0,,Not_Success
+935,Mercury Intermedia,,operating,TN,Brentwood,1,1,0,,Not_Success
+936,MESoft,6000000,operating,CA,Los Angeles,1,2,0,,Not_Success
+937,Message Systems,37999998,operating,MD,Columbia,2,1,23,Positive,Not_Success
+938,MessageGate,5000000,operating,WA,Bellevue,1,5,0,,Not_Success
+939,Metaconomy,100000,operating,CA,Kongens Lyngby,1,1,0,,Not_Success
+940,MetaLINCS,8750000,acquired,CA,San Jose,1,3,0,,Success
+941,MetaSolv,21850000,acquired,TX,Plano,1,7,0,,Success
+942,Metastorm,30000000,acquired,MD,Baltimore,1,4,0,,Success
+943,Meteor,11200000,operating,CA,San Francisco,2,6,29,Negative,Not_Success
+944,MetraTech,30000000,operating,MA,Waltham,1,3,0,,Not_Success
+945,Metreos Corporation,4355000,acquired,TX,Austin,2,3,0,,Success
+946,MetricStream,65020000,operating,CA,Palo Alto,5,6,0,,Not_Success
+947,Mformation Technologies,29312993,operating,NJ,Edison,3,10,0,,Not_Success
+948,Migo Software,8330000,operating,CA,Redwood City,3,3,0,,Not_Success
+949,Mimosa Systems,53816776,acquired,CA,Santa Clara,6,20,0,,Success
+950,Minbox,800000,operating,CA,San Francisco,1,8,0,,Not_Success
+951,MINDBODY,58000000,operating,CA,San Luis Obispo,4,7,0,,Not_Success
+952,Mindjet,15000000,operating,CA,San Francisco,1,2,6,Positive,Not_Success
+953,Minor Studios,,operating,CA,San Francisco,1,1,0,,Not_Success
+954,MiNOWireless,8500000,operating,CA,Santa Clara,2,4,0,,Not_Success
+955,Mirage Networks,12000000,acquired,IL,Chicago,1,5,0,,Success
+956,Mirapoint Software,10300000,operating,CA,Sunnyvale,1,7,0,,Not_Success
+957,MiserWare,,operating,VA,Blacksburg,1,1,0,,Not_Success
+958,Mission Research,1500000,operating,PA,Lancaster,1,1,16,Negative,Not_Success
+959,Mitro,2400000,operating,NY,New York,2,2,0,,Not_Success
+960,Mixamo,8676235,operating,CA,San Francisco,3,2,0,,Not_Success
+961,Mixed Media Labs,7323998,operating,CA,San Francisco,3,1,0,,Not_Success
+962,MKN Web Solutions,,operating,MI,Troy,1,1,0,,Not_Success
+963,MOBIbucks,5000000,operating,KY,Louisville,2,2,0,,Not_Success
+964,Mobile Complete,10000000,operating,CA,San Mateo,1,2,29,Negative,Not_Success
+965,MobileDataforce,1000000,operating,ID,Meridian,1,1,0,,Not_Success
+966,MobileReactor,1175000,closed,PA,Philadelphia,2,1,0,,Not_Success
+967,Mobilitec,12100000,operating,CA,San Mateo,1,4,0,,Not_Success
+968,MOBITRAC,8300000,acquired,IL,Chicago,1,5,0,,Success
+969,Mocapay,6250000,operating,CO,Denver,2,3,0,,Not_Success
+970,Modernizing Medicine,32604995,operating,FL,Boca Raton,3,3,0,,Not_Success
+971,Modulus Financial Engineering,8450000,operating,AZ,Scottsdale,1,3,0,,Not_Success
+972,Moglue,1215000,operating,NY,New York,3,1,0,,Not_Success
+973,Mogotest,12000,operating,MA,Cambridge,1,1,0,,Not_Success
+974,moka5,62797075,operating,CA,Redwood City,4,3,0,,Not_Success
+975,mon.ki,400000,operating,CA,Palo Alto,1,6,0,,Not_Success
+976,MontaVista Software,21000000,acquired,CA,Santa Clara,1,5,0,,Success
+977,MoonClerk,,operating,SC,Greenville,1,1,0,,Not_Success
+978,MoreMagic Solutions,4125000,acquired,MA,Newton,1,3,0,,Success
+979,Mortar Data,2250000,operating,NY,New York,3,4,4,Positive,Not_Success
+980,Motion Computing,11599995,operating,TX,Austin,2,3,2,Negative,Not_Success
+981,Motion Dispatch,,operating,CA,Culver City,1,3,0,,Not_Success
+982,Motionsoft,10499999,operating,MD,Rockville,3,2,0,,Not_Success
+983,Motivity Labs,,operating,TX,Irving,1,1,0,,Not_Success
+984,Movaris,16000000,operating,CA,San Jose,2,8,0,,Not_Success
+985,Move Networks,91300000,acquired,CA,Irvine,4,12,36,Negative,Success
+986,MovingHealth,1500000,operating,MA,Cambridge,1,1,0,,Not_Success
+987,MOVL,,operating,GA,Atlanta,1,2,0,,Not_Success
+988,"Moxie Software, Inc.",30000000,operating,CA,Mountain View,2,5,0,,Not_Success
+989,mPay Gateway,6900011,operating,MN,Minneapolis,2,2,0,,Not_Success
+990,Muzzley,1000000,operating,CA,Sunnyvale,2,2,0,,Not_Success
+991,mValent,6000000,acquired,CA,Redwood Shores,1,3,0,,Success
+992,mWater,100000,operating,NY,New York,1,1,0,,Not_Success
+993,mxHero,1275000,operating,CA,San Francisco,2,7,0,,Not_Success
+994,My Ad Box,50000,operating,MD,Baltimore,1,1,9,Positive,Not_Success
+995,MyDoorman,100000,closed,CA,Los Angeles,1,1,0,,Not_Success
+996,Mykonos Software,4000000,acquired,CA,San Francisco,1,2,0,,Success
+997,Myrio,20500000,operating,WA,Bothell,1,4,0,,Not_Success
+998,MyVR,1400000,operating,CA,San Francisco,1,11,0,,Not_Success
+999,N-Sided,378000,operating,,Fontenay sous bois,1,1,0,,Not_Success
+1000,Nano Network Engines,6000000,operating,MD,Glenwood,1,2,0,,Not_Success
+1001,Nanochip,28800000,operating,CA,Fremont,2,6,0,,Not_Success
+1002,NanoSatisfi,1600000,operating,CA,San Francisco,3,5,0,,Not_Success
+1003,Nascentric,13400000,operating,TX,Austin,2,6,0,,Not_Success
+1004,NationBuilder,14750000,operating,CA,Los Angeles,3,13,0,,Not_Success
+1005,nCircle Network Security,5000000,acquired,CA,San Francisco,1,4,0,,Success
+1006,NComputing,57800000,operating,CA,Santa Clara,3,8,0,,Not_Success
+1007,Near Infinity,17000000,operating,VA,Reston,1,1,1,Positive,Not_Success
+1008,Needle,15000000,operating,UT,Draper,3,4,71,Negative,Not_Success
+1009,Neocase Software,16500000,operating,CA,San Francisco,2,3,0,,Not_Success
+1010,NeoPath Networks,11000000,acquired,CA,Mountain View,1,4,0,,Success
+1011,Neptune Mobile Devices,100000,operating,AZ,Phoenix,1,1,0,,Not_Success
+1012,NetBeez,25000,operating,PA,Pittsburgh,1,1,0,,Not_Success
+1013,Netcontinuum,15000000,acquired,CA,Santa Clara,1,4,0,,Success
+1014,NetDevices,25000000,acquired,CA,Sunnyvale,1,5,0,,Success
+1015,NetManage,2700000,acquired,CA,Cupertino,1,1,0,,Success
+1016,Netsmart Technologies,4500000,operating,NY,Great River,1,3,0,,Not_Success
+1017,Netuitive,23000000,operating,VA,Reston,3,14,0,,Not_Success
+1018,NetWitness,,acquired,VA,Herndon,1,1,0,,Success
+1019,Network Chemistry,6000000,operating,CA,Palo Alto,1,2,1,Positive,Not_Success
+1020,Network Optix,750000,operating,CA,BURBANK,1,2,0,,Not_Success
+1021,Network Physics,8630000,acquired,CA,Mountain View,1,4,6,Negative,Success
+1022,Network Vision,1850000,operating,MA,Newburyport,1,1,12,Negative,Not_Success
+1023,netZentry,6000000,operating,CA,Palo Alto,1,2,0,,Not_Success
+1024,Neurala,,operating,MA,Cambridge,1,1,0,,Not_Success
+1025,Neverfail,10000000,operating,TX,Austin,1,1,0,,Not_Success
+1026,New Relic,114500000,operating,CA,San Francisco,5,21,7,Negative,Not_Success
+1027,Newforma,21100000,operating,NH,Manchester,3,9,0,,Not_Success
+1028,Newmerix,7000000,closed,CO,Superior,1,3,0,,Not_Success
+1029,Nexant,82500000,operating,CA,San Francisco,3,4,0,,Not_Success
+1030,Nexaweb Technologies,14603757,operating,MA,Burlington,3,6,0,,Not_Success
+1031,Nexenta Systems,45000000,operating,CA,Santa Clara,2,13,0,,Not_Success
+1032,NexGen Storage,10000000,acquired,CO,Louisville,2,5,0,,Success
+1033,Nextance,10100000,operating,TX,Austin,1,4,0,,Not_Success
+1034,NextDocs,28800000,operating,PA,Conshohocken,3,6,0,,Not_Success
+1035,NextHop Technologies,4000000,acquired,CA,Mountain View,1,3,0,,Success
+1036,NextMedium,9500000,operating,CA,Los Angeles,2,5,0,,Not_Success
+1037,NextNine,15000000,operating,NY,New York,2,11,0,,Not_Success
+1038,NextPrinciples,1450000,operating,CA,Milpitas,2,12,0,,Not_Success
+1039,nGage Labs,20876578,operating,AZ,Scottsdale,2,2,0,,Not_Success
+1040,Nimaya,3000000,operating,DC,Washington,1,1,0,,Not_Success
+1041,Nimble CRM,3000000,operating,CA,Santa Monica,2,6,0,,Not_Success
+1042,Nimsoft,22300000,acquired,CA,Redwood City,2,6,1,Negative,Success
+1043,Nintex,135000000,operating,WA,Bellevue,1,2,0,,Not_Success
+1044,Nitro,3500000,operating,CA,San Francisco,1,1,9,Negative,Not_Success
+1045,NitroSell,2005950,operating,CA,San Diego,1,1,0,,Not_Success
+1046,nlyte Software,12000000,operating,CA,San Mateo,2,4,0,,Not_Success
+1047,NoiseFree,1400000,operating,CA,Sunnyvale,1,1,0,,Not_Success
+1048,Nomi,3000000,operating,NY,New York,1,9,1,Negative,Not_Success
+1049,Nomis Solutions,21000000,operating,CA,San Bruno,3,8,0,,Not_Success
+1050,Nor1,17100000,operating,CA,Santa Clara,2,3,0,,Not_Success
+1051,North by South,,operating,CA,San Francisco,1,1,54,Positive,Not_Success
+1052,NorthStar Systems International,29500000,operating,CA,San Francisco,2,6,0,,Not_Success
+1053,Notice Software,350000,operating,OH,Toledo,1,1,27,Positive,Not_Success
+1054,Novafora,12000000,operating,CA,San Jose,1,2,0,,Not_Success
+1055,NovusEdge,6500000,operating,IL,Lisle,1,3,0,,Not_Success
+1056,NSC,4000000,operating,WI,Brillion,2,2,2,Positive,Not_Success
+1057,Ntirety,1000000,operating,MA,Dedham,1,1,0,,Not_Success
+1058,Nuiku,1600000,operating,WA,Redmond,1,9,0,,Not_Success
+1059,NuView Systems,5000000,operating,MA,Andover,1,1,0,,Not_Success
+1060,NVELO,6555160,acquired,CA,Santa Clara,1,2,0,,Success
+1061,Oasys Design Systems,3018230,operating,CA,Santa Clara,2,2,0,,Not_Success
+1062,Oasys Mobile,8000000,operating,NC,Raleigh,1,2,0,,Not_Success
+1063,Objective Logistics,9000000,operating,MA,Boston,4,10,1,Positive,Not_Success
+1064,ObjectLabs,8000000,operating,CA,San Francisco,2,10,0,,Not_Success
+1065,ObjectVideo,8000000,operating,VA,Reston,1,3,0,,Not_Success
+1066,Obsorb,110000,operating,MO,St Louis,1,2,0,,Not_Success
+1067,Occipital,7015000,operating,CO,Boulder,2,1,0,,Not_Success
+1068,Octavian,15000000,operating,MA,Woburn,2,5,1,Positive,Not_Success
+1069,Offermatica,7000000,acquired,CA,San Francisco,1,1,0,,Success
+1070,Ofuz,250000,operating,CA,Culver City,1,1,0,,Not_Success
+1071,OGPlanet,1500000,operating,CA,El Segundo,1,6,0,,Not_Success
+1072,OhMyGov Inc.,1364000,operating,VA,Alexandria,9,6,0,,Not_Success
+1073,Olark,,operating,CA,Palo Alto,1,1,0,,Not_Success
+1074,Olive Software,14000000,operating,CA,Aurora,2,3,1,Positive,Not_Success
+1075,OneID,7000000,operating,CA,Redwood Shores,1,2,0,,Not_Success
+1076,OnePIN,10600000,operating,MA,Westborough,4,3,0,,Not_Success
+1077,ONFocus Healthcare,3000000,operating,TN,Brentwood,1,8,0,,Not_Success
+1078,Onit,4907000,operating,TX,Houston,4,2,1,Negative,Not_Success
+1079,OnRequest Images,27000000,operating,WA,Seattle,3,6,0,,Not_Success
+1080,OnShift,9783008,operating,OH,Cleveland,3,6,0,,Not_Success
+1081,Ontuitive,6000000,operating,DC,Washington,1,1,0,,Not_Success
+1082,OnVantage,18000000,acquired,CA,Santa Clara,1,4,0,,Success
+1083,Open Kernel Labs,10764323,acquired,IL,Chicago,5,4,0,,Success
+1084,Open-Xchange,37800000,operating,NY,Tarrytown,3,6,0,,Not_Success
+1085,OpenCandy,8500000,operating,CA,San Diego,2,7,0,,Not_Success
+1086,OpenCare,,operating,CA,San Francisco,1,2,0,,Not_Success
+1087,OpenClovis,11000000,operating,CA,Petaluma,1,4,0,,Not_Success
+1088,OpenQ,5500000,operating,VA,Charlottesville,1,2,0,,Not_Success
+1089,Opscode,33000000,operating,WA,Seattle,3,8,0,,Not_Success
+1090,Optify,10849999,operating,WA,Seattle,3,13,0,,Not_Success
+1091,Optimal Technologies,25000000,operating,NC,Raleigh,1,1,3,Negative,Not_Success
+1092,OptiMine Software,8586808,operating,MN,St. Paul,3,5,0,,Not_Success
+1093,Optimizely,31200000,operating,CA,San Francisco,4,32,0,,Not_Success
+1094,Optimus,7500000,operating,VA,McLean,1,1,7,Positive,Not_Success
+1095,Optinuity,6000000,acquired,MD,Bethesda,1,4,0,,Success
+1096,OptionEase,3500000,acquired,CA,San Juan Capistrano,2,4,0,,Success
+1097,OptionsCity Software,,operating,IL,Chicago,1,1,0,,Not_Success
+1098,OpVista,43000000,operating,CA,Milpitas,2,2,0,,Not_Success
+1099,Orb Networks,4000000,operating,CA,Oakland,1,1,0,,Not_Success
+1100,Orchestria Corporation,21000000,acquired,NY,Islandia,1,7,0,,Success
+1101,orderTalk,1170000,operating,TX,Flower Mound,1,1,0,,Not_Success
+1102,OrderWithMe,3000000,operating,TX,Dallas,1,2,0,,Not_Success
+1103,Ordoro,1656165,operating,TX,Austin,2,2,0,,Not_Success
+1104,Organic Motion,9649999,operating,NY,New York,2,1,0,,Not_Success
+1105,Orsus Solutions USA,3000000,acquired,CA,Irvine,1,1,0,,Success
+1106,Ounce Labs,13500000,acquired,MA,Waltham,2,5,0,,Success
+1107,OutboundEngine,3000000,operating,TX,Austin,1,4,0,,Not_Success
+1108,OuterBay Technologies,12000000,acquired,CA,Cupertino,1,5,0,,Success
+1109,Oversight Systems,32950000,operating,GA,Atlanta,3,8,10,Negative,Not_Success
+1110,Overture Technologies,6000000,operating,MD,Bethesda,1,3,0,,Not_Success
+1111,Oxlo Systems,5000000,operating,CO,Broomfield,1,3,0,,Not_Success
+1112,Packet Island,2000000,acquired,CA,Cupertino,1,3,0,,Success
+1113,PacketTrap Networks,5500000,operating,CA,San Francisco,1,1,0,,Not_Success
+1114,PacketVideo,45500000,acquired,CA,San Diego,1,1,0,,Success
+1115,Pagevamp,20000,operating,NY,New York,1,1,0,,Not_Success
+1116,PaletteApp,,operating,IL,Chicago,1,2,0,,Not_Success
+1117,Panaya,39000000,operating,CA,Menlo Park,5,9,0,,Not_Success
+1118,PanGo Networks,10000000,acquired,NY,Framingham,1,3,0,,Success
+1119,Pano Logic,38000000,operating,CA,Menlo Park,3,9,0,,Not_Success
+1120,PANTA Systems,9500000,operating,CA,Santa Clara,1,2,0,,Not_Success
+1121,PanTerra Networks,10019869,operating,CA,Sunnyvale,2,1,0,,Not_Success
+1122,Panzura,58000000,operating,CA,Campbell,4,11,0,,Not_Success
+1123,Parallels,12400000,operating,WA,Renton,2,4,88,Positive,Not_Success
+1124,Parature,29500000,operating,VA,Herndon,2,6,1,Positive,Not_Success
+1125,ParkWhiz,2000000,operating,IL,Chicago,1,8,0,,Not_Success
+1126,ParLevel Systems,1008313,operating,TX,San Antonio,5,3,0,,Not_Success
+1127,Particle Code,3000000,acquired,CA,Palo Alto,1,1,0,,Success
+1128,PasswordBank,3500000,acquired,CA,Sunnyvale,2,2,0,,Success
+1129,Pathfire,2000000,operating,CA,Roswell,1,5,0,,Not_Success
+1130,PatientKeeper,43708653,operating,MA,Waltham,8,19,0,,Not_Success
+1131,PayEase,14500000,operating,CA,Santa Clara,1,4,0,,Not_Success
+1132,Paylocity,10000000,operating,IL,Arlington Heights,1,1,0,,Not_Success
+1133,PayScale,30999999,operating,WA,Seattle,7,18,19,Positive,Not_Success
+1134,PaySimple,16000000,operating,CO,Denver,1,1,0,,Not_Success
+1135,PayTango,700000,operating,CA,Mountain View,1,2,0,,Not_Success
+1136,Peak 10,3500000,operating,NC,Charlotte,1,2,101,Positive,Not_Success
+1137,Peak8 Partners,5000000,operating,CO,Boulder,1,1,0,,Not_Success
+1138,PeakStream,22000000,acquired,CA,Redwood City,2,5,0,,Success
+1139,PeerApp,22500000,operating,MA,Newton,4,9,0,,Not_Success
+1140,Pelican Imaging,37000000,operating,CA,Mountain View,5,13,0,,Not_Success
+1141,Pendo Systems,1020000,operating,NJ,Newark,1,1,0,,Not_Success
+1142,Penguin Computing,15330000,operating,CA,San Francisco,4,15,0,,Not_Success
+1143,Peopleclick Authoria,22500000,acquired,MA,Waltham,1,7,0,,Success
+1144,PeopleCube,17000000,acquired,MA,Framingham,1,2,0,,Success
+1145,Peoplefilter Technology,4500000,acquired,IL,Arlington Heights,1,2,0,,Success
+1146,PeopleLinx,3200000,operating,PA,Philadelphia,1,3,0,,Not_Success
+1147,Peppercoin,10000000,acquired,MA,Waltham,1,2,0,,Success
+1148,PerBlue,800000,operating,WI,Madison,1,1,0,,Not_Success
+1149,Perfect Commerce,30000000,operating,VA,Newport News,1,11,7,Negative,Not_Success
+1150,Perfect Market,30600000,operating,CA,Pasadena,3,8,422,Negative,Not_Success
+1151,Performable,3000000,acquired,MA,Cambridge,1,1,0,,Success
+1152,Perk Dynamics,1300000,operating,OK,Shawnee,1,1,0,,Not_Success
+1153,Permabit Technology,12000000,operating,MA,Cambridge,1,1,0,,Not_Success
+1154,PerSay,4700000,operating,NY,New York,2,4,6,Positive,Not_Success
+1155,Personeta,12000000,operating,NJ,Fort Lee,1,3,0,,Not_Success
+1156,Personify Inc,6887193,operating,IL,Champaign,5,4,0,,Not_Success
+1157,Persystent Technologies,21460663,operating,FL,Tampa,3,9,0,,Not_Success
+1158,PEX Card,5571263,operating,NY,New York,2,3,0,,Not_Success
+1159,PGP Corporation,51050012,acquired,CA,Menlo Park,3,7,0,,Success
+1160,Phoenix Energy Technologies,5000000,operating,CA,Irvine,1,1,0,,Not_Success
+1161,Phoenix Technologies,20300000,acquired,CA,Milpitas,1,1,1,Positive,Success
+1162,Phreesia,42650000,operating,NY,New York,5,15,0,,Not_Success
+1163,Phurnace Software,10000000,acquired,TX,Austin,2,4,0,,Success
+1164,Phynd Technology,2000000,operating,NE,Kearney,1,1,0,,Not_Success
+1165,Phytel,24498160,operating,TX,Dallas,4,1,0,,Not_Success
+1166,Picturelife,7922801,operating,IL,Chicago,2,10,0,,Not_Success
+1167,Pilgrim Software,,operating,FL,Tampa,1,1,0,,Not_Success
+1168,Pinch Media,560001,operating,NY,New York,3,7,2,Positive,Not_Success
+1169,Pintail Technologies,17000000,operating,TX,Richardson,3,13,0,,Not_Success
+1170,Pipedrive,3400000,operating,CA,San Francisco,2,11,0,,Not_Success
+1171,PivotLink,37500000,operating,CA,San Francisco,5,8,0,,Not_Success
+1172,Plaid,2800000,operating,CA,San Francisco,1,10,14,Negative,Not_Success
+1173,Planitax,10000000,acquired,CA,Alameda,2,6,0,,Success
+1174,PlanSource Holdings,12000000,operating,FL,Orlando,1,1,0,,Not_Success
+1175,Platfora,27200000,operating,CA,San Mateo,2,8,0,,Not_Success
+1176,Playboox,3000000,operating,CA,San Francisco,1,1,0,,Not_Success
+1177,Plethora Technology,1000000,operating,WV,Kearneysville,1,3,6,Positive,Not_Success
+1178,Plex Systems,36000000,operating,MI,Auburn Hlls,2,2,0,,Not_Success
+1179,Plura Processing,750000,operating,TX,Houston,1,1,0,,Not_Success
+1180,Podcast Ready,2330000,acquired,TX,San Antonio,1,3,1,Negative,Success
+1181,Point2 Property Manager,400000,operating,OH,Cleveland,1,1,0,,Not_Success
+1182,Pole Star,1080000,operating,CA,Palo Alto,1,1,1,Positive,Not_Success
+1183,PolicyStat,2580000,operating,IN,Carmel,2,1,0,,Not_Success
+1184,PolyServe,10000000,acquired,OR,Beaverton,1,4,0,,Success
+1185,Ponte Solutions,7500000,acquired,CA,Mountain View,1,2,0,,Success
+1186,Poptip,3001984,operating,NY,New York,3,9,0,,Not_Success
+1187,PortAuthority Technologies,31400000,operating,CA,Palo Alto,2,6,0,,Not_Success
+1188,Portico Learning Solutions,3400000,operating,LA,Baton Rouge,2,7,0,,Not_Success
+1189,Possibility Space,1500000,operating,TX,Austin,1,1,12,Positive,Not_Success
+1190,Postmaster,718000,operating,TX,Austin,2,5,16,Positive,Not_Success
+1191,PowerCloud Systems,6000000,operating,CA,Palo Alto,2,3,0,,Not_Success
+1192,Preclick,2150000,acquired,NJ,Atlantic Highlands,2,5,0,,Success
+1193,Predixion Software,31800000,operating,CA,San Juan Capistrano,4,11,0,,Not_Success
+1194,Prelert,3750000,operating,MA,Framingham,1,2,0,,Not_Success
+1195,Preparis,6100000,operating,GA,Atlanta,2,1,0,,Not_Success
+1196,Presidium Learning,9500000,acquired,VA,Reston,2,2,0,,Success
+1197,Preventsys,7000000,operating,CA,Carlsbad,1,3,0,,Not_Success
+1198,PreViser,350000,operating,WA,Mount Vernon,1,1,0,,Not_Success
+1199,Prima Solutions,6199900,operating,IL,Chicago,2,1,0,,Not_Success
+1200,PrismTech,2320000,operating,MA,Woburn,1,2,0,,Not_Success
+1201,Privacy Networks,2400000,operating,CO,Fort Collins,1,1,19,Positive,Not_Success
+1202,PrivateCore,2250000,operating,CA,Palo Alto,1,1,0,,Not_Success
+1203,Process Data Control,15820000,operating,TX,Arlington,1,1,14,Positive,Not_Success
+1204,ProcessUnity,6690000,operating,MA,Concord,4,1,0,,Not_Success
+1205,Proclivity Systems,5900000,operating,NY,New York,2,3,0,,Not_Success
+1206,Procore Technologies,4000000,operating,CA,Santa Barbara,1,1,0,,Not_Success
+1207,Prodagio Software,,operating,TX,League City,1,1,0,,Not_Success
+1208,Producteev,1310000,acquired,NY,New York,3,18,0,,Success
+1209,Proficiency,9250000,operating,MA,Marlborough,2,5,20,Negative,Not_Success
+1210,Profit Point,2500000,operating,MA,North Brookfield,1,1,876,Positive,Not_Success
+1211,Prometheus Civic Technologies (ProCiv),1190000,operating,CA,Irvine,1,1,0,,Not_Success
+1212,Prometheus Group,,operating,NC,Raleigh,1,1,0,,Not_Success
+1213,Promoter.io,179000,operating,TX,San Antonio,1,5,0,,Not_Success
+1214,Proofpoint,59000000,ipo,CA,Sunnyvale,4,19,0,,Success
+1215,PropertyBridge,2000000,operating,CA,Oakland,1,1,0,,Not_Success
+1216,Prosodic,1400000,operating,WA,Seattle,1,3,0,,Not_Success
+1217,ProspectNow,,operating,CA,Los Altos,1,1,0,,Not_Success
+1218,ProspX,22747643,operating,TX,Austin,3,3,0,,Not_Success
+1219,Proteus Digital Health,87949979,operating,CA,Redwood City,2,2,0,,Not_Success
+1220,Proton Digital Systems,2000000,operating,CA,San Jose,1,1,0,,Not_Success
+1221,Prova Systems,135000,operating,PA,Carbondale,3,2,0,,Not_Success
+1222,ProviderTrust,550000,operating,TN,Nashville,3,1,0,,Not_Success
+1223,Provision Interactive Technologies,,operating,CA,Chatsworth,1,1,0,,Not_Success
+1224,Proximal Data,7999996,operating,CA,San Diego,4,2,0,,Not_Success
+1225,Proximetry,6806343,operating,CA,San Diego,2,4,0,,Not_Success
+1226,PubNub,15500000,operating,CA,San Francisco,2,5,0,,Not_Success
+1227,Punch Entertainment,1200000,operating,CA,Palo Alto,1,1,0,,Not_Success
+1228,Punchbowl,5318500,operating,MA,Framingham,6,7,1,Negative,Not_Success
+1229,Puppet Labs,45500000,operating,OR,Portland,4,13,0,,Not_Success
+1230,PureDiscovery Corporation,10000000,operating,TX,Dallas,1,1,0,,Not_Success
+1231,PushToTest,,operating,CA,Campbell,1,1,0,,Not_Success
+1232,Pwnie Express,5100000,operating,VT,Berlin,1,3,0,,Not_Success
+1233,Pyxis Mobile,24150000,closed,MA,Waltham,3,7,0,,Not_Success
+1234,Q1 Labs,9000000,acquired,MA,Waltham,1,5,0,,Success
+1235,qcue,1125000,operating,TX,Austin,2,1,0,,Not_Success
+1236,QlikTech,12500000,ipo,PA,Radnor,1,2,0,,Success
+1237,Qovia,7160000,operating,MD,Frederick,1,3,0,,Not_Success
+1238,Quandora,150000,operating,NY,Brooklyn,1,1,0,,Not_Success
+1239,Quantason,3200000,operating,PA,Philadelphia,1,5,0,,Not_Success
+1240,Quantum Secure,3540000,operating,CA,San Jose,1,1,0,,Not_Success
+1241,Quantum4D,200000,operating,CA,San Francisco,1,1,0,,Not_Success
+1242,Questra,12500000,acquired,CA,Redwood City,2,3,0,,Success
+1243,Quickcomm Software Solutions,4100000,operating,NY,New York,1,1,0,,Not_Success
+1244,Quickshift,5200000,operating,TX,Austin,1,3,0,,Not_Success
+1245,Quid,10000000,operating,CA,San Francisco,1,6,51,Positive,Not_Success
+1246,Quik.io,1280000,operating,CA,Mountain View,2,2,0,,Not_Success
+1247,QuikCycle,17800000,operating,CA,Santa Clara,2,2,0,,Not_Success
+1248,Quintiq,,operating,PA,Radnor,1,2,0,,Not_Success
+1249,Quixby,150000,operating,OH,Cleveland,2,3,0,,Not_Success
+1250,Qumas,10000000,operating,NJ,Jersey City,1,2,0,,Not_Success
+1251,Qumu,24750000,acquired,CA,San Bruno,3,16,0,,Success
+1252,Quote Roller,1305000,operating,CA,San Francisco,2,3,0,,Not_Success
+1253,Qwilt,40100000,operating,CA,Redwood City,3,9,0,,Not_Success
+1254,Racemi,13400000,operating,GA,Atlanta,2,2,0,,Not_Success
+1255,Radio Runt Inc.,1000000,operating,WA,Bellevue,1,1,0,,Not_Success
+1256,RallyOn,1500000,operating,CA,Menlo Park,1,4,0,,Not_Success
+1257,RAP Index,,operating,,Greenville,1,1,0,,Not_Success
+1258,Rapid7,61000000,operating,MA,Boston,4,3,0,,Not_Success
+1259,Rapt,11230000,acquired,CA,San Francisco,1,3,2,Positive,Success
+1260,RatePoint,24500000,closed,MA,Needham,4,10,0,,Not_Success
+1261,Ravenflow,20700000,operating,CA,Emeryville,3,9,0,,Not_Success
+1262,Raynforest,300000,operating,CA,Carlsbad,1,3,0,,Not_Success
+1263,Razorsight,34000000,operating,VA,Fairfax,4,5,0,,Not_Success
+1264,Razz,10000000,operating,CA,San Francisco,2,7,2,Positive,Not_Success
+1265,Reachable,17550668,operating,CA,Palo Alto,5,5,11,Positive,Not_Success
+1266,Reactivity,8550000,acquired,CA,Belmont,1,3,3,Positive,Success
+1267,Real Time Tomography,150000,operating,PA,Villanova,1,1,0,,Not_Success
+1268,Reality Digital,8300000,operating,CA,Berkeley,2,1,18,Positive,Not_Success
+1269,Really Strategies,2300000,operating,PA,Audubon,2,2,74,Positive,Not_Success
+1270,RealOps,13000000,operating,VA,Herndon,2,3,0,,Not_Success
+1271,RealPage,58591225,ipo,TX,Carrollton,4,1,0,,Success
+1272,Rebit,6700000,operating,CO,Longmont,2,3,0,,Not_Success
+1273,Reble,,operating,CA,San Francisco,1,1,0,,Not_Success
+1274,Recognition PRO,415000,operating,PA,Allentown,2,3,3,Positive,Not_Success
+1275,Reconnex,16000000,acquired,CA,Mountain View,1,4,0,,Success
+1276,Recurve,14000000,acquired,CA,San Francisco,2,2,0,,Success
+1277,Red Lambda,11500000,operating,FL,Longwood,2,1,0,,Not_Success
+1278,redIT,72000000,operating,CA,San Diego,1,2,11,Negative,Not_Success
+1279,RedSeal Systems,39100000,operating,CA,Santa Clara,3,14,0,,Not_Success
+1280,ReferralMD,1510000,operating,CA,San Francisco,4,2,0,,Not_Success
+1281,Reflect Systems,9000000,operating,TX,Dallas,1,1,7,Positive,Not_Success
+1282,Reflexion Network Solutions,2750000,operating,MA,Woburn,1,1,0,,Not_Success
+1283,Refocus Imaging,250000,operating,CA,Mountain View,1,1,0,,Not_Success
+1284,Regent Education,14350000,operating,MD,Frederick,3,4,0,,Not_Success
+1285,RegulatoryBinder,20000,operating,,,1,1,0,,Not_Success
+1286,Rehab Documentation,4950000,operating,TN,Brentwood,3,1,0,,Not_Success
+1287,Related Content Database (RCDb),10000000,operating,CA,San Francisco,1,2,0,,Not_Success
+1288,Relativity Technologies,1000000,acquired,NC,Raleigh,1,1,0,,Success
+1289,Relayware,5303380,operating,CA,Redwood City,1,1,0,,Not_Success
+1290,Relify,,operating,,"South Carolina,",1,1,0,,Not_Success
+1291,RelTel,1000000,operating,CA,San Francisco,1,6,0,,Not_Success
+1292,Remedy Informatics,6000000,operating,UT,Sandy,1,1,0,,Not_Success
+1293,RemitPro,2500000,operating,NE,Omaha,1,1,0,,Not_Success
+1294,RentMonitor,,operating,CO,Boulder,1,1,0,,Not_Success
+1295,Replay Solutions,15200000,operating,CA,Redwood City,2,4,0,,Not_Success
+1296,ReplySend,118000,operating,CO,Boulder,1,1,0,,Not_Success
+1297,RES Software,12405150,operating,PA,Radnor,2,2,2,Positive,Not_Success
+1298,Response Analytics,4250000,operating,AZ,Scottsdale,1,2,2,Positive,Not_Success
+1299,ResponseLogix,13600000,operating,CA,Sunnyvale,2,6,0,,Not_Success
+1300,Responsys,51900000,ipo,CA,San Bruno,3,13,0,,Success
+1301,Reval.com,69930724,operating,NY,New York,4,4,0,,Not_Success
+1302,Reveal Technology,230000,operating,CA,Palo Alto,1,1,9,Negative,Not_Success
+1303,Reverb Networks,7000000,operating,VA,Ashburn,1,1,0,,Not_Success
+1304,Revionics,18200000,operating,CA,Roseville,2,1,0,,Not_Success
+1305,Revivio,25000000,operating,MA,Lexington,1,7,0,,Not_Success
+1306,Revolucionadolabs,40000100,operating,CA,Palo Alto,2,2,0,,Not_Success
+1307,Revolv,2818000,operating,CO,Boulder,2,7,0,,Not_Success
+1308,RFID Global Solution,2500000,operating,VA,Reston,1,1,1,Negative,Not_Success
+1309,Right Hemisphere,12000000,acquired,CA,Pleasanton,1,3,3,Negative,Success
+1310,Right90,22000000,acquired,CA,Foster City,3,8,0,,Success
+1311,RightCare Solutions,1750000,operating,PA,Ft. Washington,1,2,0,,Not_Success
+1312,RightPath Payments,500000,operating,RI,Providence,1,1,0,,Not_Success
+1313,Ringadoc,2650000,operating,CA,San Francisco,2,8,0,,Not_Success
+1314,RingCube Technologies,26000000,acquired,CA,Mountain View,3,5,0,,Success
+1315,Ringio,200000,operating,VA,Vienna,1,1,0,,Not_Success
+1316,Ringthree Technologies,4000000,operating,CA,Menlo Park,1,1,0,,Not_Success
+1317,RipCode,33000000,closed,TX,Richardson,4,12,0,,Not_Success
+1318,Ripple Technologies,540000,acquired,PA,Conshohocken,1,1,0,,Success
+1319,Riskclick,8200000,operating,NY,New York,1,3,0,,Not_Success
+1320,River Vision Development,17000000,operating,NY,New York,1,3,0,,Not_Success
+1321,"RiverGlass, Inc.",6400000,operating,IL,Champaign,2,7,0,,Not_Success
+1322,RiverMeadow Software,17000000,operating,MA,Westford,2,1,0,,Not_Success
+1323,Rivermine Software,23700000,acquired,VA,Fairfax,3,11,0,,Success
+1324,RiverOne,6000000,operating,CA,Irvine,1,2,0,,Not_Success
+1325,RJMetrics,7450000,operating,PA,Philadelphia,2,8,0,,Not_Success
+1326,RLX Technologies,9100000,acquired,TX,The Woodlands,1,4,0,,Success
+1327,Rohati Systems,11000000,acquired,CA,Sunnyvale,1,2,0,,Success
+1328,RolePoint,,operating,CA,San Francisco,1,4,0,,Not_Success
+1329,rollApp,1350000,operating,CA,Palo Alto,2,3,0,,Not_Success
+1330,Rollstream,7500000,acquired,VA,McLean,2,3,0,,Success
+1331,ROME Corporation,14000000,acquired,TX,Austin,1,2,1,Positive,Success
+1332,Roost,13500000,acquired,CA,San Francisco,2,7,56,Positive,Success
+1333,Rootless,50000,operating,RI,Providence,1,1,0,,Not_Success
+1334,Rootstock Software,4250000,operating,CA,San Ramon,2,1,0,,Not_Success
+1335,Roundbox,43000000,operating,NJ,Florham Park,3,10,0,,Not_Success
+1336,RoundPegg,3943042,operating,CO,Boulder,5,3,0,,Not_Success
+1337,rSmart,14272148,operating,AZ,Scottsdale,2,2,0,,Not_Success
+1338,rVita,1000000,operating,CA,Santa Clara,1,1,0,,Not_Success
+1339,Sabrix,13000000,operating,OR,Lake Oswego,1,4,0,,Not_Success
+1340,Safaba Translation Solutions,,operating,PA,Pittsburgh,1,2,0,,Not_Success
+1341,Safeharbor Knowledge Solutions,5000000,operating,WA,Tukwila,1,3,0,,Not_Success
+1342,Safety Hound,15000,operating,NJ,Sparta,1,2,0,,Not_Success
+1343,SaleMove,275000,operating,NY,New York,4,1,0,,Not_Success
+1344,SalesFUSION,1800000,operating,GA,Atlanta,2,2,0,,Not_Success
+1345,SalesLoft,18000,operating,GA,Atlanta,2,3,0,,Not_Success
+1346,SalonBooker,14500000,operating,NY,New York,1,4,0,,Not_Success
+1347,Salsa Labs,7000000,operating,DC,Washington,2,2,0,,Not_Success
+1348,Salsify,8000000,operating,MA,Boston,1,2,0,,Not_Success
+1349,Samanage,3000000,operating,NC,Cary,1,2,0,,Not_Success
+1350,Samfind,125000,operating,CA,Los Angeles,1,1,0,,Not_Success
+1351,Sandata,,operating,NY,Port Washington,1,1,0,,Not_Success
+1352,Sanovi Technologies,6100000,operating,MA,Burlington,1,1,0,,Not_Success
+1353,Satin Technologies,322000,operating,CA,Sunnyvale,1,2,0,,Not_Success
+1354,SavaJe Technologies,61650000,acquired,MA,Chelmsford,3,13,0,,Success
+1355,SAVO,44000000,operating,IL,Chicago,4,4,0,,Not_Success
+1356,Saylent Technologies,,operating,MA,Franklin,1,2,0,,Not_Success
+1357,ScaleArc,17630000,operating,CA,Menlo Park,2,5,0,,Not_Success
+1358,ScaleIO,12000000,acquired,CA,Palo Alto,1,2,0,,Success
+1359,ScaleMP,8000000,operating,CA,Cupertino,1,4,0,,Not_Success
+1360,Scali,3500000,acquired,MA,Marlborough,1,2,0,,Success
+1361,Scality,35000000,operating,CA,San Francisco,4,12,3,Negative,Not_Success
+1362,Scalix,6000000,operating,NY,New York,1,3,0,,Not_Success
+1363,Scan,7950000,operating,UT,Provo,2,16,227,Positive,Not_Success
+1364,Schoolwires,12000000,operating,PA,State College,1,1,0,,Not_Success
+1365,ScienceLogic,30000000,operating,VA,Reston,2,3,0,,Not_Success
+1366,Scope 5,975000,operating,WA,Seattle,3,1,20,Positive,Not_Success
+1367,Scout Analytics,1000000,operating,WA,Issaquah,2,1,1,Positive,Not_Success
+1368,Screampoint,214000,operating,NY,Buffalo,2,2,0,,Not_Success
+1369,Scripped,700000,operating,CA,San Francisco,1,1,0,,Not_Success
+1370,ScrollMotion,38100000,operating,NY,New York,4,1,0,,Not_Success
+1371,SDL Enterprise Technologies,6000000,operating,MA,Waltham,1,4,0,,Not_Success
+1372,SeatMe,,acquired,CA,San Francisco,1,1,0,,Success
+1373,Secure Mentem,,operating,MD,Annapolis,1,1,0,,Not_Success
+1374,Secure Software,9250000,operating,VA,McLean,1,3,48,Positive,Not_Success
+1375,Sefaira,10800000,operating,NY,New York,1,3,0,,Not_Success
+1376,Selero,1600000,operating,CO,Denver,1,1,0,,Not_Success
+1377,Sellbrite,,operating,CA,Pasadena,1,1,0,,Not_Success
+1378,Semantra,9100000,operating,TX,Addison,3,3,0,,Not_Success
+1379,Semantria,,operating,MA,Amherst,1,2,0,,Not_Success
+1380,Sennari,17000000,operating,CA,Los Angeles,3,9,0,,Not_Success
+1381,SensAble Technologies,34300000,operating,MA,Woburn,3,2,0,,Not_Success
+1382,Sentilla,26350000,operating,CA,Redwood City,3,10,0,,Not_Success
+1383,Sentillion,32150000,acquired,MA,Andover,4,18,0,,Success
+1384,sentitO Networks,6000000,operating,MA,Acton,1,6,0,,Not_Success
+1385,Sentrigo,9500000,acquired,CA,Santa Clara,3,6,0,,Success
+1386,Sequence Design,5970000,operating,CA,Santa Clara,2,8,1,Positive,Not_Success
+1387,Sequent,12000000,operating,CA,Redwood City,2,4,0,,Not_Success
+1388,Seriosity,6000000,operating,CA,Palo Alto,1,1,0,,Not_Success
+1389,SERPs,75000,operating,OR,Portland,2,1,6,Negative,Not_Success
+1390,ServiceBench,7300000,operating,VA,Fairfax,1,2,0,,Not_Success
+1391,Servo Software,5250000,acquired,CA,San Mateo,1,1,1,Negative,Success
+1392,SEVEN Networks,62000000,operating,CA,San Carlos,2,10,1,Positive,Not_Success
+1393,"SevOne, Inc.",152000000,operating,DE,Wilmington,2,3,0,,Not_Success
+1394,Sher.ly Inc.,250000,operating,CA,Palo Alto,1,1,0,,Not_Success
+1395,ShiftPlanning,1050000,operating,CA,San Francisco,2,4,0,,Not_Success
+1396,Shippable,,operating,WA,Bellevue,1,1,3,Negative,Not_Success
+1397,Shipzi,285000,operating,UT,Orem,2,3,0,,Not_Success
+1398,Shoefitr,1230000,operating,PA,Pittsburgh,2,3,0,,Not_Success
+1399,ShopSocially,1650000,operating,CA,Mountain View,2,4,0,,Not_Success
+1400,SigmaFlow,,operating,TX,Plano,1,1,0,,Not_Success
+1401,SignaCert,18800000,operating,OR,Portland,2,8,0,,Not_Success
+1402,SignalDemand,30000000,operating,CA,San Francisco,2,7,0,,Not_Success
+1403,SignalFuse,8500000,operating,CA,San Mateo,1,1,0,,Not_Success
+1404,Signiant,10000000,operating,MA,Burlington,1,3,0,,Not_Success
+1405,Signifyd,2000000,operating,CA,Palo Alto,1,7,0,,Not_Success
+1406,SignTrak,502500,operating,OH,Cincinnati,2,1,0,,Not_Success
+1407,Silicon Navigator Corporation,,operating,CA,Cupertino,1,1,0,,Not_Success
+1408,SilkRoad Technology,178000000,operating,IL,Chicago,6,23,0,,Not_Success
+1409,Silver Creek Systems,6000000,acquired,CO,Westminster,1,4,0,,Success
+1410,Silver Peak Systems,57130717,operating,CA,Santa Clara,7,12,1,Negative,Not_Success
+1411,SilverBack Technologies,3500000,acquired,MA,Billerica,1,1,0,,Success
+1412,Silverlink Communications,7600000,operating,MA,Burlington,2,4,0,,Not_Success
+1413,Simparel,4000000,operating,NY,New York,1,1,0,,Not_Success
+1414,Simpler,1200000,operating,CA,San Francisco,1,5,294,Positive,Not_Success
+1415,SimpleRelevance,1268000,operating,IL,Chicago,3,7,0,,Not_Success
+1416,Simpleview,,operating,AZ,Tucson,1,1,0,,Not_Success
+1417,Simplicita Software,2100000,operating,CO,Denver,1,1,0,,Not_Success
+1418,SintecMedia,10001589,acquired,NY,New York,2,3,0,,Success
+1419,Siperian,25000000,acquired,CA,Foster City,1,9,0,,Success
+1420,SIPphone,6000000,operating,CA,San Diego,1,1,0,,Not_Success
+1421,Siri,24000000,acquired,CA,San Jose,2,8,48,Positive,Success
+1422,Site9,1650000,operating,OR,Portland,4,1,0,,Not_Success
+1423,SiteBrains,350000,operating,CA,San Francisco,1,2,0,,Not_Success
+1424,Siterra,7000000,operating,CA,San Francisco,1,4,0,,Not_Success
+1425,skedge.me,1600000,operating,NY,New York,1,1,0,,Not_Success
+1426,Sketchfab,618000,operating,NY,New York,2,8,0,,Not_Success
+1427,SkillSurvey,1800000,operating,PA,Wayne,1,5,0,,Not_Success
+1428,SkyBitz,10000000,operating,VA,Sterling,1,6,0,,Not_Success
+1429,Skyrider,17000000,closed,CA,Mountain View,2,6,1,Positive,Not_Success
+1430,Skytide,6000000,operating,CA,Oakland,1,2,0,,Not_Success
+1431,Skyway Software,4000000,operating,FL,Tampa,1,3,0,,Not_Success
+1432,Slicebooks,,operating,CO,Denver,1,2,0,,Not_Success
+1433,SmartRecruiters,15460000,operating,CA,San Francisco,2,3,0,,Not_Success
+1434,SmartSignal,250000,acquired,IL,Lisle,1,2,0,,Success
+1435,SMB Suite,3000000,operating,TX,Irving,1,1,0,,Not_Success
+1436,SNAPin Software,22300000,acquired,WA,Bellevue,2,8,0,,Success
+1437,SnapTell,4000000,acquired,CA,Palo Alto,1,4,0,,Success
+1438,SOA Software,11000000,operating,CA,Los Angeles,1,5,0,,Not_Success
+1439,Social Solutions,11750000,operating,MD,Baltimore,3,5,45,Negative,Not_Success
+1440,Social Tables,2100000,operating,DC,Washington,2,8,9,Positive,Not_Success
+1441,Social Toaster,2505000,operating,MD,Baltimore,2,1,1,Negative,Not_Success
+1442,SocialChorus,7500000,operating,CA,San Francisco,2,3,0,,Not_Success
+1443,SocialEngine,12000,operating,CA,Los Angeles,1,1,0,,Not_Success
+1444,SocialSamba,20000,operating,CA,Santa Clara,1,1,0,,Not_Success
+1445,SocialSci,512000,operating,MA,Cambridge,2,7,0,,Not_Success
+1446,SocialShield,10000000,acquired,CA,San Bruno,1,7,0,,Success
+1447,SocialVolt,1315000,operating,KS,Overland Park,2,1,0,,Not_Success
+1448,SoftGenetics,250000,operating,PA,State College,1,1,0,,Not_Success
+1449,Softricity,15000000,acquired,MA,Boston,1,6,0,,Success
+1450,SoftWriters Holdings,,operating,PA,,1,1,0,,Not_Success
+1451,Solano Labs,,operating,CA,San Francisco,1,1,0,,Not_Success
+1452,SolarWinds,217500000,ipo,TX,Austin,3,3,0,,Success
+1453,Soldsie,1000000,operating,CA,San Francisco,1,3,0,,Not_Success
+1454,Solid Information Technology,5230000,acquired,CA,Cupertino,1,2,7,Negative,Success
+1455,Solidcore Systems,40000000,acquired,CA,Cupertino,3,10,0,,Success
+1456,SOLOMO Technology,3786432,operating,WI,Madison,4,2,0,,Not_Success
+1457,Solum,23549993,operating,CA,San Francisco,3,4,0,,Not_Success
+1458,Solvoyo,,operating,MA,Boston,1,1,0,,Not_Success
+1459,Sonatype,40900000,operating,MD,Silver Spring,3,9,0,,Not_Success
+1460,Sonic Notify,4550000,operating,NY,New York,2,7,0,,Not_Success
+1461,Sourcebits,10000000,operating,CA,San Francisco,1,2,0,,Not_Success
+1462,South49 Solutions,1200000,operating,VA,Sterling,1,1,0,,Not_Success
+1463,SpaBooker,14700000,acquired,NY,New York,2,4,0,,Success
+1464,Space-Time Insight,42000000,operating,CA,San Mateo,3,9,1,Positive,Not_Success
+1465,SpaceClaim,37000000,operating,MA,Concord,5,15,0,,Not_Success
+1466,SpaceCraft,1350000,operating,TX,Austin,1,2,12,Positive,Not_Success
+1467,Spanlink Communications,12000000,operating,MN,Minneapolis,1,2,0,,Not_Success
+1468,SparkBase,10525040,operating,OH,Cleveland,7,6,0,,Not_Success
+1469,Sparql City,10000000,operating,CA,San Diego,1,1,0,,Not_Success
+1470,SpearFysh,14050000,operating,OH,Twinsburg,2,1,0,,Not_Success
+1471,Spectrum K12 School Solutions,13100000,operating,MD,Towson,2,6,0,,Not_Success
+1472,SpeechCycle,10000000,operating,NY,New York,1,1,0,,Not_Success
+1473,Speek,2300000,operating,VA,Ashburn,2,20,2,Positive,Not_Success
+1474,spigit,47200000,operating,CA,Pleasanton,5,5,0,,Not_Success
+1475,SpikeSource,68000000,acquired,CA,Mountain View,4,14,0,,Success
+1476,"Splashtop, Inc",45500000,operating,CA,San Jose,4,24,0,,Not_Success
+1477,Splitcast Technology,,operating,CA,Palo Alto,1,1,0,,Not_Success
+1478,Splunk,40000000,ipo,CA,San Francisco,3,6,0,,Success
+1479,Spoke,25100000,operating,CA,San Mateo,3,8,326,Positive,Not_Success
+1480,Sport Ngin,9500000,operating,MN,Minneapolis,3,2,0,,Not_Success
+1481,SportsMEDIA Technology,12500000,operating,NC,Durham,1,1,0,,Not_Success
+1482,Spotlight Ticket Management,2500000,operating,CA,Calabasas,1,1,0,,Not_Success
+1483,Spring Metrics,1360000,operating,NC,Durham,2,2,0,,Not_Success
+1484,SpringSource,25000000,acquired,CA,San Mateo,2,5,0,,Success
+1485,Sprout Social,11000000,operating,IL,Chicago,3,3,0,,Not_Success
+1486,Sqord,,operating,NC,Durham,1,1,0,,Not_Success
+1487,Sqwiggle,1100000,operating,CA,,1,8,0,,Not_Success
+1488,St. Bernard Software,3000000,operating,CA,San Diego,1,2,0,,Not_Success
+1489,Stack Exchange,18000000,operating,NY,New York,2,13,2,Positive,Not_Success
+1490,StackSafe,2600000,operating,VA,Vienna,2,3,0,,Not_Success
+1491,Star Analytics,3500000,acquired,CA,San Mateo,1,2,0,,Success
+1492,Starvine,700000,operating,CA,Santa Clara,1,1,0,,Not_Success
+1493,StarWind Software,,operating,MA,Burlington,1,1,0,,Not_Success
+1494,Station X,5400000,operating,CA,San Francisco,3,1,15,Positive,Not_Success
+1495,StellaService,22200000,operating,NY,New York,4,13,0,,Not_Success
+1496,STI Technologies,17000000,operating,NY,Rochester,1,1,0,,Not_Success
+1497,Stitch Labs,5900000,operating,CA,San Francisco,3,9,0,,Not_Success
+1498,StoneRiver,12300000,operating,IN,Cedar Rapids,1,1,0,,Not_Success
+1499,Stop Being Watched,500000,operating,CA,Santa Monica,1,1,10,Negative,Not_Success
+1500,Stormpath,9700000,operating,CA,San Mateo,2,6,0,,Not_Success
+1501,Storspeed,13000000,closed,TX,Austin,1,4,0,,Not_Success
+1502,Strands Labs,55123000,operating,CA,San Francisco,4,5,0,,Not_Success
+1503,Stratavia,10700000,acquired,CO,Denver,5,5,0,,Success
+1504,StreamBase Systems,39000000,acquired,MA,Lexington,5,13,0,,Success
+1505,StreamLink Software,1513946,operating,OH,Cleveland,1,1,0,,Not_Success
+1506,Streamweaver,1300000,operating,TN,Nashville,1,4,0,,Not_Success
+1507,Stripe,40000000,operating,CA,San Francisco,3,13,52,Positive,Not_Success
+1508,Strobe,2500000,acquired,CA,San Francisco,1,2,3,Negative,Success
+1509,StrongLoop,9000000,operating,CA,San Mateo,2,3,0,,Not_Success
+1510,SugarCRM,134781309,operating,CA,Cupertino,8,14,12,Positive,Not_Success
+1511,SundaySky,17000000,operating,NY,New York,2,5,0,,Not_Success
+1512,SunGard,316000000,operating,PA,Wayne,1,1,0,,Not_Success
+1513,Sunglass,1800000,operating,CA,San Francisco,1,10,4,Negative,Not_Success
+1514,Superfeedr,,operating,CA,San Francisco,1,2,0,,Not_Success
+1515,Superior Global Solutions,6000000,operating,TX,Plano,1,1,2,Negative,Not_Success
+1516,SupportSpace,36250000,operating,CA,South San Francisco,4,10,0,,Not_Success
+1517,SurDoc,4000000,operating,CA,Menlo Park,1,1,0,,Not_Success
+1518,Surgient,20000000,acquired,TX,Austin,1,6,0,,Success
+1519,SurroundsMe,20000,operating,HI,Honolulu,1,1,0,,Not_Success
+1520,SurveyGizmo,,operating,CO,Boulder,1,1,0,,Not_Success
+1521,SurveyMonkey,964999998,operating,CA,Palo Alto,5,11,3,Positive,Not_Success
+1522,Sutherland Global Services,30000000,operating,NY,Pittsford,1,1,0,,Not_Success
+1523,SwapBeats,300000,operating,MN,Minneapolis,1,3,0,,Not_Success
+1524,Sway Medical Technologies,700000,operating,OK,Tulsa,1,1,0,,Not_Success
+1525,Sweepery,500000,closed,CA,San Francisco,2,2,0,,Not_Success
+1526,SweetLabs,21500000,operating,CA,San Diego,3,12,0,,Not_Success
+1527,SwiftStack,7600000,operating,CA,San Francisco,2,5,0,,Not_Success
+1528,Switchfly,34800000,operating,CA,San Francisco,4,15,0,,Not_Success
+1529,Swype,13900000,acquired,WA,Seattle,5,11,3,Negative,Success
+1530,Swyzzle,90000,operating,GA,Alpharetta,1,1,0,,Not_Success
+1531,Sychron Advanced Technologies,5000000,operating,TX,Austin,1,1,0,,Not_Success
+1532,SynapticMash,5000000,acquired,WA,Seattle,1,2,0,,Success
+1533,Synchris,4500000,acquired,VA,Sterling,1,3,0,,Success
+1534,Syncronex,2830000,operating,WA,Issaquah,1,1,0,,Not_Success
+1535,Syndera Corporation,10000000,operating,CA,"Redwood City,",1,2,0,,Not_Success
+1536,Synfora,3500000,operating,CA,Mountain View,1,5,0,,Not_Success
+1537,Syntricity,9100000,operating,CA,San Diego,2,5,0,,Not_Success
+1538,Sypherlink,7000000,operating,OH,Dublin,2,6,0,,Not_Success
+1539,T2 Systems,31000000,operating,IN,Indianapolis,2,2,0,,Not_Success
+1540,Tableau Software,15000000,ipo,WA,Seattle,2,2,0,,Success
+1541,Tablus,16000000,operating,CA,San Mateo,1,2,0,,Not_Success
+1542,Tacit Software,,acquired,CA,Palo Alto,1,1,2,Negative,Success
+1543,TAGSYS RFID Group,57884800,operating,PA,King of Prussia,3,7,0,,Not_Success
+1544,Take the Interview,3096763,operating,NY,New York,3,4,132,Positive,Not_Success
+1545,Talisma,7070000,acquired,FL,Boca Raton,1,1,0,,Success
+1546,Talyst,30000000,operating,WA,BELLEVUE,2,3,0,,Not_Success
+1547,TapInfluence,8200000,operating,CO,Boulder,2,4,0,,Not_Success
+1548,TAZZ Networks,6000000,operating,RI,Providence,1,5,0,,Not_Success
+1549,TeachScape,16000000,operating,CA,San Francisco,1,1,0,,Not_Success
+1550,Tectura,10000000,operating,CA,Redwood City,1,2,0,,Not_Success
+1551,Teja Technologies,14500000,operating,CA,San Jose,2,9,0,,Not_Success
+1552,Telarix,29500000,operating,VA,Vienna,3,6,0,,Not_Success
+1553,Telligent Systems,29475000,operating,TX,Dallas,3,1,0,,Not_Success
+1554,Tempo Payments,20000000,operating,CA,San Mateo,4,11,0,,Not_Success
+1555,Tendril,111190000,operating,CO,Boulder,7,15,1,Positive,Not_Success
+1556,Tenebril,3030000,operating,MA,Framingham,1,1,0,,Not_Success
+1557,Tenrox,3900000,operating,CA,Glendale,1,1,1,Negative,Not_Success
+1558,tenXer,4700000,operating,CA,San Francisco,2,5,0,,Not_Success
+1559,TEOCO Corporation,60000000,operating,VA,Fairfax,1,1,0,,Not_Success
+1560,Teranode,10400000,operating,WA,Seattle,2,4,0,,Not_Success
+1561,Terascala,20225000,operating,MA,Avon,6,2,0,,Not_Success
+1562,Terracotta,23500000,acquired,CA,San Francisco,2,10,4,Positive,Success
+1563,TerraGo Technologies,20848426,operating,GA,Atlanta,5,9,0,,Not_Success
+1564,TerraSpark Geosciences,6000000,operating,CO,Westminster,1,1,0,,Not_Success
+1565,TestQuest,7500000,acquired,MN,Minneapolis,1,3,0,,Success
+1566,Texert,3000000,operating,TX,Dallas,1,1,0,,Not_Success
+1567,The Multiverse Network,11600000,operating,CA,Mountain View,4,2,0,,Not_Success
+1568,The Neat Company,15550000,operating,PA,Philadelphia,3,5,25,Negative,Not_Success
+1569,The One-Page Company,1800000,operating,CA,San Francisco,2,3,96,Negative,Not_Success
+1570,The Rainmaker Group,42800000,operating,GA,Alpharetta,2,2,0,,Not_Success
+1571,The Resumator,2975000,operating,PA,Pittsburgh,5,12,0,,Not_Success
+1572,TheraVid,50000,operating,MA,Cambridge,1,1,0,,Not_Success
+1573,thereNow,1350000,operating,UT,North Logan,2,2,0,,Not_Success
+1574,Thing Labs,2200000,acquired,CA,San Francisco,2,8,20,Negative,Success
+1575,ThingWorx,18399971,operating,PA,Downingtown,3,2,0,,Not_Success
+1576,Thinkspeed,,operating,TX,Austin,1,1,0,,Not_Success
+1577,ThinkVine,8000000,operating,OH,Cincinnati,1,4,0,,Not_Success
+1578,This Technology,7500000,operating,NY,New York,1,1,1836,Positive,Not_Success
+1579,"Thru, Inc.",14734000,operating,TX,Irving,4,14,0,,Not_Success
+1580,Ticket Evolution,3500000,operating,NJ,Jersey City,1,2,0,,Not_Success
+1581,TicketBiscuit,,operating,AL,Birmingham,1,1,0,,Not_Success
+1582,TinderBox,1300000,operating,IN,Indianapolis,1,1,3,Negative,Not_Success
+1583,Tintri,60000000,operating,CA,Mountain View,3,7,0,,Not_Success
+1584,Tipbit,1950000,operating,WA,Bellevue,1,2,0,,Not_Success
+1585,TOA Technologies,96200000,operating,OH,Beachwood,3,10,0,,Not_Success
+1586,TopChalks,3800000,operating,CA,Santa Clara,1,1,0,,Not_Success
+1587,TopTal,,operating,CA,"Palo Alto,",1,6,0,,Not_Success
+1588,ToutApp,1270000,operating,CA,San Francisco,2,8,0,,Not_Success
+1589,Tracky,1500000,operating,NV,Las Vegas,2,1,0,,Not_Success
+1590,TraderTools,9800000,operating,NY,New York,2,2,0,,Not_Success
+1591,Tradeshift,24000000,operating,CA,San Francisco,2,4,0,,Not_Success
+1592,Trading Metrics,4000000,operating,NY,New York,1,1,11,Negative,Not_Success
+1593,TrakBill,600000,operating,MO,Saint Louis,3,3,0,,Not_Success
+1594,Transactis,25700000,acquired,NY,Charlotte,7,7,0,,Success
+1595,Transcepta,3000000,operating,CA,Aliso Viejo,1,1,0,,Not_Success
+1596,TranscribeMe,1350000,operating,CA,Emeryville,2,8,0,,Not_Success
+1597,Transera Communications,37000000,operating,CA,Sunnyvale,3,10,0,,Not_Success
+1598,Transparency Software,12050000,operating,CA,Palo Alto,2,4,5,Positive,Not_Success
+1599,TrendKite,1200000,operating,TX,Austin,1,6,0,,Not_Success
+1600,TrenStar,10000000,acquired,CO,Greenwood Village,1,1,0,,Success
+1601,TriActive,2100000,operating,TX,Austin,1,3,0,,Not_Success
+1602,Trifacta,4300000,operating,CA,San Francisco,1,6,0,,Not_Success
+1603,TriggerMail,1219452,operating,NY,New York,2,1,0,,Not_Success
+1604,Triumfant,9000000,operating,MD,Rockville,1,4,0,,Not_Success
+1605,Trov,6800000,operating,CA,San Ramon,1,1,0,,Not_Success
+1606,True North Technology,3250000,operating,GA,Duluth,1,1,2,Negative,Not_Success
+1607,TrueDemand Software,16700000,acquired,CA,Los Gatos,3,8,0,,Success
+1608,TruMarx Data Partners,500000,operating,IL,Chicago,2,1,0,,Not_Success
+1609,Trumba Corporation,8000000,operating,WA,Seattle,1,3,0,,Not_Success
+1610,Trustribe,,operating,CA,San Francisco,1,1,0,,Not_Success
+1611,Truveris,13800000,operating,NY,New York,2,7,0,,Not_Success
+1612,TRX Systems,2000000,operating,MD,Greenbelt,2,4,0,,Not_Success
+1613,tsumobi,,operating,MA,Cambridge,2,2,0,,Not_Success
+1614,tvCompass,5100000,operating,IL,Chicago,1,1,0,,Not_Success
+1615,Twisted Pair Solutions,9000000,operating,WA,Seattle,1,3,0,,Not_Success
+1616,Typesafe,17000000,operating,CA,San Francisco,2,5,0,,Not_Success
+1617,U.S. TrailMaps,600000,operating,WI,Wausau,1,1,0,,Not_Success
+1618,Ubicom,47806598,operating,CA,San Jose,5,13,0,,Not_Success
+1619,uCirrus,13104964,operating,CA,San Mateo,4,4,0,,Not_Success
+1620,UIEvolution,11999994,operating,WA,Kirkland,3,2,0,,Not_Success
+1621,uLocate Communications,11000000,operating,MA,Boston,1,3,0,,Not_Success
+1622,Umbie Health,470000,operating,CT,East Hartford,2,1,0,,Not_Success
+1623,UnboundID,14500000,operating,TX,Austin,2,2,0,,Not_Success
+1624,Unidesk,21050001,operating,MA,Marlborough,2,4,0,,Not_Success
+1625,Unified Color,,operating,CA,South San Frnacisco,1,1,0,,Not_Success
+1626,UNIFY,38000000,operating,CA,Roseville,1,1,21,Positive,Not_Success
+1627,Union Bay Networks,1850000,operating,WA,Seattle,1,4,0,,Not_Success
+1628,Unitask,2500000,operating,MI,Bloomfield Hills,1,2,0,,Not_Success
+1629,Unitrends Software,20600000,operating,SC,Columbia,3,8,0,,Not_Success
+1630,Univa,17385708,operating,IL,Hoffman Estates,2,6,0,,Not_Success
+1631,Univa UD,33000000,acquired,IL,Lisle,4,16,0,,Success
+1632,Universal Robotics,1040000,operating,TN,Nashville,1,1,0,,Not_Success
+1633,Untangle,18500000,operating,CA,Sunnyvale,3,5,8,Negative,Not_Success
+1634,UpdateLogic,18973011,operating,MA,Southborough,3,2,0,,Not_Success
+1635,Updox,500000,operating,OH,Dublin,1,1,0,,Not_Success
+1636,Upland Software,3500000,operating,MA,Cambridge,1,3,0,,Not_Success
+1637,UserVoice,1800000,operating,CA,San Francisco,2,17,0,,Not_Success
+1638,ustyme,2000000,operating,CA,Sausalito,1,1,0,,Not_Success
+1639,uTest,37800000,operating,MA,Southborough,5,10,0,,Not_Success
+1640,Utility Associates,1500000,operating,GA,Tucker,1,1,0,,Not_Success
+1641,UTOPY,7500000,acquired,CA,San Francisco,1,2,0,,Success
+1642,V.i. Laboratories,8500000,operating,MA,Waltham,2,3,0,,Not_Success
+1643,Valchemy,8500000,acquired,CA,San Mateo,1,4,0,,Success
+1644,VantageILM,1300000,operating,CA,Altadena,1,2,0,,Not_Success
+1645,Vanu,42150000,operating,MA,Cambridge,3,4,0,,Not_Success
+1646,vArmour Networks,6000000,operating,CA,Santa Clara,1,1,0,,Not_Success
+1647,Varolii,11000000,operating,WA,Seattle,2,5,0,,Not_Success
+1648,Varonis Systems,26139992,operating,NY,New York,3,7,0,,Not_Success
+1649,VaST Systems Technology,24000000,operating,CA,Sunnyvale,2,7,2,Negative,Not_Success
+1650,Vayusa,10000000,operating,MA,Watertown,1,3,0,,Not_Success
+1651,Vcommerce,13000000,operating,AZ,Scottsdale,1,1,0,,Not_Success
+1652,vcopious Software,,operating,PA,Conshohocken,1,3,0,,Not_Success
+1653,Veeam Software,,operating,OH,Columbus,1,1,0,,Not_Success
+1654,Veeva,4000000,operating,CA,Pleasanton,1,1,0,,Not_Success
+1655,Vela Systems,12000000,acquired,MA,Burlington,3,8,0,,Success
+1656,Velocify,20250000,operating,CA,El Segundo,2,3,0,,Not_Success
+1657,Veloxum Corporation,2000000,operating,CA,Scotts Valley,1,1,0,,Not_Success
+1658,Vendavo,15000000,operating,CA,Mountain View,1,5,0,,Not_Success
+1659,Veracity Payment Solutions,80000000,operating,GA,Atlanta,1,1,0,,Not_Success
+1660,Vericept,20500000,acquired,CO,Denver,2,5,0,,Success
+1661,Verient,10379997,operating,CA,San Jose,4,4,0,,Not_Success
+1662,Verimatrix,39300000,operating,CA,San Diego,5,13,0,,Not_Success
+1663,Verix,12700000,operating,CA,Mountain View,1,3,0,,Not_Success
+1664,Versify Solutions,3841004,operating,PA,Glen Mills,3,1,0,,Not_Success
+1665,VersionOne,6500000,operating,GA,Alpharetta,1,1,0,,Not_Success
+1666,Versly,,acquired,CA,San Francisco,1,7,0,,Success
+1667,Vertica Systems,30500000,acquired,MA,Billerica,3,8,0,,Success
+1668,Vettro,15000000,operating,NY,New York,1,1,0,,Not_Success
+1669,VFA,3000000,operating,MA,Boston,1,1,0,,Not_Success
+1670,Vhayu Technologies,10250000,acquired,CA,Los Gatos,1,4,0,,Success
+1671,Vico Software,3600000,operating,CO,Boulder,1,3,0,,Not_Success
+1672,VictorOps,8107500,operating,CO,Boulder,3,6,0,,Not_Success
+1673,Videolicious,3650000,operating,NJ,Newark,2,10,0,,Not_Success
+1674,Vidient,12000000,operating,CA,Santa Clara,1,4,0,,Not_Success
+1675,VidSys,18650000,operating,MA,Marlborough,3,5,0,,Not_Success
+1676,Vigilistics,620000,operating,AR,Irvine,1,1,0,,Not_Success
+1677,Vigilix,120000,operating,SC,Greenville,1,1,0,,Not_Success
+1678,Vigilos,7400000,operating,WA,Seattle,2,3,0,,Not_Success
+1679,Viridity Software,15000000,operating,MA,Burlington,2,4,0,,Not_Success
+1680,Virsto Software,24000000,acquired,CA,Sunnyvale,3,10,0,,Success
+1681,Virtual Bridges,4000000,operating,TX,Austin,1,1,0,,Not_Success
+1682,Virtual Computer,21000000,acquired,MA,Westford,2,5,15,Positive,Success
+1683,Virtual Iron Software,24500000,acquired,MA,Lowell,2,12,0,,Success
+1684,Virtual Race Bags,1550000,operating,NC,Charlotte,2,2,0,,Not_Success
+1685,VirtualLogix,29288979,acquired,CA,Sunnyvale,4,8,0,,Success
+1686,VirtualSharp Software,2547600,operating,VA,McLean,1,3,0,,Not_Success
+1687,VirtualWorks Group,8500000,operating,FL,Boca Raton,1,1,0,,Not_Success
+1688,Virtugo Software,17600000,operating,OR,Beaverton,2,5,0,,Not_Success
+1689,VisionShare,6000000,operating,MN,Minneapolis,2,2,0,,Not_Success
+1690,Visiprise,32000000,operating,GA,Alpharetta,1,6,0,,Not_Success
+1691,Visitar,3600000,operating,NC,Morrisville,1,2,0,,Not_Success
+1692,Visual IQ,15000000,operating,MA,Needham,2,2,0,,Not_Success
+1693,Visual Networks,10000000,operating,MD,Rockville,1,1,3,Negative,Not_Success
+1694,VisualOn,3100000,operating,CA,Santa Clara,2,4,0,,Not_Success
+1695,VisualShare,260000,operating,UT,Salt Lake City,2,1,0,,Not_Success
+1696,Vivisimo,5660000,acquired,PA,Pittsburgh,5,5,0,,Success
+1697,Vizerra,16000000,operating,CA,San-Francisco,3,3,0,,Not_Success
+1698,"VKernel, now a part of Dell",7000000,acquired,MA,Boston,1,3,0,,Success
+1699,VMLogix,3500000,operating,CA,Santa Clara,1,1,0,,Not_Success
+1700,VMware,368500000,acquired,CA,Palo Alto,2,2,39,Positive,Success
+1701,Vocalocity,8200000,operating,GA,Atlanta,2,4,0,,Not_Success
+1702,Vocent,6400000,acquired,CA,Mountain View,1,2,0,,Success
+1703,Vontu,20000000,acquired,CA,San Francisco,2,9,0,,Success
+1704,VOSS Solutions,32000000,operating,TX,Richardson,3,9,0,,Not_Success
+1705,Votigo,1265000,operating,CO,Boulder,1,1,0,,Not_Success
+1706,Voxware,2250000,operating,NJ,Hamilton,1,1,0,,Not_Success
+1707,VPIsystems,13000000,acquired,NJ,Holmdel,2,12,0,,Success
+1708,Vringo,36982000,ipo,NY,New York,6,3,0,,Success
+1709,VSoft,10000000,operating,GA,Duluth,1,1,0,,Not_Success
+1710,Vurv Technology,5000000,acquired,FL,Jacksonville,1,2,0,,Success
+1711,Vuzit,355000,operating,PA,Philadelphia,3,2,0,,Not_Success
+1712,Vyatta,40800000,operating,CA,Belmont,4,15,0,,Not_Success
+1713,WANdisco,54789777,ipo,CA,San Ramon,2,4,0,,Success
+1714,WaterSmart Software,5400000,operating,CA,San Francisco,2,8,0,,Not_Success
+1715,Watt & Company,2410000,operating,TX,Dallas,1,1,6,Positive,Not_Success
+1716,Wavemaker Software,14500000,acquired,CA,San Francisco,2,6,0,,Success
+1717,WaveSyndicate,350000,operating,RI,Providence,1,1,0,,Not_Success
+1718,WebCollage,17598940,acquired,NY,New York,4,7,0,,Success
+1719,WebGen Systems,9500000,operating,MA,Cambridge,1,2,0,,Not_Success
+1720,WebLayers,10000000,operating,MA,Cambridge,2,6,0,,Not_Success
+1721,webmynd,604400,operating,CA,San Francisco,3,9,0,,Not_Success
+1722,Websense,18000000,ipo,CA,San Diego,1,4,10,Negative,Success
+1723,WebVisible,37000000,closed,CA,Playa Vista,3,4,0,,Not_Success
+1724,WePay,19150000,operating,CA,Palo Alto,4,13,2,Negative,Not_Success
+1725,Weston Software,1577460,operating,CT,Westport,2,1,0,,Not_Success
+1726,Whale Communications,15000000,acquired,NJ,Fort Lee,3,5,0,,Success
+1727,Whittle,1300000,operating,TX,Austin,1,2,15,Negative,Not_Success
+1728,Wikisway,140000,operating,OR,Portland,1,1,0,,Not_Success
+1729,Wimba,25089334,operating,NY,New York,4,6,0,,Not_Success
+1730,Winshuttle,12000000,operating,WA,Bothell,1,1,0,,Not_Success
+1731,Wireless Glue Networks,4500000,operating,CA,Lafayette,1,4,0,,Not_Success
+1732,Work For Pie,315000,operating,TN,Memphis,4,5,39,Negative,Not_Success
+1733,WorkFlex Solutions,1500000,operating,OH,Cincinnati,1,1,0,,Not_Success
+1734,WorkForce Software,17000000,operating,MI,Livonia,1,2,14,Positive,Not_Success
+1735,Workshare,55171635,operating,CA,California,2,6,2,Negative,Not_Success
+1736,Worksoft,15000000,operating,TX,Addison,2,2,0,,Not_Success
+1737,Worldly Developments,800000,operating,CA,San Francisco,2,15,0,,Not_Success
+1738,WSO2,20500000,operating,CA,Palo Alto,3,6,0,,Not_Success
+1739,Wymsee,,operating,MA,Cambridge,1,1,0,,Not_Success
+1740,X1 Technologies,10000000,operating,CA,Pasadena,2,3,0,,Not_Success
+1741,Xamarin,28000000,operating,CA,San Francisco,2,7,0,,Not_Success
+1742,Xand,200000000,operating,NY,Hawthorne,1,1,0,,Not_Success
+1743,Xangati,10700000,operating,CA,Cupertino,1,2,0,,Not_Success
+1744,XATA,30000000,ipo,MN,Eden Prairie,1,2,0,,Success
+1745,Xbio Systems,2230000,operating,PA,Harrisburg,1,2,0,,Not_Success
+1746,Xelor Software,6000000,operating,NH,Salem,1,4,0,,Not_Success
+1747,Xenon Arc,27509998,operating,WA,Bellevue,2,1,0,,Not_Success
+1748,XenSource,38000000,operating,CA,Palo Alto,3,11,0,,Not_Success
+1749,XIFIN,2000000,operating,CA,San Diego,1,4,0,,Not_Success
+1750,xkoto,11035000,operating,MA,Waltham,3,5,0,,Not_Success
+1751,XLerant,4525000,operating,CT,Stamford,3,3,0,,Not_Success
+1752,XMPie,9000000,acquired,NY,New York,3,3,0,,Success
+1753,Xobni,41752000,acquired,CA,San Francisco,8,30,0,,Success
+1754,Xoomsys,8000000,operating,CA,Cupertino,1,3,0,,Not_Success
+1755,XOS Digital,59821495,operating,MA,North Billerica,6,4,0,,Not_Success
+1756,Xterprise Solutions,2000000,operating,TX,Carrollton,1,1,0,,Not_Success
+1757,Xtime,26000000,operating,CA,Redwood Shores,2,5,0,,Not_Success
+1758,yaM Labs,500000,operating,VA,Alexandria,1,1,0,,Not_Success
+1759,YCD Multimedia,32500000,operating,NY,New York,4,9,0,,Not_Success
+1760,Yext,65750000,operating,NY,New York,6,17,0,,Not_Success
+1761,YottaMark,42000000,operating,CA,Redwood City,3,10,0,,Not_Success
+1762,Zadara Storage,10000000,operating,CA,Irvine,2,1,0,,Not_Success
+1763,Zadspace,3200000,operating,,,1,6,0,,Not_Success
+1764,ZALP,,operating,,,1,1,0,,Not_Success
+1765,Zapier,1200000,operating,CA,Mountain View,2,4,0,,Not_Success
+1766,Zapproved,1450000,operating,OR,Portland,1,6,0,,Not_Success
+1767,Zazuba,150000,operating,DC,Washington,1,1,0,,Not_Success
+1768,Zencoder,2000000,acquired,CA,San Francisco,2,17,0,,Success
+1769,Zend Technologies,44000000,operating,CA,Cupertino,4,18,0,,Not_Success
+1770,Zendesk,85500000,operating,CA,San Francisco,5,15,1,Negative,Not_Success
+1771,Zenitum,1000000,operating,CA,Sunnyvale,1,1,0,,Not_Success
+1772,Zenoss,40800000,operating,MD,Annapolis,3,12,1,Negative,Not_Success
+1773,ZenPayroll,6100000,operating,CA,San Francisco,1,19,1,Negative,Not_Success
+1774,ZeroTurnaround,,operating,MA,Tartu,1,2,0,,Not_Success
+1775,Zet Universe,12000,operating,MA,Boston,3,3,0,,Not_Success
+1776,Zettics,8200000,operating,,Concord,1,4,0,,Not_Success
+1777,Zeuss,,operating,CA,San Francisco,1,1,0,,Not_Success
+1778,Zilliant,29100000,operating,TX,Austin,3,13,0,,Not_Success
+1779,ZimpleMoney,600000,operating,CA,Costa Mesa,1,2,0,,Not_Success
+1780,ZManda,21000000,acquired,CA,Sunnyvale,3,8,0,,Success
+1781,Zonoff,3800000,operating,PA,Malvern,1,2,0,,Not_Success
+1782,ZoopShop,20000,operating,OH,columbus,1,1,0,,Not_Success
+1783,Zuora,127500000,operating,CA,Foster City,5,27,0,,Not_Success
