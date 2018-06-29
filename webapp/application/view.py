@@ -13,9 +13,9 @@ def input():
 @app.route('/output', methods=['GET', 'POST'])
 def get_model_output():
     Company = request.args.get('Company')
-    blurb, color = get_prediction(Company)
+    blurb, color,px = get_prediction(Company)
     return render_template('output.html', title='Results', 
-                           blurb=blurb, color=color)
+                           blurb=blurb, color=color, Company=Company,px=px)
 
 import sys
 print('This error output', file=sys.stderr)

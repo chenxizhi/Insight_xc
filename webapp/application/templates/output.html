@@ -16,11 +16,27 @@
 
     </head>
 
-    <body>
-        <div class='container'>
-            <h2>{{blurb}}</h2>
+<style>
+.bg_xc  {
+  background-image: url("https://s3-us-west-2.amazonaws.com/supermoney-blog/wp-content/uploads/2017/12/venture-capital-firms.jpg");
+  height: 100%;
+  /* Full height */
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+</style>
+
+
+    <body class="bg_xc">
+        <div class='container' align='center'>
+            <h1>{{blurb}}</h1>
             <h2 style='color: {{color}}'></h2>
-            <a style='font-size: 15pt' href='http://localhost:5000/input'>Check out another Start-up</a>
+            <h2>The success rate of {{Company}} is higher than {{px}}% software startups in our database</h2>
+            <br><br>
+	    <a style='font-size: 15pt' href='http://xintong.icu/input'>Check out another Start-up</a>
         </div>
     </body>
 
