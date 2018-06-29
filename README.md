@@ -8,6 +8,8 @@ During my first three week at Insight, I built a classifer predicting whether a 
 ### Background
 
 ### Model
+![alt text](http://url/to/img.png)
+![](img/Classifiers.png)
 
 ### Application
 
